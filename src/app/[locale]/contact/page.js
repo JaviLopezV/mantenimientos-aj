@@ -1,5 +1,6 @@
-import { useTranslations } from "next-intl";
-import { Typography } from "@mui/material";
+import dynamic from "next/dynamic";
+
+const ContactPage = dynamic(() => import("./ContactPage"), { ssr: false });
 
 export async function generateMetadata({ params }) {
   const { locale } = params;
@@ -16,8 +17,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function Contact() {
-  const t = useTranslations();
-
-  return <Typography variant="h3">{t("contact")}</Typography>;
+export default function Page() {
+  return <ContactPage />;
 }
