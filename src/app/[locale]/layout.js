@@ -30,6 +30,12 @@ export default async function LocaleLayout({ children, params }) {
 
   return (
     <html lang={locale}>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="SWoP3vXcEcYrXGFf4wbGKBdc79pNIsc_tykYLQ1ha9M"
+        />
+      </head>
       <body>
         <LocaleProvider locale={locale} messages={messages}>
           {/* Header with locale switcher */}
