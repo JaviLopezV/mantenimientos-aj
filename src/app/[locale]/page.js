@@ -1,6 +1,6 @@
-"use client";
-import { useTranslations } from "next-intl";
-import { Typography } from "@mui/material";
+import dynamic from "next/dynamic";
+
+const HomePage = dynamic(() => import("./HomePage"), { ssr: false });
 
 export async function generateMetadata({ params }) {
   const { locale } = params;
@@ -24,8 +24,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function Home() {
-  const t = useTranslations();
-
-  return <Typography variant="h3">{t("home")}</Typography>;
+export default function Page() {
+  return <HomePage />;
 }
