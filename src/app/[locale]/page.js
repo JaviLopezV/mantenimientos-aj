@@ -11,6 +11,15 @@ export async function generateMetadata({ params }) {
   return {
     title: messages.Seo.home.title,
     description: messages.Seo.home.description,
+    keywords: [
+      messages.Seo.keywords.keyword1,
+      messages.Seo.keywords.keyword2,
+      messages.Seo.keywords.keyword3,
+      messages.Seo.keywords.keyword4,
+      messages.Seo.keywords.keyword5,
+      messages.Seo.keywords.keyword6,
+      messages.Seo.keywords.keyword7,
+    ],
     alternates: {
       canonical: `https://extintores-panoramica-aj.vercel.app/${locale}`,
       languages: {
