@@ -1,0 +1,286 @@
+{
+  "Seo": {
+    "home": {
+      "title": "Extintores Panorámica AJ - Brandschutzlösungen",
+      "description": "Spezialisten für Feuerlöscher, Wartung und professionelle Brandschutzlösungen."
+    },
+    "contact": {
+      "title": "Kontakt | Extintores Panorámica AJ",
+      "description": "Kontaktieren Sie uns für Fragen oder Brandschutzdienstleistungen."
+    },
+    "products": {
+      "title": "Produkte | Extintores Panorámica AJ",
+      "description": "Entdecken Sie unsere zertifizierten Brandschutzprodukte und Feuerlöscher."
+    }
+  },
+
+  "home": "Startseite",
+  "products": "Produkte",
+  "navbar3": "Brandschutz",
+  "navbar4": "Niederspannung",
+  "about": "Über Uns",
+  "contact": "Kontakt",
+  "videos": "Videos",
+  "quote": "Angebot Anfragen",
+  "title": "Website im Aufbau",
+  "subtitle": "Wir arbeiten daran, die Website bald fertigzustellen. Vielen Dank für deine Geduld!",
+  "privacy_policy_title": "Datenschutzerklärung",
+  "intro": "In Übereinstimmung mit der Verordnung (EU) 2016/679 (DSGVO) und dem Bundesdatenschutzgesetz informieren wir dich über die Verarbeitung deiner personenbezogenen Daten:",
+  "responsible": "1. Verantwortlicher für die Datenverarbeitung",
+  "responsible_name": "- Verantwortlicher:",
+  "responsible_nif": "- Steuer-ID:",
+  "responsible_address": "- Adresse:",
+  "responsible_email": "- E-Mail:",
+  "purpose": "2. Zweck der Verarbeitung",
+  "purpose_content": "Deine Daten werden ausschließlich zur Bearbeitung und Beantwortung von Anfragen verwendet, die über das Kontaktformular gesendet werden.",
+  "legal": "3. Rechtsgrundlage",
+  "legal_content": "Die Rechtsgrundlage ist deine ausdrückliche Einwilligung, die du durch das Ankreuzen des entsprechenden Kästchens vor dem Absenden des Formulars erteilst.",
+  "data": "4. Verarbeitete Daten",
+  "data_content": "Folgende Daten werden verarbeitet: Name, E-Mail-Adresse und Inhalt der Nachricht.",
+  "recipients": "5. Empfänger der Daten",
+  "recipients_content_1": "Die Daten werden nicht an Dritte weitergegeben, außer wenn dies gesetzlich vorgeschrieben ist. Für den Versand der Formulare wird EmailJS verwendet:",
+  "recipients_content_2": "- Anbieter: EmailJS Inc.",
+  "recipients_content_3": "- Zweck: Versand von E-Mails über das Formular",
+  "recipients_content_4": "- Datenschutzrichtlinie:",
+  "retention": "6. Speicherung der Daten",
+  "retention_content": "Die Daten werden maximal 12 Monate oder so lange wie nötig zur Beantwortung deiner Anfrage gespeichert.",
+  "rights": "7. Rechte der Nutzer",
+  "rights_content": "Du kannst deine Rechte auf Auskunft, Berichtigung, Löschung, Widerspruch, Einschränkung und Datenübertragbarkeit ausüben, indem du eine E-Mail an info@extintorespanoramica.com sendest. Du kannst auch eine Beschwerde bei der Datenschutzbehörde einreichen:",
+  "security": "8. Sicherheitsmaßnahmen",
+  "security_content": "Es wurden technische und organisatorische Maßnahmen ergriffen, um deine Daten vor unbefugtem Zugriff oder versehentlichem Verlust zu schützen.",
+  "changes": "9. Änderungen dieser Richtlinie",
+  "changes_content_1": "Wir behalten uns das Recht vor, diese Richtlinie zu aktualisieren, um gesetzliche Änderungen zu berücksichtigen.",
+  "changes_content_2": "Letzte Aktualisierung: ",
+  "privacy_policy_reed": "Ich habe die",
+  "privacy_policy": "Datenschutzerklärung gelesen und akzeptiere sie",
+  "first_name": "Vorname",
+  "last_name": "Nachname",
+  "address_line": "Adresse",
+  "city": "Stadt",
+  "message": "Nachricht",
+  "postcode": "Postleitzahl",
+  "send": "Senden",
+  "accept_terms": "Du musst die Allgemeinen Geschäftsbedingungen akzeptieren.",
+  "message_sent_success": "Nachricht erfolgreich gesendet.",
+  "message_sent_error": "Es gab einen Fehler, bitte versuche es erneut.",
+  "contact_us": "Kontaktiere uns",
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Letzte Aktualisierung: 24. Mai 2025",
+    "section1": {
+      "title": "1. Nutzung der Website",
+      "content": "Diese Website dient ausschließlich Informationszwecken. Du kannst frei durch unsere Bereiche navigieren, unsere Produkte und Installationen ansehen und uns über das Formular kontaktieren. Missbräuchliche Nutzung der Website ist strengstens untersagt."
+    },
+    "section2": {
+      "title": "2. Geistiges Eigentum",
+      "content": "Alle Inhalte dieser Website, einschließlich Texte, Bilder, Logos, Grafiken und visuelles Design, sind Eigentum des Unternehmens oder ihrer jeweiligen Rechteinhaber und durch geistige Eigentumsrechte geschützt."
+    },
+    "section3": {
+      "title": "3. Kontakt via EmailJS",
+      "content": "Das Kontaktformular verwendet EmailJS. Durch die Nutzung erklärst du dich damit einverstanden, dass deine Daten zur Beantwortung deiner Anfrage verarbeitet werden. Weitere Details findest du in unserer Datenschutzerklärung."
+    },
+    "section4": {
+      "title": "4. Genauigkeit der Inhalte",
+      "content": "Wir bemühen uns, die Informationen aktuell zu halten, können jedoch keine vollständige Genauigkeit oder Fehlerfreiheit garantieren."
+    },
+    "section5": {
+      "title": "5. Haftungsbeschränkung",
+      "content": "Wir übernehmen keine Haftung für Schäden, die aus der Nutzung der Website entstehen, sowie für technische Fehler oder Probleme mit externen Diensten."
+    },
+    "section6": {
+      "title": "6. Verlinkungen zu Dritten",
+      "content": "Wir können Links zu Websites Dritter enthalten. Wir kontrollieren deren Inhalte oder Richtlinien nicht und übernehmen keine Verantwortung dafür."
+    },
+    "section7": {
+      "title": "7. Änderungen der Bedingungen",
+      "content": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Die fortgesetzte Nutzung bedeutet die Akzeptanz der Änderungen."
+    },
+    "section8": {
+      "title": "8. Kontakt",
+      "content": "Bei Fragen kontaktiere uns unter: "
+    }
+  },
+  "email": "E-Mail:",
+  "phone": "Telefon:",
+  "contact_intro": "Wenn du Fragen oder Anliegen hast, zögere nicht, uns zu kontaktieren.",
+  "where_are_we": "Wo sind wir?",
+  "location_description": "Wir befinden uns an einem leicht zugänglichen Ort.",
+  "newsletter_cta": "Abonniere unseren Newsletter für wöchentliche Updates. Kein Spam!",
+  "join_newsletter": "Newsletter abonnieren",
+  "latest": "Neueste",
+  "your_email": "Deine E-Mail",
+  "install_app": "App installieren",
+  "no_thanks": "Nein, danke",
+
+  "slide1": "Inspektion ist keine Routine - sie stellt sicher, dass alles funktioniert, wenn es am wichtigsten ist",
+  "slide2": "Der beste Notfall ist der, der nie eintritt - eine gute Inspektion macht das möglich",
+  "slide3": "Jedes Inspektionssiegel ist ein eingelöstes Sicherheitsversprechen",
+  "title_1": "Maßgeschneiderter Brandschutz",
+  "title_2": "Bei Extintores Panorámica AJ, S.L. schützen wir, was am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Sicherheit – mit umfassenden und zertifizierten Lösungen zur Brandverhütung und -bekämpfung.",
+  "lowVoltageInspection": {
+    "title": "Niederspannungsprüfung",
+    "intro1": "Die Niederspannungsprüfung ist ein grundlegender technischer Prozess, der den ordnungsgemäßen Betrieb, die Sicherheit und die Einhaltung gesetzlicher Vorschriften von elektrischen Anlagen mit Spannungen unter 1.000 V Wechselstrom oder 1.500 V Gleichstrom gewährleistet.",
+    "intro2": "Im Bereich des Brandschutzes ist diese Art der Inspektion unerlässlich, da viele Notfälle durch elektrische Fehler verursacht werden, die durch eine ordnungsgemäße Überprüfung hätten verhindert werden können.",
+    "purposes": {
+      "title": "Wozu dient sie?",
+      "items": {
+        "item1": "Verhinderung elektrischer Risiken und Brände: Erkennt Überlastungen, defekte Kabel, lose oder falsch dimensionierte Anschlüsse.",
+        "item2": "Überprüfung der gesetzlichen Vorschriften: Stellt die Einhaltung der REBT und der geltenden Normen sicher.",
+        "item3": "Schutz von Personen und Eigentum: Minimiert das Risiko von Stromschlägen und Sachschäden.",
+        "item4": "Sicherstellung des ordnungsgemäßen Betriebs von Notfallsystemen: Gewährleistet eine sichere Stromversorgung für Brandschutzgeräte."
+      }
+    },
+    "inspectedItems": {
+      "title": "Was wird überprüft?",
+      "items": {
+        "item1": "Zustand und Dimensionierung von Kabeln und Leitungen.",
+        "item2": "Verteilerkästen und Fehlerstromschutzschalter.",
+        "item3": "Erdungsanschlüsse und Erdungssysteme.",
+        "item4": "Leistungsschalter und Trennvorrichtungen.",
+        "item5": "Kompatibilität und Sicherheit der elektrischen Systeme zur Stromversorgung von Brandschutzeinrichtungen."
+      }
+    },
+    "whoPerforms": {
+      "title": "Wer führt sie durch?",
+      "description": "Diese Art von Inspektionen muss von qualifiziertem Fachpersonal unter Verwendung zertifizierter Messgeräte durchgeführt werden. In vielen Einrichtungen – wie öffentlichen Orten, Industriebetrieben oder Gebäuden mit Brandschutzsystemen – sind diese Inspektionen verpflichtend und regelmäßig durchzuführen."
+    }
+  },
+
+  "fireMaintainceTitle": "Wartung und Installation von Brandschutzanlagen",
+  "fireMaintainceSubtitle": "Wir schützen, was am wichtigsten ist: Ihre Sicherheit.",
+  "fireMaintainceDescription": "Wir sind spezialisiert auf Planung, Installation und Wartung von Brandschutzsystemen und bieten umfassende Lösungen zur Prävention, Erkennung und effektiven Reaktion auf Notfälle.",
+  "installations": {
+    "title": "Installation von Brandschutzsystemen",
+    "description": "Wir implementieren maßgeschneiderte Systeme gemäß geltenden Vorschriften und spezifischen Anforderungen:",
+    "items": {
+      "item1": "Automatische Erkennungssysteme (Rauch, Hitze, Gase)",
+      "item2": "Löschung mit Wasser (Sprinkler, Wandhydranten, Hydranten)",
+      "item3": "Saubere Gassysteme (FM-200, CO₂)",
+      "item4": "Beschilderung und Evakuierung",
+      "item5": "Ersteinsatzgeräte"
+    }
+  },
+  "maintenance": {
+    "title": "Vorbeugende und Korrektive Wartung",
+    "description": "Wartungspläne, die an eine optimale Funktion angepasst sind:",
+    "items": {
+      "item1": "Regelmäßige Überprüfungen und Dokumentation",
+      "item2": "Funktions- und Drucktests",
+      "item3": "Austausch defekter Teile",
+      "item4": "Dringende technische Unterstützung"
+    }
+  },
+  "benefits": {
+    "title": "Warum uns wählen?",
+    "items": {
+      "item1": "Zertifizierung und Normkonformität (UNE, NFPA, RIPCI)",
+      "item2": "Qualifiziertes Personal und ständige Weiterbildung",
+      "item3": "Erfahrung in Industrie-, Handels- und öffentlichen Sektoren",
+      "item4": "Personalisierte Betreuung und schneller Service"
+    }
+  },
+
+  "categories": {
+    "title": "Kategorien",
+    "fireDetection": "Branderkennung",
+    "alarmsAndSignaling": "Alarme und Signalisierung",
+    "fireExtinction": "Brandbekämpfung",
+    "waterSystems": "Wassersysteme",
+    "personalProtection": "Persönliche Schutzausrüstung",
+    "inspectionAndMeasurement": "Inspektion und Messung",
+    "maintenance": "Wartung",
+    "documentationAndSignage": "Dokumentation und Beschilderung",
+    "complementarySystems": "Ergänzende Systeme"
+  },
+  "allProducts": {
+    "smokeDetector": {
+      "name": "Rauchmelder",
+      "description": "Fotoelektrischer Deckenmelder"
+    },
+    "manualStation": {
+      "name": "Handmelder",
+      "description": "Feuermeldetaste"
+    },
+    "strobeSiren": {
+      "name": "Blitzsirene",
+      "description": "Sirene mit rotem Licht zur Evakuierung"
+    },
+    "alarmPanel": {
+      "name": "Alarmzentrale",
+      "description": "Brandmeldezentrale"
+    },
+    "co2Extinguisher": {
+      "name": "CO₂-Feuerlöscher",
+      "description": "Für elektrische Brände, 5 kg"
+    },
+    "fm200System": {
+      "name": "FM-200-System",
+      "description": "Automatische Löschung mit sauberem Gas"
+    },
+    "outdoorHydrant": {
+      "name": "Außenhydrant",
+      "description": "Feuerwehranschluss"
+    },
+    "bie25mm": {
+      "name": "25mm Wandhydrant",
+      "description": "Ausrüstung mit Feuerwehrschlauch"
+    },
+    "scba": {
+      "name": "Atemschutzgerät",
+      "description": "SCBA mit Druckluftflasche"
+    },
+    "fireResistantGloves": {
+      "name": "Feuerfeste Handschuhe",
+      "description": "Schutz gegen hohe Temperaturen"
+    },
+    "thermalCamera": {
+      "name": "Wärmebildkamera",
+      "description": "Erkennung von Hotspots"
+    },
+    "digitalMultimeter": {
+      "name": "Digitalmultimeter",
+      "description": "Elektrische Messung für Alarmsysteme"
+    },
+    "extinguisherRechargeKit": {
+      "name": "Feuerlöscher Nachfüllset",
+      "description": "Grundlegende Nachfüllung und Wartung"
+    },
+    "hydrantWrench": {
+      "name": "Hydrantenschlüssel",
+      "description": "Spezialwerkzeug für Ventile"
+    },
+    "evacuationPlan": {
+      "name": "Evakuierungsplan",
+      "description": "Standorte von Ausgängen und Notfallausrüstung"
+    },
+    "extinguisherSign": {
+      "name": "Feuerlöscher-Schild",
+      "description": "Photolumineszierend, UNE-Norm"
+    },
+    "emergencyLighting": {
+      "name": "Notbeleuchtung",
+      "description": "Automatische Aktivierung bei Stromausfall"
+    },
+    "gasCutOffSystem": {
+      "name": "Gasabschaltsystem",
+      "description": "Automatische Abschaltung im Brandfall"
+    }
+  },
+
+  "headOffice": "Zentrale",
+  "contactInfo": "Kontaktinformationen",
+  "phoneNumber": "Tel. +34 964 880 171",
+  "directSupport": "Wir bieten direkten Support und maßgeschneiderte Lösungen",
+  "officeHours": "Bürozeiten von 07:30 bis 15:30 Uhr",
+  "emergencyService": "24h-Störungsdienst mit Vertrag",
+  "followUs": "Folge uns in den sozialen Netzwerken",
+
+  "aboutPage": {
+    "title": "Über Uns",
+    "paragraph1": "Bei <strong>Extintores Panorámica AJ</strong> engagieren wir uns für Brandschutz. Seit unserer Gründung sind wir auf die <strong>Inspektion, Wartung und Prävention von Brandschutzsystemen</strong> spezialisiert und bieten umfassende Lösungen, die auf die Bedürfnisse jedes Kunden zugeschnitten sind.",
+    "paragraph2": "Unsere Mission ist klar: <strong>Leben, Eigentum und Umwelt zu schützen</strong> durch hochwertige technische Dienstleistungen mit einem präventiven Ansatz. Wir arbeiten nach den strengsten Sicherheitsstandards, nationalen und internationalen Vorschriften, und mit modernster Technologie für zuverlässige und effektive Ergebnisse.",
+    "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfassender Erfahrung in der <strong>Gefahrenanalyse, Anlagenprüfung und technischer Fachberatung</strong>. Bei Extintores Panorámica AJ prüfen wir nicht nur: <strong>wir antizipieren, verhindern und schützen</strong>.",
+    "paragraph4": "Wir glauben fest daran, dass Prävention die beste Investition ist. Deshalb arbeiten wir eng mit unseren Kunden – Industrie, Unternehmen, Institutionen und Gemeinschaften – zusammen, um sicherere und widerstandsfähigere Räume gegen Brandrisiken zu schaffen.",
+    "slogan": "Extintores Panorámica AJ: Ihr Partner für Brandsicherheit."
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "Seo": {
+    "home": {
+      "title": "Extincteurs Panoramica AJ - Protection incendie",
+      "description": "Experts en extincteurs, maintenance et solutions professionnelles de sécurité incendie."
+    },
+    "contact": {
+      "title": "Contactez-nous | Extincteurs Panoramica AJ",
+      "description": "Contactez-nous pour toute question ou service lié à la protection contre les incendies."
+    },
+    "products": {
+      "title": "Produits | Extincteurs Panoramica AJ",
+      "description": "Découvrez nos produits de sécurité incendie certifiés."
+    }
+  },
+
+  "home": "Inici",
+  "products": "Productes",
+  "navbar3": "Contra Incendis",
+  "navbar4": "Baixa Tensió",
+  "about": "Qui Som",
+  "contact": "Contacte",
+  "videos": "Vídeos",
+  "quote": "Demana Pressupost",
+  "title": "Lloc en construcció",
+  "subtitle": "Estem treballant per tenir el lloc llest molt aviat. Gràcies per la teva paciència!",
+  "privacy_policy_title": "Política de Privacitat",
+  "intro": "En compliment del Reglament (UE) 2016/679 (RGPD) i la Llei Orgànica 3/2018 (LOPDGDD), t'informem sobre el tractament de les teves dades personals:",
+  "responsible": "1. Responsable del tractament",
+  "responsible_name": "- Responsable:",
+  "responsible_nif": "- NIF:",
+  "responsible_address": "- Adreça:",
+  "responsible_email": "- Correu electrònic:",
+  "purpose": "2. Finalitat del tractament",
+  "purpose_content": "Les teves dades s'utilitzaran únicament per gestionar i respondre a consultes enviades mitjançant el formulari de contacte.",
+  "legal": "3. Base legal",
+  "legal_content": "La base legal és el teu consentiment exprés, atorgat en marcar la casella corresponent abans d'enviar el formulari.",
+  "data": "4. Dades tractades",
+  "data_content": "Es tracten les següents dades: nom, adreça de correu electrònic i contingut del missatge.",
+  "recipients": "5. Destinataris de les dades",
+  "recipients_content_1": "Les dades no es comunicaran a tercers, excepte per obligació legal. S'utilitza EmailJS per a l'enviament de formularis:",
+  "recipients_content_2": "- Proveïdor: EmailJS Inc.",
+  "recipients_content_3": "- Finalitat: Enviament de correus des del formulari",
+  "recipients_content_4": "- Política:",
+  "retention": "6. Conservació de les dades",
+  "retention_content": "Les dades es conservaran durant un màxim de 12 mesos o el temps necessari per respondre la teva sol·licitud.",
+  "rights": "7. Drets de l'usuari",
+  "rights_content": "Pots exercir els teus drets d'accés, rectificació, supressió, oposició, limitació i portabilitat enviant un correu a info@extintorespanoramica.com. També pots reclamar davant l'AEPD:",
+  "security": "8. Mesures de seguretat",
+  "security_content": "S'han adoptat mesures tècniques i organitzatives per protegir les teves dades davant accessos no autoritzats o pèrdues accidentals.",
+  "changes": "9. Canvis en aquesta política",
+  "changes_content_1": "Ens reservem el dret d'actualitzar aquesta política per reflectir canvis normatius.",
+  "changes_content_2": "Última actualització: ",
+  "privacy_policy_reed": "He llegit i accepto la",
+  "privacy_policy": "Política de Privacitat",
+  "first_name": "Nom",
+  "last_name": "Cognom",
+  "address_line": "Adreça",
+  "city": "Ciutat",
+  "message": "Missatge",
+  "postcode": "Codi postal",
+  "send": "Enviar",
+  "accept_terms": "Has d'acceptar els termes i condicions.",
+  "message_sent_success": "Missatge enviat correctament.",
+  "message_sent_error": "Hi ha hagut un error, torna-ho a intentar.",
+  "contact_us": "Contacta'ns",
+  "terms": {
+    "title": "Termes de Servei",
+    "lastUpdated": "Última actualització: 24 de maig de 2025",
+    "section1": {
+      "title": "1. Ús del Lloc",
+      "content": "Aquest lloc està destinat exclusivament a fins informatius. Pots navegar lliurement per les nostres seccions, visualitzar els nostres productes, instal·lacions i contactar-nos a través del formulari. L'ús indegut del lloc està estrictament prohibit."
+    },
+    "section2": {
+      "title": "2. Propietat Intel·lectual",
+      "content": "Tot el contingut d'aquest lloc web, incloent textos, imatges, logotips, gràfics i disseny visual, és propietat de l'Empresa o dels seus respectius titulars i està protegit per lleis de propietat intel·lectual."
+    },
+    "section3": {
+      "title": "3. Contacte mitjançant EmailJS",
+      "content": "El formulari de contacte utilitza EmailJS. En usar-lo, acceptes que les teves dades es processin amb la finalitat de respondre la teva consulta. Consulta la nostra Política de Privacitat per a més detalls."
+    },
+    "section4": {
+      "title": "4. Exactitud del Contingut",
+      "content": "Ens esforcem per mantenir actualitzada la informació, però no garantim que sigui completament exacta o lliure d'errors."
+    },
+    "section5": {
+      "title": "5. Limitació de Responsabilitat",
+      "content": "No ens fem responsables per danys derivats de l'ús del lloc, ni per errors tècnics o problemes de serveis externs."
+    },
+    "section6": {
+      "title": "6. Enllaços a Tercers",
+      "content": "Podem incloure enllaços a llocs de tercers. No controlem ni som responsables pel seu contingut o polítiques."
+    },
+    "section7": {
+      "title": "7. Canvis als Termes",
+      "content": "Ens reservem el dret de modificar aquests termes en qualsevol moment. L'ús continuat implica acceptació d'aquests canvis."
+    },
+    "section8": {
+      "title": "8. Contacte",
+      "content": "Si tens preguntes, contacta'ns a: "
+    }
+  },
+  "email": "Correu electrònic:",
+  "phone": "Telèfon:",
+  "contact_intro": "Si tens algun dubte o consulta, no dubtis a contactar-nos.",
+  "where_are_we": "On som?",
+  "location_description": "Ens trobem en una ubicació d'accés fàcil.",
+  "newsletter_cta": "Subscriu-te per rebre actualitzacions setmanals. Sense spam!",
+  "join_newsletter": "Uneix-te al butlletí",
+  "latest": "Últims",
+  "your_email": "El teu correu electrònic",
+  "install_app": "Instal·lar App",
+  "no_thanks": "No, gràcies",
+
+  "slide1": "Inspeccionar no és rutina, és assegurar que tot funcioni quan més importa",
+  "slide2": "La millor emergència és la que mai no passa: una bona inspecció ho fa possible",
+  "slide3": "Cada segell d'inspecció és una promesa de seguretat complerta",
+  "title_1": "Protecció contra incendis a mida",
+  "title_2": "A Extintores Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat, amb solucions integrals i certificades en prevenció i control d'incendis.",
+  "lowVoltageInspection": {
+    "title": "Inspecció de Baixa Tensió",
+    "intro1": "La inspecció de baixa tensió és un procés tècnic fonamental que garanteix el correcte funcionament, la seguretat i el compliment normatiu de les instal·lacions elèctriques que operen per sota de 1.000V en corrent altern (CA) o 1.500V en corrent continu (CC).",
+    "intro2": "En l'àmbit de la protecció contra incendis, aquest tipus d'inspeccions és essencial, ja que moltes emergències tenen l'origen en fallades elèctriques que es podrien haver evitat amb una revisió adequada.",
+    "purposes": {
+      "title": "Per a què serveix?",
+      "items": {
+        "item1": "Prevenció de riscos elèctrics i incendis: Detecta sobrecàrregues, cables defectuosos, connexions soltes o mal dimensionades.",
+        "item2": "Verificació del compliment normatiu: Assegura el compliment del REBT i normatives aplicables.",
+        "item3": "Protecció de persones i béns: Minimitza el risc d'electrocució i danys materials.",
+        "item4": "Garantia del funcionament correcte dels sistemes d'emergència: Assegura una energia segura per als equips de protecció contra incendis."
+      }
+    },
+    "inspectedItems": {
+      "title": "Què es revisa?",
+      "items": {
+        "item1": "Estat i dimensionament de cables i canalitzacions.",
+        "item2": "Quadres elèctrics i proteccions diferencials.",
+        "item3": "Presa de terra i connexió a terra.",
+        "item4": "Interruptors automàtics i dispositius de tall.",
+        "item5": "Compatibilitat i seguretat dels sistemes elèctrics que alimenten equips contra incendis."
+      }
+    },
+    "whoPerforms": {
+      "title": "Qui l'ha de fer?",
+      "description": "Aquest tipus d'inspeccions han de ser realitzades per personal tècnic qualificat, utilitzant instruments de mesura certificats. En moltes instal·lacions —com locals de pública concurrència, indústries o edificis amb sistemes contra incendis— aquestes inspeccions són obligatòries i periòdiques."
+    }
+  },
+
+  "fireMaintainceTitle": "Manteniments i Instal·lacions Contra Incendis",
+  "fireMaintainceSubtitle": "Protegim el que més importa: la teva seguretat.",
+  "fireMaintainceDescription": "Som especialistes en el disseny, instal·lació i manteniment de sistemes contra incendis, oferint solucions integrals per prevenir, detectar i actuar eficaçment davant qualsevol emergència.",
+  "installations": {
+    "title": "Instal·lació de Sistemes Contra Incendis",
+    "description": "Implementem sistemes a mida segons normativa vigent i necessitats específiques:",
+    "items": {
+      "item1": "Sistemes de detecció automàtica (fum, calor, gasos)",
+      "item2": "Extinció per aigua (aspersors, BIEs, hidrants)",
+      "item3": "Sistemes de gasos nets (FM-200, CO₂)",
+      "item4": "Senyalització i evacuació",
+      "item5": "Equips de primera intervenció"
+    }
+  },
+  "maintenance": {
+    "title": "Manteniment Preventiu i Correctiu",
+    "description": "Plans de manteniment adaptats per assegurar el funcionament òptim:",
+    "items": {
+      "item1": "Revisions periòdiques i documentació",
+      "item2": "Proves de funcionament i pressió",
+      "item3": "Substitució d'elements defectuosos",
+      "item4": "Assistència tècnica urgent"
+    }
+  },
+  "benefits": {
+    "title": "Per què triar-nos?",
+    "items": {
+      "item1": "Certificació i compliment normatiu (UNE, NFPA, RIPCI)",
+      "item2": "Personal qualificat i en formació constant",
+      "item3": "Experiència en sectors industrials, comercials i públics",
+      "item4": "Atenció personalitzada i servei ràpid"
+    }
+  },
+
+  "categories": {
+    "title": "Categories",
+    "fireDetection": "Detecció d'Incendis",
+    "alarmsAndSignaling": "Alarmes i Senyalització",
+    "fireExtinction": "Extinció d'Incendis",
+    "waterSystems": "Sistemes d'Aigua",
+    "personalProtection": "Protecció Personal",
+    "inspectionAndMeasurement": "Inspecció i Mesura",
+    "maintenance": "Manteniment",
+    "documentationAndSignage": "Documentació i Senyalització",
+    "complementarySystems": "Sistemes Complementaris"
+  },
+  "allProducts": {
+    "smokeDetector": {
+      "name": "Detector de Fum",
+      "description": "Detector fotoelèctric de sostre"
+    },
+    "manualStation": {
+      "name": "Estació Manual",
+      "description": "Polsador d'alarma contra incendis"
+    },
+    "strobeSiren": {
+      "name": "Sirena Estroboscòpica",
+      "description": "Sirena amb llum vermella per evacuació"
+    },
+    "alarmPanel": {
+      "name": "Panell d'Alarma",
+      "description": "Central de control d'incendis"
+    },
+    "co2Extinguisher": {
+      "name": "Extintor de CO₂",
+      "description": "Per a focs elèctrics, 5 kg"
+    },
+    "fm200System": {
+      "name": "Sistema FM-200",
+      "description": "Extinció automàtica amb gas net"
+    },
+    "outdoorHydrant": {
+      "name": "Hidrant Exterior",
+      "description": "Connexió tipus bomber"
+    },
+    "bie25mm": {
+      "name": "BIE 25mm",
+      "description": "Boca d'incendi equipada"
+    },
+    "scba": {
+      "name": "Equip de Respiració Autònoma",
+      "description": "ERA amb cilindre d'aire comprimit"
+    },
+    "fireResistantGloves": {
+      "name": "Guants Ignífugs",
+      "description": "Protecció contra altes temperatures"
+    },
+    "thermalCamera": {
+      "name": "Càmera Termogràfica",
+      "description": "Detecció de punts calents"
+    },
+    "digitalMultimeter": {
+      "name": "Multímetre Digital",
+      "description": "Mesura elèctrica per a sistemes d'alarma"
+    },
+    "extinguisherRechargeKit": {
+      "name": "Kit de Recarrega per a Extintors",
+      "description": "Recarrega i manteniment bàsic"
+    },
+    "hydrantWrench": {
+      "name": "Clau per a Hidrant",
+      "description": "Eina especialitzada per a vàlvules"
+    },
+    "evacuationPlan": {
+      "name": "Pla d'Evacuació",
+      "description": "Ubicació de sortides i equips d'emergència"
+    },
+    "extinguisherSign": {
+      "name": "Senyal d'Extintor",
+      "description": "Fotoluminiscent, normativa UNE"
+    },
+    "emergencyLighting": {
+      "name": "Il·luminació d'Emergència",
+      "description": "Activació automàtica en tall de subministrament"
+    },
+    "gasCutOffSystem": {
+      "name": "Sistema de Tall de Gas",
+      "description": "Desconnexió automàtica en cas d'incendi"
+    }
+  },
+
+  "headOffice": "Delegació Central",
+  "contactInfo": "Informació de Contacte",
+  "phoneNumber": "Tel. +34 964 880 171",
+  "directSupport": "T'oferim atenció directa i solucions a mida",
+  "officeHours": "Horari d'oficina de 07:30h a 15:30h",
+  "emergencyService": "Servei d'avaries 24h amb contracte",
+  "followUs": "Segueix-nos a les nostres xarxes socials",
+
+  "aboutPage": {
+    "title": "Sobre Nosaltres",
+    "paragraph1": "A <strong>Extintores Panorámica AJ</strong> estem compromesos amb la seguretat contra incendis. Des dels nostres inicis, ens hem especialitzat en la <strong>inspecció, manteniment i prevenció de sistemes contra incendis</strong>, oferint solucions integrals adaptades a les necessitats de cada client.",
+    "paragraph2": "La nostra missió és clara: <strong>protegir vides, béns i entorns</strong> mitjançant serveis tècnics d’alta qualitat i amb un enfocament preventiu. Treballem sota els estàndards de seguretat més estrictes, normatives nacionals i internacionals, i amb tecnologia d’avantguarda que garanteix resultats fiables i eficaços.",
+    "paragraph3": "Comptem amb un equip de professionals altament qualificats, amb àmplia experiència en la <strong>detecció de riscos, revisió d’instal·lacions i assessorament tècnic especialitzat</strong>. A Extintores Panorámica AJ, no només inspeccionem: <strong>anticipem, prevenim i protegim</strong>.",
+    "paragraph4": "Creiem fermament que la prevenció és la millor inversió. Per això, col·laborem estretament amb els nostres clients — indústria, empreses, institucions i comunitats — per construir espais més segurs i resilients davant el risc d’incendis.",
+    "slogan": "Extintores Panorámica AJ: el teu aliat en seguretat contra incendis."
+  }
+}

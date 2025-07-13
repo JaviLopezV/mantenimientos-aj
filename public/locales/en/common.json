@@ -1,0 +1,288 @@
+{
+  "Seo": {
+    "home": {
+      "title": "Extintores Panorámica AJ - Fire protection specialists",
+      "description": "Experts in fire extinguishers, maintenance, and professional fire safety solutions."
+    },
+    "contact": {
+      "title": "Contact Us | Extintores Panorámica AJ",
+      "description": "Get in touch with us for any questions or fire protection services."
+    },
+    "products": {
+      "title": "Products | Extintores Panorámica AJ",
+      "description": "Browse our certified fire safety products and extinguishers."
+    }
+  },
+
+  "home": "Home",
+  "products": "Products",
+  "navbar3": "Fire Protection",
+  "navbar4": "Low Voltage",
+  "about": "About Us",
+  "contact": "Contact",
+  "videos": "Videos",
+  "quote": "Request a Quote",
+  "title": "Site Under Construction",
+  "subtitle": "We are working to have the site ready very soon. Thank you for your patience!",
+  "privacy_policy_title": "Privacy Policy",
+  "intro": "In compliance with Regulation (EU) 2016/679 (GDPR) and Organic Law 3/2018 (LOPDGDD), we inform you about the processing of your personal data:",
+  "responsible": "1. Data Controller",
+  "responsible_name": "- Controller:",
+  "responsible_nif": "- Tax ID:",
+  "responsible_address": "- Address:",
+  "responsible_email": "- Email:",
+  "purpose": "2. Purpose of Processing",
+  "purpose_content": "Your data will only be used to manage and respond to inquiries sent via the contact form.",
+  "legal": "3. Legal Basis",
+  "legal_content": "The legal basis is your explicit consent, given by checking the corresponding box before submitting the form.",
+  "data": "4. Data Processed",
+  "data_content": "The following data are processed: name, email address, and message content.",
+  "recipients": "5. Data Recipients",
+  "recipients_content_1": "Data will not be disclosed to third parties, except when legally required. EmailJS is used for form submission:",
+  "recipients_content_2": "- Provider: EmailJS Inc.",
+  "recipients_content_3": "- Purpose: Sending emails from the form",
+  "recipients_content_4": "- Policy:",
+  "retention": "6. Data Retention",
+  "retention_content": "Data will be kept for a maximum of 12 months or as long as necessary to respond to your request.",
+  "rights": "7. User Rights",
+  "rights_content": "You can exercise your rights of access, rectification, deletion, opposition, restriction, and portability by sending an email to info@extintorespanoramica.com. You may also file a complaint with the Data Protection Authority:",
+  "security": "8. Security Measures",
+  "security_content": "Technical and organizational measures have been taken to protect your data against unauthorized access or accidental loss.",
+  "changes": "9. Changes to this Policy",
+  "changes_content_1": "We reserve the right to update this policy to reflect regulatory changes.",
+  "changes_content_2": "Last updated: ",
+  "privacy_policy_reed": "I have read and accept the",
+  "privacy_policy": "Privacy Policy",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "address_line": "Address",
+  "city": "City",
+  "message": "Message",
+  "postcode": "Postal Code",
+  "send": "Send",
+  "accept_terms": "You must accept the terms and conditions.",
+  "message_sent_success": "Message sent successfully.",
+  "message_sent_error": "There was an error, please try again.",
+  "contact_us": "Contact Us",
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 24, 2025",
+    "section1": {
+      "title": "1. Use of the Site",
+      "content": "This site is intended exclusively for informational purposes. You may freely navigate our sections, view our products and facilities, and contact us via the form. Misuse of the site is strictly prohibited."
+    },
+    "section2": {
+      "title": "2. Intellectual Property",
+      "content": "All content on this website, including texts, images, logos, graphics, and visual design, is owned by the Company or its respective holders and is protected by intellectual property laws."
+    },
+    "section3": {
+      "title": "3. Contact via EmailJS",
+      "content": "The contact form uses EmailJS. By using it, you agree that your data will be processed to respond to your inquiry. See our Privacy Policy for more details."
+    },
+    "section4": {
+      "title": "4. Accuracy of Content",
+      "content": "We strive to keep information up to date but do not guarantee it is completely accurate or error-free."
+    },
+    "section5": {
+      "title": "5. Limitation of Liability",
+      "content": "We are not responsible for damages arising from the use of the site, nor for technical errors or issues with external services."
+    },
+    "section6": {
+      "title": "6. Third-Party Links",
+      "content": "We may include links to third-party sites. We do not control or accept responsibility for their content or policies."
+    },
+    "section7": {
+      "title": "7. Changes to Terms",
+      "content": "We reserve the right to modify these terms at any time. Continued use implies acceptance of such changes."
+    },
+    "section8": {
+      "title": "8. Contact",
+      "content": "If you have questions, contact us at: "
+    }
+  },
+  "email": "Email:",
+  "phone": "Phone:",
+  "contact_intro": "If you have any questions or inquiries, please do not hesitate to contact us.",
+  "where_are_we": "Where are we?",
+  "location_description": "We are located in an easily accessible location.",
+  "newsletter_cta": "Subscribe to receive weekly updates. No spam!",
+  "join_newsletter": "Join the newsletter",
+  "latest": "Latest",
+  "your_email": "Your email",
+  "install_app": "Install App",
+  "no_thanks": "No, thanks",
+
+  "slide1": "Inspecting is not routine — it's ensuring everything works when it matters most",
+  "slide2": "The best emergency is the one that never happens — a good inspection makes it possible",
+  "slide3": "Each inspection seal is a promise of safety fulfilled",
+  "title_1": "Fire protection tailored to you",
+  "title_2": "At Extintores Panorámica AJ, S.L., we protect what matters most: your life, your property, and your peace of mind, with comprehensive and certified fire prevention and control solutions.",
+  "lowVoltageInspection": {
+    "title": "Low Voltage Inspection",
+    "intro1": "Low voltage inspection is a fundamental technical process that ensures the correct operation, safety, and regulatory compliance of electrical installations operating at voltages below 1,000V AC (alternating current) or 1,500V DC (direct current).",
+    "intro2": "In the field of fire protection, this type of inspection is essential, as many emergencies originate from electrical faults that could have been prevented with proper inspection.",
+
+    "purposes": {
+      "title": "What is it for?",
+      "items": {
+        "item1": "Prevention of electrical risks and fires: Detects overloads, defective cables, loose or improperly sized connections.",
+        "item2": "Verification of regulatory compliance: Ensures compliance with the REBT and applicable regulations.",
+        "item3": "Protection of people and property: Minimizes the risk of electrocution and material damage.",
+        "item4": "Guarantee of proper functioning of emergency systems: Ensures safe power supply for fire protection equipment."
+      }
+    },
+
+    "inspectedItems": {
+      "title": "What is inspected?",
+      "items": {
+        "item1": "Condition and sizing of cables and conduits.",
+        "item2": "Electrical panels and residual current devices.",
+        "item3": "Grounding and earthing systems.",
+        "item4": "Circuit breakers and cutting devices.",
+        "item5": "Compatibility and safety of electrical systems powering fire protection equipment."
+      }
+    },
+
+    "whoPerforms": {
+      "title": "Who should perform it?",
+      "description": "These inspections must be carried out by qualified technical personnel using certified measuring instruments. In many facilities—such as public venues, industrial plants, or buildings with fire protection systems—these inspections are mandatory and periodic."
+    }
+  },
+  "fireMaintainceTitle": "Fire Maintenance and Installations",
+  "fireMaintainceSubtitle": "We protect what matters most: your safety.",
+  "fireMaintainceDescription": "We specialize in the design, installation, and maintenance of fire protection systems, offering comprehensive solutions to prevent, detect, and respond effectively to any emergency.",
+  "installations": {
+    "title": "Fire Protection System Installation",
+    "description": "We implement tailor-made systems according to current regulations and specific needs:",
+    "items": {
+      "item1": "Automatic detection systems (smoke, heat, gases)",
+      "item2": "Water extinguishing (sprinklers, hose reels, hydrants)",
+      "item3": "Clean gas systems (FM-200, CO₂)",
+      "item4": "Signage and evacuation",
+      "item5": "First intervention equipment"
+    }
+  },
+  "maintenance": {
+    "title": "Preventive and Corrective Maintenance",
+    "description": "Maintenance plans adapted to ensure optimal performance:",
+    "items": {
+      "item1": "Periodic inspections and documentation",
+      "item2": "Functionality and pressure tests",
+      "item3": "Replacement of defective elements",
+      "item4": "Urgent technical assistance"
+    }
+  },
+  "benefits": {
+    "title": "Why choose us?",
+    "items": {
+      "item1": "Certification and regulatory compliance (UNE, NFPA, RIPCI)",
+      "item2": "Qualified staff and ongoing training",
+      "item3": "Experience in industrial, commercial, and public sectors",
+      "item4": "Personalized attention and fast service"
+    }
+  },
+
+  "categories": {
+    "title": "Categories",
+    "fireDetection": "Fire Detection",
+    "alarmsAndSignaling": "Alarms and Signaling",
+    "fireExtinction": "Fire Extinction",
+    "waterSystems": "Water Systems",
+    "personalProtection": "Personal Protection",
+    "inspectionAndMeasurement": "Inspection and Measurement",
+    "maintenance": "Maintenance",
+    "documentationAndSignage": "Documentation and Signage",
+    "complementarySystems": "Complementary Systems"
+  },
+  "allProducts": {
+    "smokeDetector": {
+      "name": "Smoke Detector",
+      "description": "Ceiling photoelectric detector"
+    },
+    "manualStation": {
+      "name": "Manual Station",
+      "description": "Fire alarm push button"
+    },
+    "strobeSiren": {
+      "name": "Strobe Siren",
+      "description": "Siren with red light for evacuation"
+    },
+    "alarmPanel": {
+      "name": "Alarm Panel",
+      "description": "Fire control center"
+    },
+    "co2Extinguisher": {
+      "name": "CO₂ Extinguisher",
+      "description": "For electrical fires, 5 kg"
+    },
+    "fm200System": {
+      "name": "FM-200 System",
+      "description": "Automatic clean gas suppression"
+    },
+    "outdoorHydrant": {
+      "name": "Outdoor Hydrant",
+      "description": "Firefighter-type connection"
+    },
+    "bie25mm": {
+      "name": "25mm Hose Reel",
+      "description": "Equipped fire hose reel"
+    },
+    "scba": {
+      "name": "Self-Contained Breathing Apparatus",
+      "description": "SCBA with compressed air cylinder"
+    },
+    "fireResistantGloves": {
+      "name": "Fire-Resistant Gloves",
+      "description": "Protection against high temperatures"
+    },
+    "thermalCamera": {
+      "name": "Thermal Camera",
+      "description": "Hot spot detection"
+    },
+    "digitalMultimeter": {
+      "name": "Digital Multimeter",
+      "description": "Electrical measurement for alarm systems"
+    },
+    "extinguisherRechargeKit": {
+      "name": "Extinguisher Recharge Kit",
+      "description": "Basic recharge and maintenance"
+    },
+    "hydrantWrench": {
+      "name": "Hydrant Wrench",
+      "description": "Specialized tool for valves"
+    },
+    "evacuationPlan": {
+      "name": "Evacuation Plan",
+      "description": "Exit and emergency equipment location"
+    },
+    "extinguisherSign": {
+      "name": "Extinguisher Sign",
+      "description": "Photoluminescent, UNE standard"
+    },
+    "emergencyLighting": {
+      "name": "Emergency Lighting",
+      "description": "Automatic activation during power outage"
+    },
+    "gasCutOffSystem": {
+      "name": "Gas Cut-Off System",
+      "description": "Automatic shutdown in case of fire"
+    }
+  },
+
+  "headOffice": "Central Office",
+  "contactInfo": "Contact Information",
+  "phoneNumber": "Tel. +34 964 880 171",
+  "directSupport": "We offer direct support and tailored solutions",
+  "officeHours": "Office hours from 07:30h to 15:30h",
+  "emergencyService": "24h breakdown service under contract",
+  "followUs": "Follow us on our social media",
+
+  "aboutPage": {
+    "title": "About Us",
+    "paragraph1": "At <strong>Extintores Panorámica AJ</strong>, we are committed to fire safety. Since our beginnings, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, offering comprehensive solutions tailored to each client's needs.",
+    "paragraph2": "Our mission is clear: <strong>to protect lives, property, and environments</strong> through high-quality technical services with a preventive approach. We operate under the strictest safety standards, both national and international regulations, using cutting-edge technology to ensure reliable and effective results.",
+    "paragraph3": "We have a team of highly qualified professionals with extensive experience in <strong>risk detection, system inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don't just inspect: <strong>we anticipate, prevent, and protect</strong>.",
+    "paragraph4": "We firmly believe that prevention is the best investment. That's why we work closely with our clients — industry, companies, institutions, and communities — to build safer and more resilient spaces against fire risks.",
+    "slogan": "Extintores Panorámica AJ: your ally in fire safety."
+  }
+}

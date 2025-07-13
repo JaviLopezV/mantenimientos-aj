@@ -1,0 +1,306 @@
+{
+  "Seo": {
+    "home": {
+      "title": "Extintores Panorámica AJ - Protección contra incendios",
+      "description": "Empresa especializada en extintores, mantenimiento y soluciones contra incendios."
+    },
+    "contact": {
+      "title": "Contáctanos | Extintores Panorámica AJ",
+      "description": "Ponte en contacto con nosotros para cualquier consulta o servicio de protección contra incendios."
+    },
+    "products": {
+      "title": "Productos | Extintores Panorámica AJ",
+      "description": "Explora nuestros productos de seguridad y extintores certificados."
+    }
+  },
+
+  "home": "Inicio",
+  "products": "Productos",
+  "navbar3": "Contra Incendios",
+  "navbar4": "Baja Tensión",
+  "about": "Quienes Somos",
+  "contact": "Contacto",
+  "videos": "Vídeos",
+  "quote": "Pedir Presupuesto",
+
+  "title": "Sitio en construcción",
+  "subtitle": "Estamos trabajando para tener el sitio listo muy pronto. ¡Gracias por tu paciencia!",
+
+  "privacy_policy_title": "Política de Privacidad",
+  "intro": "En cumplimiento del Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD), te informamos sobre el tratamiento de tus datos personales:",
+  "responsible": "1. Responsable del tratamiento",
+  "responsible_name": "- Responsable:",
+  "responsible_nif": "- NIF:",
+  "responsible_address": "- Dirección:",
+  "responsible_email": "- Email:",
+  "purpose": "2. Finalidad del tratamiento",
+  "purpose_content": "Tus datos se utilizarán únicamente para gestionar y responder a consultas enviadas mediante el formulario de contacto.",
+  "legal": "3. Base legal",
+  "legal_content": "La base legal es tu consentimiento expreso, otorgado al marcar la casilla correspondiente antes de enviar el formulario.",
+  "data": "4. Datos tratados",
+  "data_content": "Se tratan los siguientes datos: nombre, dirección de correo electrónico y contenido del mensaje.",
+  "recipients": "5. Destinatarios de los datos",
+  "recipients_content_1": "Los datos no se comunicarán a terceros, salvo obligación legal. Se utiliza EmailJS para el envío de formularios:",
+  "recipients_content_2": "- Proveedor: EmailJS Inc.",
+  "recipients_content_3": "- Finalidad: Envío de correos desde el formulario",
+  "recipients_content_4": "- Política:",
+  "retention": "6. Conservación de los datos",
+  "retention_content": "Los datos se conservarán durante un máximo de 12 meses o el tiempo necesario para responder a tu solicitud.",
+  "rights": "7. Derechos del usuario",
+  "rights_content": "Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad enviando un correo a info@extintorespanoramica.com. También puedes reclamar ante la AEPD:",
+  "security": "8. Medidas de seguridad",
+  "security_content": "Se han adoptado medidas técnicas y organizativas para proteger tus datos frente a accesos no autorizados o pérdidas accidentales.",
+  "changes": "9. Cambios en esta política",
+  "changes_content_1": "Nos reservamos el derecho de actualizar esta política para reflejar cambios normativos.",
+  "changes_content_2": "Última actualización: ",
+
+  "privacy_policy_reed": "He leído y acepto la",
+  "privacy_policy": "Política de Privacidad",
+
+  "first_name": "Nombre",
+  "last_name": "Apellido",
+  "address_line": "Dirección",
+  "city": "Ciudad",
+  "message": "Mensaje",
+  "postcode": "Código postal",
+
+  "send": "Enviar",
+
+  "accept_terms": "Debes aceptar los términos y condiciones.",
+  "message_sent_success": "Mensaje enviado correctamente.",
+  "message_sent_error": "Ha habido un error, vuelve a intentarlo.",
+
+  "contact_us": "Contáctanos",
+
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: 24 de mayo de 2025",
+
+    "section1": {
+      "title": "1. Uso del Sitio",
+      "content": "Este sitio está destinado exclusivamente para fines informativos. Puedes navegar libremente por nuestras secciones, visualizar nuestros productos, instalaciones y contactarnos a través del formulario. El uso indebido del sitio está estrictamente prohibido."
+    },
+
+    "section2": {
+      "title": "2. Propiedad Intelectual",
+      "content": "Todo el contenido de este sitio web, incluyendo textos, imágenes, logotipos, gráficos y diseño visual, es propiedad de la Empresa o de sus respectivos titulares y está protegido por leyes de propiedad intelectual."
+    },
+
+    "section3": {
+      "title": "3. Contacto mediante EmailJS",
+      "content": "El formulario de contacto utiliza EmailJS. Al usarlo, aceptas que tus datos se procesen con el fin de responder a tu consulta. Consulta nuestra Política de Privacidad para más detalles."
+    },
+
+    "section4": {
+      "title": "4. Exactitud del Contenido",
+      "content": "Nos esforzamos por mantener actualizada la información, pero no garantizamos que sea completamente exacta o libre de errores."
+    },
+
+    "section5": {
+      "title": "5. Limitación de Responsabilidad",
+      "content": "No nos hacemos responsables por daños derivados del uso del sitio, ni por errores técnicos o problemas de servicios externos."
+    },
+
+    "section6": {
+      "title": "6. Enlaces a Terceros",
+      "content": "Podemos incluir enlaces a sitios de terceros. No controlamos ni somos responsables por su contenido o políticas."
+    },
+
+    "section7": {
+      "title": "7. Cambios a los Términos",
+      "content": "Nos reservamos el derecho de modificar estos términos en cualquier momento. El uso continuado implica aceptación de dichos cambios."
+    },
+
+    "section8": {
+      "title": "8. Contacto",
+      "content": "Si tienes preguntas, contáctanos en: "
+    }
+  },
+
+  "email": "Correo electrónico:",
+  "phone": "Teléfono:",
+  "contact_intro": "Si tienes alguna duda o consulta, no dudes en contactarnos.",
+  "where_are_we": "¿Dónde estamos?",
+  "location_description": "Nos encontramos en una ubicación de fácil acceso.",
+  "newsletter_cta": "Suscríbete para recibir actualizaciones semanales. ¡Sin spam!",
+  "join_newsletter": "Únete al boletín",
+  "latest": "Últimos",
+  "your_email": "Tu correo electrónico",
+  "install_app": "Instalar App",
+  "no_thanks": "No, gracias",
+
+  "slide1": "Inspeccionar no es rutina, es asegurar que todo funcione cuando más importa",
+  "slide2": "La mejor emergencia es la que nunca ocurre: una buena inspección lo hace posible",
+  "slide3": "Cada sello de inspección es una promesa de seguridad cumplida",
+  "title_1": "Protección contra incendios a tu medida",
+  "title_2": "En Extintores Panorámica AJ, S.L., protegemos lo que más importa: tu vida, tus bienes y tu tranquilidad, con soluciones integrales y certificadas en prevención y control de incendios.",
+  "lowVoltageInspection": {
+    "title": "Inspección de Baja Tensión",
+    "intro1": "La inspección de baja tensión es un proceso técnico fundamental que garantiza el correcto funcionamiento, seguridad y cumplimiento normativo de las instalaciones eléctricas que operan a tensiones inferiores a 1.000V en corriente alterna (CA) o 1.500V en corriente continua (CC).",
+    "intro2": "En el ámbito de la protección contra incendios, este tipo de inspecciones resulta esencial, ya que muchas emergencias se originan por fallos eléctricos que podrían haberse prevenido con una revisión adecuada.",
+
+    "purposes": {
+      "title": "¿Para qué sirve?",
+      "items": {
+        "item1": "Prevención de riesgos eléctricos e incendios: Detecta sobrecargas, cables defectuosos, conexiones sueltas o mal dimensionadas.",
+        "item2": "Verificación del cumplimiento normativo: Asegura el cumplimiento del REBT y normativas aplicables.",
+        "item3": "Protección de personas y bienes: Minimiza el riesgo de electrocución y daños materiales.",
+        "item4": "Garantía del correcto funcionamiento de los sistemas de emergencia: Asegura la energía segura para equipos contra incendios."
+      }
+    },
+
+    "inspectedItems": {
+      "title": "¿Qué se revisa?",
+      "items": {
+        "item1": "Estado y dimensionamiento de cables y canalizaciones.",
+        "item2": "Cuadros eléctricos y protecciones diferenciales.",
+        "item3": "Tomas de tierra y puesta a tierra.",
+        "item4": "Interruptores automáticos y dispositivos de corte.",
+        "item5": "Compatibilidad y seguridad de los sistemas eléctricos que alimentan equipos contra incendios."
+      }
+    },
+
+    "whoPerforms": {
+      "title": "¿Quién debe realizarla?",
+      "description": "Este tipo de inspecciones deben ser realizadas por personal técnico cualificado, utilizando instrumentos de medición certificados. En muchas instalaciones —como locales de pública concurrencia, industrias o edificios con sistemas contra incendios— estas inspecciones son obligatorias y periódicas."
+    }
+  },
+
+  "fireMaintainceTitle": "Mantenimientos e Instalaciones Contra Incendios",
+  "fireMaintainceSubtitle": "Protegemos lo que más importa: tu seguridad.",
+  "fireMaintainceDescription": "Somos especialistas en el diseño, instalación y mantenimiento de sistemas contra incendios, ofreciendo soluciones integrales para prevenir, detectar y actuar eficazmente ante cualquier emergencia.",
+  "installations": {
+    "title": "Instalación de Sistemas Contra Incendios",
+    "description": "Implementamos sistemas a medida según normativa vigente y necesidades específicas:",
+    "items": {
+      "item1": "Sistemas de detección automática (humo, calor, gases)",
+      "item2": "Extinción por agua (rociadores, BIEs, hidrantes)",
+      "item3": "Sistemas de gases limpios (FM-200, CO₂)",
+      "item4": "Señalización y evacuación",
+      "item5": "Equipos de primera intervención"
+    }
+  },
+  "maintenance": {
+    "title": "Mantenimiento Preventivo y Correctivo",
+    "description": "Planes de mantenimiento adaptados para asegurar el funcionamiento óptimo:",
+    "items": {
+      "item1": "Revisiones periódicas y documentación",
+      "item2": "Pruebas de funcionamiento y presión",
+      "item3": "Sustitución de elementos defectuosos",
+      "item4": "Asistencia técnica urgente"
+    }
+  },
+  "benefits": {
+    "title": "¿Por qué elegirnos?",
+    "items": {
+      "item1": "Certificación y cumplimiento normativo (UNE, NFPA, RIPCI)",
+      "item2": "Personal cualificado y en formación constante",
+      "item3": "Experiencia en sectores industriales, comerciales y públicos",
+      "item4": "Atención personalizada y servicio rápido"
+    }
+  },
+
+  "categories": {
+    "title": "Categorías",
+    "fireDetection": "Detección de Incendios",
+    "alarmsAndSignaling": "Alarmas y Señalización",
+    "fireExtinction": "Extinción de Incendios",
+    "waterSystems": "Sistemas de Agua",
+    "personalProtection": "Protección Personal",
+    "inspectionAndMeasurement": "Inspección y Medición",
+    "maintenance": "Mantenimiento",
+    "documentationAndSignage": "Documentación y Señalética",
+    "complementarySystems": "Sistemas Complementarios"
+  },
+  "allProducts": {
+    "smokeDetector": {
+      "name": "Detector de Humo",
+      "description": "Detector fotoeléctrico de techo"
+    },
+    "manualStation": {
+      "name": "Estación Manual",
+      "description": "Pulsador de alarma contra incendios"
+    },
+    "strobeSiren": {
+      "name": "Sirena Estroboscópica",
+      "description": "Sirena con luz roja para evacuación"
+    },
+    "alarmPanel": {
+      "name": "Panel de Alarma",
+      "description": "Central de control de incendios"
+    },
+    "co2Extinguisher": {
+      "name": "Extintor de CO₂",
+      "description": "Para fuegos eléctricos, 5 kg"
+    },
+    "fm200System": {
+      "name": "Sistema FM-200",
+      "description": "Extinción automática con gas limpio"
+    },
+    "outdoorHydrant": {
+      "name": "Hidrante Exterior",
+      "description": "Conexión tipo Bombero"
+    },
+    "bie25mm": {
+      "name": "BIE 25mm",
+      "description": "Boca de incendio equipada"
+    },
+    "scba": {
+      "name": "Equipo de Respiración Autónoma",
+      "description": "ERA con cilindro de aire comprimido"
+    },
+    "fireResistantGloves": {
+      "name": "Guantes Ignífugos",
+      "description": "Protección contra altas temperaturas"
+    },
+    "thermalCamera": {
+      "name": "Cámara Termográfica",
+      "description": "Detección de puntos calientes"
+    },
+    "digitalMultimeter": {
+      "name": "Multímetro Digital",
+      "description": "Medición eléctrica para sistemas de alarma"
+    },
+    "extinguisherRechargeKit": {
+      "name": "Kit de Recarga para Extintores",
+      "description": "Recarga y mantenimiento básico"
+    },
+    "hydrantWrench": {
+      "name": "Llave para Hidrante",
+      "description": "Herramienta especializada para válvulas"
+    },
+    "evacuationPlan": {
+      "name": "Plano de Evacuación",
+      "description": "Ubicación de salidas y equipos de emergencia"
+    },
+    "extinguisherSign": {
+      "name": "Señal de Extintor",
+      "description": "Fotoluminiscente, normativa UNE"
+    },
+    "emergencyLighting": {
+      "name": "Iluminación de Emergencia",
+      "description": "Activación automática ante corte de energía"
+    },
+    "gasCutOffSystem": {
+      "name": "Sistema de Corte de Gas",
+      "description": "Desactivación automática en caso de incendio"
+    }
+  },
+
+  "headOffice": "Deleg. Central",
+  "contactInfo": "Información de Contacto",
+  "phoneNumber": "Tel. +34 964 880 171",
+  "directSupport": "Te ofrecemos atención directa y soluciones a medida",
+  "officeHours": "Horario de oficina de 07:30h a 15:30h",
+  "emergencyService": "2Servicio de averías 24h bajo contrato",
+  "followUs": "Síguenos en nuestras redes sociales.",
+
+  "aboutPage": {
+    "title": "Sobre Nosotros",
+    "paragraph1": "En <strong>Extintores Panorámica AJ</strong> estamos comprometidos con la seguridad contra incendios. Desde nuestros inicios, nos hemos especializado en la <strong>inspección, mantenimiento y prevención de sistemas contra incendios</strong>, ofreciendo soluciones integrales adaptadas a las necesidades de cada cliente.",
+    "paragraph2": "Nuestra misión es clara: <strong>proteger vidas, bienes y entornos</strong> mediante servicios técnicos de alta calidad y con un enfoque preventivo. Trabajamos bajo los más estrictos estándares de seguridad, normativas nacionales e internacionales, y con tecnología de vanguardia que garantiza resultados fiables y eficaces.",
+    "paragraph3": "Contamos con un equipo de profesionales altamente cualificados, con amplia experiencia en la <strong>detección de riesgos, revisión de instalaciones y asesoramiento técnico especializado</strong>. En Extintores Panorámica AJ, no solo inspeccionamos: <strong>anticipamos, prevenimos y protegemos</strong>.",
+    "paragraph4": "Creemos firmemente que la prevención es la mejor inversión. Por eso, colaboramos estrechamente con nuestros clientes — industria, empresas, instituciones y comunidades— para construir espacios más seguros y resilientes frente al riesgo de incendios.",
+    "slogan": "Extintores Panorámica AJ: tu aliado en seguridad contra incendios."
+  }
+}
