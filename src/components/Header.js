@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import {
   AppBar,
   Box,
@@ -11,6 +11,8 @@ import {
   Drawer,
   Menu,
   Divider,
+  Popper,
+  Paper,
 } from "@mui/material";
 import {
   Home,
@@ -54,8 +56,23 @@ const NavButton = styled(Button)(({ theme }) => ({
 
 export default function AppAppBar({ currentLocale }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
-  const [menuAnchor, setMenuAnchor] = useState(null);
   const [langAnchorEl, setLangAnchorEl] = useState(null);
+  const [anchorEl, setAnchorEl] = useState(null);
+  const [popperOpen, setPopperOpen] = useState(false);
+  const hoverTimeout = useRef(null);
+
+  const handleMouseEnter = (event) => {
+    clearTimeout(hoverTimeout.current);
+    setAnchorEl(event.currentTarget);
+    setPopperOpen(true);
+  };
+
+  const handleMouseLeave = () => {
+    hoverTimeout.current = setTimeout(() => {
+      setPopperOpen(false);
+      setAnchorEl(null);
+    }, 150);
+  };
 
   const pathname = usePathname();
   const router = useRouter();
@@ -135,8 +152,8 @@ export default function AppAppBar({ currentLocale }) {
               item.children ? (
                 <Box
                   key={item.label}
-                  onMouseEnter={(e) => setMenuAnchor(e.currentTarget)}
-                  onMouseLeave={() => setMenuAnchor(null)}
+                  onMouseEnter={handleMouseEnter}
+                  onMouseLeave={handleMouseLeave}
                 >
                   <NavButton
                     sx={{
@@ -148,33 +165,55 @@ export default function AppAppBar({ currentLocale }) {
                   >
                     {t(item.label).toUpperCase()}
                   </NavButton>
-                  <Menu
-                    anchorEl={menuAnchor}
-                    open={Boolean(menuAnchor)}
-                    onClose={() => setMenuAnchor(null)}
-                    PaperProps={{
-                      sx: {
-                        mt: 1,
+
+                  <Popper
+                    open={popperOpen}
+                    anchorEl={anchorEl}
+                    placement="bottom-start"
+                    disablePortal={false}
+                    modifiers={[
+                      {
+                        name: "offset",
+                        options: {
+                          offset: [0, 8],
+                        },
+                      },
+                    ]}
+                    sx={{ zIndex: 100 }}
+                    onMouseEnter={() => clearTimeout(hoverTimeout.current)}
+                    onMouseLeave={handleMouseLeave}
+                  >
+                    <Paper
+                      sx={{
+                        mt: "6px",
                         borderRadius: 2,
                         bgcolor: "#2E2E2E",
                         color: "#fff",
-                      },
-                    }}
-                  >
-                    {item.children.map((child) => (
-                      <MenuItem
-                        key={child.path}
-                        selected={isActive(child.path)}
-                        onClick={() => {
-                          navigate(child.path);
-                          setMenuAnchor(null);
-                        }}
-                      >
-                        {iconsMap[child.label]}
-                        <Box ml={1}>{t(child.label).toUpperCase()}</Box>
-                      </MenuItem>
-                    ))}
-                  </Menu>
+                        padding: 1,
+                        minWidth: 200,
+                        maxWidth: 300,
+                      }}
+                    >
+                      {item.children.map((child) => (
+                        <MenuItem
+                          key={child.path}
+                          selected={isActive(child.path)}
+                          onClick={() => {
+                            navigate(child.path);
+                            setPopperOpen(false);
+                            setAnchorEl(null);
+                          }}
+                          sx={{
+                            wordBreak: "break-word",
+                            whiteSpace: "normal",
+                          }}
+                        >
+                          {iconsMap[child.label]}
+                          <Box ml={1}>{t(child.label).toUpperCase()}</Box>
+                        </MenuItem>
+                      ))}
+                    </Paper>
+                  </Popper>
                 </Box>
               ) : (
                 <NavButton

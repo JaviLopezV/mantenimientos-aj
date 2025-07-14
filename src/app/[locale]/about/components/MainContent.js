@@ -25,8 +25,13 @@ export default function AboutPage() {
 
   const Content = (
     <>
-      <Typography variant="body1">
-        <p>
+      <Typography
+        variant="h4"
+        component="h1"
+        gutterBottom
+        sx={{ fontWeight: "bold" }}
+      >
+        <p style={{ margin: 0 }}>
           {t.rich("title", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
