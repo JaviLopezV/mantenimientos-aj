@@ -12,10 +12,10 @@ export async function generateMetadata({ params }) {
   ).default;
 
   return {
-    title: messages.Seo.contact.title,
-    description: messages.Seo.contact.description,
+    title: messages.Seo.mantainanceFireSystems.title,
+    description: messages.Seo.mantainanceFireSystems.description,
     alternates: {
-      canonical: `https://extintores-panoramica-aj.vercel.app/${locale}/contact`,
+      canonical: `https://extintores-panoramica-aj.vercel.app/${locale}/mantainance-fire-systems`,
     },
   };
 }

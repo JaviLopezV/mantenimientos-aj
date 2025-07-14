@@ -186,7 +186,6 @@ export default function AppAppBar({ currentLocale }) {
                     <Paper
                       sx={{
                         mt: "6px",
-                        borderRadius: 2,
                         bgcolor: "#2E2E2E",
                         color: "#fff",
                         padding: 1,
@@ -228,7 +227,15 @@ export default function AppAppBar({ currentLocale }) {
                   }}
                 >
                   {iconsMap[item.label]}
-                  <Box sx={{ ml: "4px" }}>{t(item.label).toUpperCase()}</Box>
+                  <Box
+                    sx={{
+                      ml: "4px",
+                      wordBreak: "break-word",
+                      whiteSpace: "normal",
+                    }}
+                  >
+                    {t(item.label).toUpperCase()}
+                  </Box>
                 </NavButton>
               )
             )}
@@ -256,7 +263,13 @@ export default function AppAppBar({ currentLocale }) {
                   onClick={() => handleLangChange(lng)}
                 >
                   <Button
-                    sx={{ textTransform: "none", fontSize: 10, px: 0 }}
+                    sx={{
+                      textTransform: "none",
+                      fontSize: 10,
+                      px: 0,
+                      wordBreak: "break-word",
+                      whiteSpace: "normal",
+                    }}
                     color={"error"}
                     variant={lng === currentLocale ? "contained" : "text"}
                     size="small"
@@ -327,7 +340,11 @@ export default function AppAppBar({ currentLocale }) {
                     onClick={() => handleLangChange(lng)}
                     variant={lng === currentLocale ? "contained" : "outlined"}
                     color="primary"
-                    sx={{ mb: 1 }}
+                    sx={{
+                      mb: 1,
+                      wordBreak: "break-word",
+                      whiteSpace: "normal",
+                    }}
                   >
                     {lng.toUpperCase()}
                   </Button>
