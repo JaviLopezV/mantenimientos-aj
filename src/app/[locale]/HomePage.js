@@ -1,15 +1,75 @@
 "use client";
 
-import { useTranslations } from "next-intl";
-import { Typography } from "@mui/material";
+import React, { useState } from "react";
+import { Fade, Box } from "@mui/material";
+import MainContent from "./about/components/MainContent";
+import ImageCarousel from "./home/components/ImageCarousel";
+import AboutSection from "./home/components/AboutSection";
+import Section from "../../components/Section";
 
+const backgroundImages = {
+  home: "/images/home-bg-1.jpg",
+  about: "/images/home-bg-3.jpg",
+  services: "/images/home-bg-2.png",
+};
+
+// import { useLocale } from "next-intl";
 export default function HomePage() {
-  const t = useTranslations();
+  const [activeSection, setActiveSection] = useState("home");
+  // const locale = useLocale();
+  // console.log("🚀 ~ HomePage ~ locale:", locale);
+
+  const handleInView = (section) => (inView) => {
+    if (inView) setActiveSection(section);
+  };
 
   return (
-    <div>
-      <Typography variant="h4">{t("Seo.home.title")}</Typography>
-      <Typography variant="body1">{t("Seo.home.description")}</Typography>
-    </div>
+    <Box sx={{ position: "relative", overflowX: "hidden", width: "100%" }}>
+      {/* Background with fade transitions */}
+      <Box
+        sx={{
+          position: "fixed",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100vh",
+          zIndex: -1,
+        }}
+      >
+        {Object.entries(backgroundImages).map(([key, image]) => (
+          <Fade in={activeSection === key} timeout={1500} key={key}>
+            <Box
+              sx={{
+                position: "absolute",
+                top: 0,
+                left: 0,
+                width: "100%",
+                height: "100%",
+                backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(${image})`,
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+                transition: "opacity 1s ease-in-out",
+              }}
+            />
+          </Fade>
+        ))}
+      </Box>
+
+      <Section id="about" onInView={handleInView("about")}>
+        <MainContent
+          title="Sobre Nosotros"
+          description="Conoce nuestra historia"
+        />
+      </Section>
+
+      <Section isLeft={true} id="services" onInView={handleInView("services")}>
+        <ImageCarousel />
+      </Section>
+
+      {/* Sections */}
+      <Section id="home" onInView={handleInView("home")}>
+        <AboutSection />
+      </Section>
+    </Box>
   );
 }

@@ -1,5 +1,6 @@
 import LocaleProvider from "./LocaleProvider";
 import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export async function generateStaticParams() {
   return [
@@ -41,6 +42,7 @@ export default async function LocaleLayout({ children, params }) {
           {/* Header with locale switcher */}
           <Header currentLocale={locale} />
           {children}
+          <Footer currentLocale={locale} />
         </LocaleProvider>
       </body>
     </html>
