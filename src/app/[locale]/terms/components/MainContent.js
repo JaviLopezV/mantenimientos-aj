@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 
 import React from "react";
 import { Paper, Typography, Link as MuiLink } from "@mui/material";
-import Spacer from "../../../../components/Spacer/Spacer";
+import Spacer from "../../../../components/Spacer";
 
 const MainContent = () => {
   const t = useTranslations();
