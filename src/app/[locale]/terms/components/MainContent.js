@@ -1,7 +1,6 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { Typography } from "@mui/material";
 
 import React from "react";
 import { Paper, Typography, Link as MuiLink } from "@mui/material";
