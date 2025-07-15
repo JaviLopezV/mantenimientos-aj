@@ -1,50 +1,57 @@
 {
   "Seo": {
     "home": {
-      "title": "Extintores Panorámica AJ - Protección contra incendios",
-      "description": "Empresa especializada en extintores, mantenimiento y soluciones contra incendios."
+      "title": "Extincteurs Panoramica AJ - Protection incendie",
+      "description": "Experts en extincteurs, maintenance et solutions professionnelles de sécurité incendie."
     },
     "contact": {
-      "title": "Contáctanos | Extintores Panorámica AJ",
-      "description": "Ponte en contacto con nosotros para cualquier consulta o servicio de protección contra incendios."
+      "title": "Contactez-nous | Extincteurs Panoramica AJ",
+      "description": "Contactez-nous pour toute question ou service lié à la protection contre les incendies."
     },
     "products": {
-      "title": "Productos | Extintores Panorámica AJ",
-      "description": "Explora nuestros productos de seguridad y extintores certificados."
+      "title": "Produits | Extincteurs Panoramica AJ",
+      "description": "Découvrez nos produits de sécurité incendie certifiés."
     },
     "about": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "À propos de nous | Extincteurs Panoramica AJ",
+      "description": "Découvrez notre expérience et notre engagement dans la sécurité incendie."
     },
     "quote": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Demande de devis | Extincteurs Panoramica AJ",
+      "description": "Demandez un devis personnalisé pour nos services et produits de sécurité incendie."
     },
     "terms": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Conditions générales | Extincteurs Panoramica AJ",
+      "description": "Consultez nos conditions générales de vente et de service."
     },
     "privacyPolicy": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Politique de confidentialité | Extincteurs Panoramica AJ",
+      "description": "Lisez notre politique de confidentialité et de traitement des données."
     },
     "lowVoltage": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Basse tension | Extincteurs Panoramica AJ",
+      "description": "Inspections et installations de systèmes de basse tension certifiés."
     },
     "mantainanceFireSystems": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Maintenance des systèmes incendie | Extincteurs Panoramica AJ",
+      "description": "Services de maintenance pour systèmes de sécurité incendie professionnels."
     },
 
     "keywords": {
       "keyword1": "extincteurs",
       "keyword2": "protection incendie",
-      "keyword3": "Extintores Panorámica AJ",
+      "keyword3": "Extincteurs Panoramica AJ",
       "keyword4": "systèmes de protection incendie",
       "keyword5": "extincteurs à Valence",
       "keyword6": "extincteurs en Espagne",
-      "keyword7": "basse tension"
+      "keyword7": "basse tension",
+      "keyword8": "inspection basse tension",
+      "keyword9": "maintenance des systèmes incendie",
+      "keyword10": "installation des systèmes incendie",
+      "keyword11": "sécurité incendie",
+      "keyword12": "extincteurs aj",
+      "keyword13": "extincteurs panoramica aj",
+      "keyword14": "extincteurs panoramica"
     }
   },
 

@@ -118,7 +118,11 @@ export default function AppAppBar({ currentLocale }) {
   };
 
   return (
-    <StyledAppBar position="fixed" elevation={4} sx={{ bgcolor: "#2E2E2E" }}>
+    <StyledAppBar
+      position="fixed"
+      elevation={4}
+      sx={{ bgcolor: { xs: "white", ms: "white", md: "#2E2E2E" } }}
+    >
       <Box sx={{ px: { xs: 2, md: 4, lg: 8 } }}>
         <Toolbar disableGutters sx={{ justifyContent: "space-between" }}>
           {/* LOGOS */}
@@ -284,7 +288,9 @@ export default function AppAppBar({ currentLocale }) {
           {/* MOBILE MENU */}
           <Box sx={{ display: { xs: "flex", md: "none" } }}>
             <IconButton onClick={() => setDrawerOpen(true)}>
-              <MenuIcon sx={{ color: "white" }} />
+              <MenuIcon
+                sx={{ color: { xs: "black", sm: "black", md: "white" } }}
+              />
             </IconButton>
             <Drawer
               anchor="top"
@@ -311,6 +317,10 @@ export default function AppAppBar({ currentLocale }) {
                           navigate(child.path);
                           setDrawerOpen(false);
                         }}
+                        sx={{
+                          wordBreak: "break-word",
+                          whiteSpace: "normal",
+                        }}
                       >
                         {iconsMap[child.label]}
                         <Box ml={1}>{t(child.label)}</Box>
@@ -323,6 +333,10 @@ export default function AppAppBar({ currentLocale }) {
                       onClick={() => {
                         navigate(item.path);
                         setDrawerOpen(false);
+                      }}
+                      sx={{
+                        wordBreak: "break-word",
+                        whiteSpace: "normal",
                       }}
                     >
                       {iconsMap[item.label]}

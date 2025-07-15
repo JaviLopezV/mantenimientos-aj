@@ -1,50 +1,57 @@
 {
   "Seo": {
     "home": {
-      "title": "Extintores Panorámica AJ - Brandschutzlösungen",
-      "description": "Spezialisten für Feuerlöscher, Wartung und professionelle Brandschutzlösungen."
+      "title": "Panoramica AJ Feuerlöscher - Brandschutzlösungen",
+      "description": "Experten für Feuerlöscher, Wartung und professionelle Brandschutzsysteme."
     },
     "contact": {
-      "title": "Kontakt | Extintores Panorámica AJ",
-      "description": "Kontaktieren Sie uns für Fragen oder Brandschutzdienstleistungen."
+      "title": "Kontaktieren Sie uns | Panoramica AJ Feuerlöscher",
+      "description": "Kontaktieren Sie uns bei Fragen oder für Brandschutzdienstleistungen."
     },
     "products": {
-      "title": "Produkte | Extintores Panorámica AJ",
-      "description": "Entdecken Sie unsere zertifizierten Brandschutzprodukte und Feuerlöscher."
+      "title": "Produkte | Panoramica AJ Feuerlöscher",
+      "description": "Entdecken Sie unsere zertifizierten Brandschutzprodukte."
     },
     "about": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Über uns | Panoramica AJ Feuerlöscher",
+      "description": "Erfahren Sie mehr über unsere Erfahrung und unser Engagement im Brandschutz."
     },
     "quote": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Angebot anfordern | Panoramica AJ Feuerlöscher",
+      "description": "Fordern Sie ein individuelles Angebot für unsere Produkte und Dienstleistungen an."
     },
     "terms": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Allgemeine Geschäftsbedingungen | Panoramica AJ Feuerlöscher",
+      "description": "Lesen Sie unsere allgemeinen Geschäftsbedingungen und Verkaufsrichtlinien."
     },
     "privacyPolicy": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Datenschutzrichtlinie | Panoramica AJ Feuerlöscher",
+      "description": "Lesen Sie unsere Datenschutz- und Datenverarbeitungsrichtlinien."
     },
     "lowVoltage": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Niederspannung | Panoramica AJ Feuerlöscher",
+      "description": "Zertifizierte Inspektionen und Installationen im Niederspannungsbereich."
     },
     "mantainanceFireSystems": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Wartung von Brandschutzsystemen | Panoramica AJ Feuerlöscher",
+      "description": "Professionelle Wartung von Brandschutzanlagen."
     },
 
     "keywords": {
-      "keyword1": "Feuerlöscher",
-      "keyword2": "Brandschutz",
-      "keyword3": "Extintores Panorámica AJ",
-      "keyword4": "Brandschutzsysteme",
-      "keyword5": "Feuerlöscher in Valencia",
-      "keyword6": "Feuerlöscher in Spanien",
-      "keyword7": "Niederspannung"
+      "keyword1": "feuerlöscher",
+      "keyword2": "brandschutz",
+      "keyword3": "Panoramica AJ Feuerlöscher",
+      "keyword4": "brandschutzsysteme",
+      "keyword5": "feuerlöscher in Valencia",
+      "keyword6": "feuerlöscher in Spanien",
+      "keyword7": "niederspannung",
+      "keyword8": "niederspannungsprüfung",
+      "keyword9": "wartung brandschutzsysteme",
+      "keyword10": "installation brandschutzsysteme",
+      "keyword11": "brandsicherheit",
+      "keyword12": "aj feuerlöscher",
+      "keyword13": "panoramica aj feuerlöscher",
+      "keyword14": "panoramica feuerlöscher"
     }
   },
 

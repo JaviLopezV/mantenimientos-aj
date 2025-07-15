@@ -14,9 +14,9 @@ import {
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import SupportAgentIcon from "@mui/icons-material/SupportAgent";
 import AccessTimeIcon from "@mui/icons-material/AccessTime";
-import FacebookIcon from "@mui/icons-material/Facebook";
+// import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
-import YouTubeIcon from "@mui/icons-material/YouTube";
+// import YouTubeIcon from "@mui/icons-material/YouTube";
 import WhatsAppButton from "./Whatsapp";
 import { useTranslations } from "next-intl";
 import { useRouter } from "next/navigation";
@@ -120,15 +120,15 @@ const FooterInfo = ({ currentLocale }) => {
               gap={1}
               mb={3}
             >
-              <IconButton color="inherit" size="large">
+              {/* <IconButton color="inherit" size="large">
                 <FacebookIcon />
-              </IconButton>
+              </IconButton> */}
               <IconButton color="inherit" size="large">
                 <InstagramIcon />
               </IconButton>
-              <IconButton color="inherit" size="large">
+              {/* <IconButton color="inherit" size="large">
                 <YouTubeIcon />
-              </IconButton>
+              </IconButton> */}
 
               <WhatsAppButton />
             </Box>
