@@ -55,6 +55,8 @@
     }
   },
 
+  "loading": "Wird geladen...",
+
   "home": "Startseite",
   "products": "Produkte",
   "navbar3": "Brandschutz",

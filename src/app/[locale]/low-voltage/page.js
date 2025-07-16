@@ -1,7 +1,9 @@
 import dynamic from "next/dynamic";
+import Loader from "../../../components/Loading";
 
 const LowVoltagePage = dynamic(() => import("./LowVoltagePage"), {
   ssr: false,
+  loading: Loader,
 });
 
 export async function generateMetadata({ params }) {

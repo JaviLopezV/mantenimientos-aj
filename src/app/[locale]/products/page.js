@@ -1,6 +1,10 @@
 import dynamic from "next/dynamic";
+import Loader from "../../../components/Loading";
 
-const ProductsPage = dynamic(() => import("./ProductsPage"), { ssr: false });
+const ProductsPage = dynamic(() => import("./ProductsPage"), {
+  ssr: false,
+  loading: Loader,
+});
 
 export async function generateMetadata({ params }) {
   const { locale } = params;

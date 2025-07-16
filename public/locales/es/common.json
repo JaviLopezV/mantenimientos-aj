@@ -55,6 +55,8 @@
     }
   },
 
+  "loading": "Cargando...",
+
   "home": "Inicio",
   "products": "Productos",
   "navbar3": "Contra Incendios",

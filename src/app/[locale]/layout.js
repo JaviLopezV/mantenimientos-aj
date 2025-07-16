@@ -19,7 +19,7 @@ export const metadata = {
     template: "%s | Extintores Panorámica AJ",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/extintor.png",
   },
 };
 

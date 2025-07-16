@@ -1,6 +1,10 @@
 import dynamic from "next/dynamic";
+import Loader from "../../../components/Loading";
 
-const ContactPage = dynamic(() => import("./ContactPage"), { ssr: false });
+const ContactPage = dynamic(() => import("./ContactPage"), {
+  ssr: false,
+  loading: Loader,
+});
 
 export async function generateMetadata({ params }) {
   const { locale } = params;

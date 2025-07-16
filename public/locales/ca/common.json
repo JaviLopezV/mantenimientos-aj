@@ -55,6 +55,8 @@
     }
   },
 
+  "loading": "Carregant...",
+
   "home": "Inici",
   "products": "Productes",
   "navbar3": "Contra Incendis",

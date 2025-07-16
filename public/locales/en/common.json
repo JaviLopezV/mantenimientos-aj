@@ -55,6 +55,8 @@
     }
   },
 
+  "loading": "Loading...",
+
   "home": "Home",
   "products": "Products",
   "navbar3": "Fire Protection",

@@ -1,6 +1,10 @@
 import dynamic from "next/dynamic";
+import Loader from "../../../components/Loading";
 
-const QuotePage = dynamic(() => import("./QuotePage"), { ssr: false });
+const QuotePage = dynamic(() => import("./QuotePage"), {
+  ssr: false,
+  loading: Loader,
+});
 
 export async function generateMetadata({ params }) {
   const { locale } = params;

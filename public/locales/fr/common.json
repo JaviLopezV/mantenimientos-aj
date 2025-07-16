@@ -55,6 +55,8 @@
     }
   },
 
+  "loading": "Chargement...",
+
   "home": "Accueil",
   "products": "Produits",
   "navbar3": "Protection Incendie",

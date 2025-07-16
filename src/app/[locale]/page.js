@@ -1,6 +1,11 @@
 import dynamic from "next/dynamic";
 
-const HomePage = dynamic(() => import("./HomePage"), { ssr: false });
+import Loader from "../../components/Loading";
+
+const HomePage = dynamic(() => import("./HomePage"), {
+  ssr: false,
+  loading: Loader,
+});
 
 export async function generateMetadata({ params }) {
   const { locale } = params;
@@ -40,6 +45,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function Page() {
+export default async function Page() {
   return <HomePage />;
 }

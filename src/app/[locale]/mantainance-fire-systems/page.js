@@ -1,8 +1,9 @@
 import dynamic from "next/dynamic";
+import Loader from "../../../components/Loading";
 
 const MantainanceFireSystemsPage = dynamic(
   () => import("./MantainanceFireSystemsPage"),
-  { ssr: false }
+  { ssr: false, loading: Loader }
 );
 
 export async function generateMetadata({ params }) {
