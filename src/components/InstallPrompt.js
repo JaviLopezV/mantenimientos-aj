@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useState } from "react";
 import { Button, Slide, Paper, Stack } from "@mui/material";
 import { useTranslations } from "next-intl";
@@ -11,10 +13,10 @@ function isMobileDevice() {
 export default function InstallPrompt() {
   const [deferredPrompt, setDeferredPrompt] = useState(null);
   const [showInstall, setShowInstall] = useState(false);
-  const { t } = useTranslation();
+  const t = useTranslations();
 
   useEffect(() => {
-    if (!isMobileDevice()) return; // 👉 solo móviles
+    if (!isMobileDevice()) return;
 
     const handler = (e) => {
       e.preventDefault();
