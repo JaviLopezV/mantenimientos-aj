@@ -10,11 +10,12 @@ import {
   ListItemIcon,
   ListItemText,
   Paper,
+  Button,
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
-import LowVoltageModal from "@/components/LowVoltageModal";
+import Spacer from "@/components/Spacer";
 
-export default function InspectionLowVoltageSection() {
+export default function InspectionLowVoltageSection({ setOpen }) {
   const t = useTranslations();
 
   return (
@@ -151,7 +152,11 @@ export default function InspectionLowVoltageSection() {
         {t("lowVoltageInspection.whoPerforms.description")}
       </Typography>
 
-      <LowVoltageModal />
+      <Spacer size={1} />
+
+      <Button mt={3} variant="contained" onClick={() => setOpen(true)}>
+        {t("requestInspection")}
+      </Button>
     </Paper>
   );
 }

@@ -50,6 +50,7 @@ export default function MainContent({
           <Alert onClose={() => closeAlert("error")} severity="error">
             {t("message_sent_error")}
           </Alert>
+          <Spacer size={1} />
         </>
       )}
       {showSendAlert && (
@@ -58,6 +59,7 @@ export default function MainContent({
           <Alert onClose={() => closeAlert("send")} severity="success">
             {t("message_sent_success")}
           </Alert>
+          <Spacer size={1} />
         </>
       )}
       {showTermsAlert && (
@@ -66,6 +68,7 @@ export default function MainContent({
           <Alert onClose={() => closeAlert("terms")} severity="warning">
             {t("accept_terms")}
           </Alert>
+          <Spacer size={1} />
         </>
       )}
 

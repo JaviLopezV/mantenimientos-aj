@@ -45,18 +45,20 @@ export default function useQuoteLogic() {
 
     emailjs
       .send(
-        import.meta.env.VITE_API_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_API_EMAILJS_TEMPLATE_ID,
+        process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
+        process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
         contactForm,
-        import.meta.env.VITE_API_EMAILJS_PUBLIC_KEY
+        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
           setContactForm(initialData);
-          setAcceptedTerms(false);
           setShowSendAlert(true);
+          setAcceptedTerms(false);
+          setShowErrorAlert(false);
+          setShowTermsAlert(false);
         },
-        () => {
+        (error) => {
           setShowErrorAlert(true);
         }
       );
