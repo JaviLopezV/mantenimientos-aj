@@ -56,6 +56,11 @@
   },
 
   "loading": "Cargando...",
+  "requestInspection": "Solicitar inspección",
+  "requestLowVoltageInspection": "Solicitar inspección de baja tensión",
+  "supportMessage": "Estamos para cualquier duda",
+  "supportMessageHelp": "Estamos aquí para ayudarte",
+  "supportMessageContact": "No dudes en contactarnos",
 
   "home": "Inicio",
   "products": "Productos",
@@ -101,7 +106,7 @@
   "privacy_policy": "Política de Privacidad",
 
   "first_name": "Nombre",
-  "last_name": "Apellido",
+  "last_name": "Apellidos",
   "address_line": "Dirección",
   "city": "Ciudad",
   "message": "Mensaje",

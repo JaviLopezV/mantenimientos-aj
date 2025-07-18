@@ -56,6 +56,11 @@
   },
 
   "loading": "Carregant...",
+  "requestInspection": "Sol·licitar inspecció",
+  "requestLowVoltageInspection": "Sol·licitar inspecció de baixa tensió",
+  "supportMessage": "Estem per a qualsevol dubte",
+  "supportMessageHelp": "Som aquí per ajudar-te",
+  "supportMessageContact": "No dubtis a contactar-nos",
 
   "home": "Inici",
   "products": "Productes",
@@ -143,6 +148,7 @@
       "content": "Si tens preguntes, contacta'ns a: "
     }
   },
+
   "email": "Correu electrònic:",
   "phone": "Telèfon:",
   "contact_intro": "Si tens algun dubte o consulta, no dubtis a contactar-nos.",

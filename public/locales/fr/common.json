@@ -56,6 +56,11 @@
   },
 
   "loading": "Chargement...",
+  "requestInspection": "Demander une inspection",
+  "requestLowVoltageInspection": "Demander une inspection basse tension",
+  "supportMessage": "Nous sommes là pour toute question",
+  "supportMessageHelp": "Nous sommes là pour vous aider",
+  "supportMessageContact": "N'hésitez pas à nous contacter",
 
   "home": "Accueil",
   "products": "Produits",

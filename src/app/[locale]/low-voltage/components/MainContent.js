@@ -12,6 +12,7 @@ import {
   Paper,
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
+import LowVoltageModal from "@/components/LowVoltageModal";
 
 export default function InspectionLowVoltageSection() {
   const t = useTranslations();
@@ -149,6 +150,8 @@ export default function InspectionLowVoltageSection() {
       <Typography variant="body1">
         {t("lowVoltageInspection.whoPerforms.description")}
       </Typography>
+
+      <LowVoltageModal />
     </Paper>
   );
 }

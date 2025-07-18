@@ -19,6 +19,7 @@ import { useLocale } from "next-intl";
 import { useRouter } from "next/navigation";
 
 export default function MainContent({
+  showTitle = true,
   showTitle1 = true,
   contactForm,
   acceptedTerms,
@@ -37,9 +38,11 @@ export default function MainContent({
   };
   return (
     <>
-      <Typography variant={showTitle1 ? "h3" : "h4"} gutterBottom>
-        {t(showTitle1 ? "contact_us" : "quote")}
-      </Typography>
+      {showTitle && (
+        <Typography variant={showTitle1 ? "h3" : "h4"} gutterBottom>
+          {t(showTitle1 ? "quote" : "supportMessageContact")}
+        </Typography>
+      )}
 
       {showErrorAlert && (
         <>
@@ -66,7 +69,7 @@ export default function MainContent({
         </>
       )}
 
-      <Box component="form" noValidate>
+      <Box noValidate>
         <Grid container spacing={3}>
           <Grid item xs={12} md={6}>
             <TextField

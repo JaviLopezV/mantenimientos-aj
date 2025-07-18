@@ -13,8 +13,8 @@ export async function generateMetadata({ params }) {
   ).default;
 
   return {
-    title: messages.Seo.contact.title,
-    description: messages.Seo.contact.description,
+    title: messages.Seo.terms.title,
+    description: messages.Seo.terms.description,
     alternates: {
       canonical: `https://extintores-panoramica-aj.vercel.app/${locale}/contact`,
     },

@@ -56,6 +56,11 @@
   },
 
   "loading": "Loading...",
+  "requestInspection": "Request inspection",
+  "requestLowVoltageInspection": "Request low voltage inspection",
+  "supportMessage": "We are here for any questions",
+  "supportMessageHelp": "We are here to help you",
+  "supportMessageContact": "Don't hesitate to contact us",
 
   "home": "Home",
   "products": "Products",

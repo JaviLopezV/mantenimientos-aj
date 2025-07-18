@@ -56,6 +56,11 @@
   },
 
   "loading": "Wird geladen...",
+  "requestInspection": "Inspektion anfordern",
+  "requestLowVoltageInspection": "Niederspannungsinspektion anfordern",
+  "supportMessage": "Wir sind für alle Fragen da",
+  "supportMessageHelp": "Wir sind hier, um Ihnen zu helfen",
+  "supportMessageContact": "Zögern Sie nicht, uns zu kontaktieren",
 
   "home": "Startseite",
   "products": "Produkte",
