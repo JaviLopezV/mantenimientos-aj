@@ -10,13 +10,15 @@ import {
   Divider,
   Container,
   Paper,
+  Button,
 } from "@mui/material";
 import FireExtinguisherIcon from "@mui/icons-material/FireExtinguisher";
 import BuildIcon from "@mui/icons-material/Build";
 import SecurityIcon from "@mui/icons-material/Security";
 import { useTranslations } from "next-intl";
+import Spacer from "@/components/Spacer";
 
-const FireMaintenanceInstallations = () => {
+const FireMaintenanceInstallations = ({ setOpen }) => {
   const t = useTranslations();
 
   return (
@@ -111,6 +113,12 @@ const FireMaintenanceInstallations = () => {
             <SecurityIcon sx={{ fontSize: 32, mt: 2 }} color="success" />
           </Card>
         </Box>
+
+        <Spacer size={1} />
+
+        <Button variant="contained" onClick={() => setOpen(true)}>
+          {t("requestInspection")}
+        </Button>
       </Container>
     </Paper>
   );

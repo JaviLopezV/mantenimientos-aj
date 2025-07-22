@@ -55,12 +55,16 @@
     }
   },
 
+  "companyName": "Extintores Panorámica AJ",
+
   "loading": "Carregant...",
   "requestInspection": "Sol·licitar inspecció",
   "requestLowVoltageInspection": "Sol·licitar inspecció de baixa tensió",
   "supportMessage": "Estem per a qualsevol dubte",
   "supportMessageHelp": "Som aquí per ajudar-te",
   "supportMessageContact": "No dubtis a contactar-nos",
+
+  "requestFireInspection": "Sol·licitar inspecció contra incendis",
 
   "home": "Inici",
   "products": "Productes",
@@ -330,6 +334,6 @@
     "paragraph2": "La nostra missió és clara: <strong>protegir vides, béns i entorns</strong> mitjançant serveis tècnics d’alta qualitat i amb un enfocament preventiu. Treballem sota els estàndards de seguretat més estrictes, normatives nacionals i internacionals, i amb tecnologia d’avantguarda que garanteix resultats fiables i eficaços.",
     "paragraph3": "Comptem amb un equip de professionals altament qualificats, amb àmplia experiència en la <strong>detecció de riscos, revisió d’instal·lacions i assessorament tècnic especialitzat</strong>. A Extintores Panorámica AJ, no només inspeccionem: <strong>anticipem, prevenim i protegim</strong>.",
     "paragraph4": "Creiem fermament que la prevenció és la millor inversió. Per això, col·laborem estretament amb els nostres clients — indústria, empreses, institucions i comunitats — per construir espais més segurs i resilients davant el risc d’incendis.",
-    "slogan": "Extintores Panorámica AJ: el teu aliat en seguretat contra incendis."
+    "slogan": "El teu aliat en seguretat contra incendis."
   }
 }

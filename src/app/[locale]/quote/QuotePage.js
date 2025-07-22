@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Fade, Box } from "@mui/material";
+import { Fade, Box, Typography } from "@mui/material";
 import MainContent from "./components/MainContent";
 
 import useQuoteLogic from "../../../hooks/useQuoteLogic";
@@ -70,6 +70,9 @@ export default function LandingPage() {
           onSubmit={sendEmail}
           sx={{ backgroundColor: "#fafafa", py: 3, px: 3, borderRadius: 2 }}
         >
+          <Typography variant={"h3"} gutterBottom>
+            {t("quote")}
+          </Typography>
           <MainContent
             contactForm={contactForm}
             acceptedTerms={acceptedTerms}

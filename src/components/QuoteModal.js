@@ -1,21 +1,13 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import React, { useState } from "react";
-import {
-  Modal,
-  Box,
-  Button,
-  Typography,
-  IconButton,
-  Slide,
-} from "@mui/material";
+import React from "react";
+import { Modal, Box, Typography, IconButton, Slide } from "@mui/material";
 import CloseIcon from "@mui/icons-material/Close";
-import Spacer from "./Spacer";
 import useQuoteLogic from "../hooks/useQuoteLogic";
 import MainContent from "../app/[locale]/quote/components/MainContent";
 
-export default function FormModal({ open, setOpen }) {
+export default function QuoteModal({ open, setOpen, title }) {
   const t = useTranslations();
 
   const {
@@ -74,10 +66,9 @@ export default function FormModal({ open, setOpen }) {
             </Box>
             <Box component="form" onSubmit={sendEmail}>
               <Typography variant="h4" gutterBottom mb={1}>
-                {t("requestLowVoltageInspection")}
+                {t(title)}
               </Typography>
               <MainContent
-                showTitle={false}
                 contactForm={contactForm}
                 acceptedTerms={acceptedTerms}
                 showSendAlert={showSendAlert}

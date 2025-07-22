@@ -5,7 +5,7 @@ import { Fade, Box } from "@mui/material";
 import MainContent from "./components/MainContent";
 
 import Section from "../../../components/Section";
-import LowVoltageModal from "@/components/LowVoltageModal";
+import QuoteModal from "@/components/QuoteModal";
 
 const backgroundImages = {
   home: "/images/home-bg-3.jpg",
@@ -58,7 +58,11 @@ export default function LandingPage() {
         <MainContent setOpen={setOpen} />
       </Section>
 
-      <LowVoltageModal open={open} setOpen={setOpen} />
+      <QuoteModal
+        open={open}
+        setOpen={setOpen}
+        title={"requestLowVoltageInspection"}
+      />
     </Box>
   );
 }

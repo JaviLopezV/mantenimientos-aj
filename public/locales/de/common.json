@@ -55,12 +55,16 @@
     }
   },
 
+  "companyName": "Extintores Panorámica AJ",
+
   "loading": "Wird geladen...",
   "requestInspection": "Inspektion anfordern",
   "requestLowVoltageInspection": "Niederspannungsinspektion anfordern",
   "supportMessage": "Wir sind für alle Fragen da",
   "supportMessageHelp": "Wir sind hier, um Ihnen zu helfen",
   "supportMessageContact": "Zögern Sie nicht, uns zu kontaktieren",
+
+  "requestFireInspection": "Feuerbeschau anfordern",
 
   "home": "Startseite",
   "products": "Produkte",
@@ -329,6 +333,6 @@
     "paragraph2": "Unsere Mission ist klar: <strong>Leben, Eigentum und Umwelt zu schützen</strong> durch hochwertige technische Dienstleistungen mit einem präventiven Ansatz. Wir arbeiten nach den strengsten Sicherheitsstandards, nationalen und internationalen Vorschriften, und mit modernster Technologie für zuverlässige und effektive Ergebnisse.",
     "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfassender Erfahrung in der <strong>Gefahrenanalyse, Anlagenprüfung und technischer Fachberatung</strong>. Bei Extintores Panorámica AJ prüfen wir nicht nur: <strong>wir antizipieren, verhindern und schützen</strong>.",
     "paragraph4": "Wir glauben fest daran, dass Prävention die beste Investition ist. Deshalb arbeiten wir eng mit unseren Kunden – Industrie, Unternehmen, Institutionen und Gemeinschaften – zusammen, um sicherere und widerstandsfähigere Räume gegen Brandrisiken zu schaffen.",
-    "slogan": "Extintores Panorámica AJ: Ihr Partner für Brandsicherheit."
+    "slogan": "Ihr Partner für Brandsicherheit."
   }
 }

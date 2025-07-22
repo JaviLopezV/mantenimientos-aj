@@ -52,7 +52,7 @@ export default function Products() {
 
       {/* Sections */}
       <Section id="home" onInView={handleInView("home")}>
-        <MainContent title="Inicio" description="Bienvenido a nuestra web" />
+        <MainContent />
       </Section>
     </Box>
   );

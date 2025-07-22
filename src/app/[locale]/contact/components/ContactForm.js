@@ -1,7 +1,6 @@
 "use client";
 
-import { useTranslations } from "next-intl";
-import { Container, Box } from "@mui/material";
+import { Container, Box, Typography } from "@mui/material";
 
 import QuoteMainContent from "../../quote/components/MainContent";
 import useQuoteLogic from "../../../../hooks/useQuoteLogic";
@@ -30,8 +29,10 @@ export default function MainContent() {
         component="main"
         sx={{ display: "flex", flexDirection: "column" }}
       >
+        <Typography variant={"h4"} gutterBottom>
+          {t("supportMessageContact")}
+        </Typography>
         <QuoteMainContent
-          showTitle1={false}
           contactForm={contactForm}
           acceptedTerms={acceptedTerms}
           showSendAlert={showSendAlert}

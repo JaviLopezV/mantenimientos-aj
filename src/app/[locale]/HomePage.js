@@ -56,10 +56,7 @@ export default function HomePage() {
       </Box>
 
       <Section id="about" onInView={handleInView("about")}>
-        <MainContent
-          title="Sobre Nosotros"
-          description="Conoce nuestra historia"
-        />
+        <MainContent />
       </Section>
 
       <Section isLeft={true} id="services" onInView={handleInView("services")}>

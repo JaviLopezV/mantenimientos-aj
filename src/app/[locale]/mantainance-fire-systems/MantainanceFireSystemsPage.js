@@ -5,6 +5,7 @@ import { Fade, Box } from "@mui/material";
 import MainContent from "./components/MainContent";
 
 import Section from "../../../components/Section";
+import QuoteModal from "@/components/QuoteModal";
 
 const backgroundImages = {
   home: "/images/home-bg-3.jpg",
@@ -14,6 +15,7 @@ const backgroundImages = {
 
 export default function LandingPage() {
   const [activeSection, setActiveSection] = useState("home");
+  const [open, setOpen] = useState(false);
 
   const handleInView = (section) => (inView) => {
     if (inView) setActiveSection(section);
@@ -53,8 +55,14 @@ export default function LandingPage() {
 
       {/* Sections */}
       <Section id="home" onInView={handleInView("home")}>
-        <MainContent title="Inicio" description="Bienvenido a nuestra web" />
+        <MainContent setOpen={setOpen} />
       </Section>
+
+      <QuoteModal
+        open={open}
+        setOpen={setOpen}
+        title={"requestFireInspection"}
+      />
     </Box>
   );
 }

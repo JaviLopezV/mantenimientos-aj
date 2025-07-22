@@ -5,7 +5,6 @@ import React from "react";
 import {
   Checkbox,
   FormControlLabel,
-  FormLabel,
   Grid,
   TextField,
   Link as MuiLink,
@@ -19,8 +18,6 @@ import { useLocale } from "next-intl";
 import { useRouter } from "next/navigation";
 
 export default function MainContent({
-  showTitle = true,
-  showTitle1 = true,
   contactForm,
   acceptedTerms,
   showSendAlert,
@@ -38,12 +35,6 @@ export default function MainContent({
   };
   return (
     <>
-      {showTitle && (
-        <Typography variant={showTitle1 ? "h3" : "h4"} gutterBottom>
-          {t(showTitle1 ? "quote" : "supportMessageContact")}
-        </Typography>
-      )}
-
       {showErrorAlert && (
         <>
           <Spacer size={1} />

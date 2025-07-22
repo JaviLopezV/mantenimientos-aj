@@ -55,12 +55,16 @@
     }
   },
 
+  "companyName": "Extintores Panorámica AJ",
+
   "loading": "Chargement...",
   "requestInspection": "Demander une inspection",
   "requestLowVoltageInspection": "Demander une inspection basse tension",
   "supportMessage": "Nous sommes là pour toute question",
   "supportMessageHelp": "Nous sommes là pour vous aider",
   "supportMessageContact": "N'hésitez pas à nous contacter",
+
+  "requestFireInspection": "Demander une inspection incendie",
 
   "home": "Accueil",
   "products": "Produits",
@@ -329,6 +333,6 @@
     "paragraph2": "Notre mission est claire : <strong>protéger des vies, des biens et des environnements</strong> grâce à des services techniques de haute qualité et une approche préventive. Nous travaillons selon les normes de sécurité les plus strictes, les réglementations nationales et internationales, et avec une technologie de pointe garantissant des résultats fiables et efficaces.",
     "paragraph3": "Nous disposons d'une équipe de professionnels hautement qualifiés, avec une grande expérience en <strong>détection des risques, inspection des installations et conseil technique spécialisé</strong>. Chez Extintores Panorámica AJ, nous ne faisons pas que contrôler : <strong>nous anticipons, prévenons et protégeons</strong>.",
     "paragraph4": "Nous croyons fermement que la prévention est le meilleur investissement. C’est pourquoi nous collaborons étroitement avec nos clients — industrie, entreprises, institutions et collectivités — pour créer des espaces plus sûrs et résilients face aux risques d’incendie.",
-    "slogan": "Extintores Panorámica AJ : votre allié pour la sécurité incendie."
+    "slogan": "Votre allié pour la sécurité incendie."
   }
 }

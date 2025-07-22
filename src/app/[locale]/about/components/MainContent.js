@@ -19,12 +19,20 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
 }));
 
 export default function AboutPage() {
-  const t = useTranslations("aboutPage");
+  const t = useTranslations();
   const theme = useTheme();
   const isMdUp = useMediaQuery(theme.breakpoints.down("sm"));
 
   const Content = (
     <>
+      <Typography variant="h2" gutterBottom sx={{ fontWeight: "bold" }}>
+        <p style={{ margin: 0 }}>
+          {t.rich("companyName", {
+            strong: (chunks) => <strong>{chunks}</strong>,
+          })}
+        </p>
+      </Typography>
+
       <Typography
         variant="h4"
         component="h1"
@@ -32,7 +40,7 @@ export default function AboutPage() {
         sx={{ fontWeight: "bold" }}
       >
         <p style={{ margin: 0 }}>
-          {t.rich("title", {
+          {t.rich("aboutPage.title", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
         </p>
@@ -40,7 +48,7 @@ export default function AboutPage() {
 
       <Typography variant="body1">
         <p>
-          {t.rich("paragraph1", {
+          {t.rich("aboutPage.paragraph1", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
         </p>
@@ -48,7 +56,7 @@ export default function AboutPage() {
 
       <Typography variant="body1">
         <p>
-          {t.rich("paragraph2", {
+          {t.rich("aboutPage.paragraph2", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
         </p>
@@ -56,7 +64,7 @@ export default function AboutPage() {
 
       <Typography variant="body1">
         <p>
-          {t.rich("paragraph3", {
+          {t.rich("aboutPage.paragraph3", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
         </p>
@@ -64,7 +72,7 @@ export default function AboutPage() {
 
       <Typography variant="body1">
         <p>
-          {t.rich("paragraph4", {
+          {t.rich("aboutPage.paragraph4", {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
         </p>
@@ -74,7 +82,7 @@ export default function AboutPage() {
         variant="h6"
         sx={{ mt: 4, fontStyle: "italic", color: "primary.main" }}
       >
-        {t("slogan")}
+        {t("aboutPage.slogan")}
       </Typography>
     </>
   );
