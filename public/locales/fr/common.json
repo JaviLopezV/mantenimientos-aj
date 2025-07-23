@@ -167,68 +167,68 @@
   "slide1": "Inspecter n'est pas une routine, c'est s'assurer que tout fonctionne quand c'est le plus important",
   "slide2": "La meilleure urgence est celle qui n'arrive jamais : une bonne inspection la rend possible",
   "slide3": "Chaque sceau d'inspection est une promesse de sécurité tenue",
-  "title_1": "Protection incendie sur mesure",
-  "title_2": "Chez Extintores Panorámica AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d'esprit, grâce à des solutions complètes et certifiées de prévention et de lutte contre les incendies.",
+  "title_1": "Protection Incendie Personnalisée et Efficace",
+  "title_2": "Chez Extintores Panorámica AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d’esprit. Nous offrons des solutions complètes, certifiées et adaptées à vos besoins pour garantir une sécurité maximale en prévention et contrôle des incendies.",
   "lowVoltageInspection": {
-    "title": "Inspection Basse Tension",
-    "intro1": "L'inspection basse tension est un processus technique essentiel qui garantit le bon fonctionnement, la sécurité et la conformité réglementaire des installations électriques fonctionnant en dessous de 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
-    "intro2": "Dans le domaine de la protection incendie, ce type d'inspection est crucial, car de nombreuses urgences sont causées par des défaillances électriques qui auraient pu être évitées avec un contrôle approprié.",
+    "title": "Inspection basse tension à Vinaròs, Castellón et environs",
+    "intro1": "Chez Extintores Panorámica AJ, nous réalisons des inspections de basse tension à Vinaròs, Castellón et dans les localités environnantes. Ce processus garantit le bon fonctionnement, la sécurité et la conformité des installations électriques inférieures à 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
+    "intro2": "Ces inspections sont essentielles dans le cadre de la prévention incendie, car de nombreux sinistres proviennent de défauts électriques évitables.",
     "purposes": {
-      "title": "À quoi ça sert ?",
+      "title": "À quoi sert-elle ?",
       "items": {
-        "item1": "Prévention des risques électriques et d'incendie : détecte les surcharges, câbles défectueux, connexions lâches ou mal dimensionnées.",
-        "item2": "Vérification de la conformité réglementaire : garantit le respect du REBT et des normes applicables.",
-        "item3": "Protection des personnes et des biens : minimise les risques d'électrocution et de dommages matériels.",
-        "item4": "Garantie du bon fonctionnement des systèmes d'urgence : assure une alimentation électrique sûre pour les équipements de protection incendie."
+        "item1": "Prévenir les risques électriques et les incendies : détecter les surcharges, câbles endommagés ou mauvaises connexions.",
+        "item2": "Vérifier la conformité aux normes comme le REBT.",
+        "item3": "Protéger les personnes et les biens : éviter les électrocutions et les dégâts matériels.",
+        "item4": "Assurer l'alimentation correcte des systèmes de protection incendie."
       }
     },
     "inspectedItems": {
-      "title": "Que vérifie-t-on ?",
+      "title": "Éléments vérifiés",
       "items": {
-        "item1": "État et dimensionnement des câbles et des conduits.",
-        "item2": "Tableaux électriques et protections différentielles.",
-        "item3": "Prises de terre et mise à la terre.",
+        "item1": "État et dimensionnement des câbles et canalisations.",
+        "item2": "Tableaux électriques et disjoncteurs différentiels.",
+        "item3": "Systèmes de mise à la terre.",
         "item4": "Interrupteurs automatiques et dispositifs de coupure.",
-        "item5": "Compatibilité et sécurité des systèmes électriques alimentant les équipements de lutte contre l'incendie."
+        "item5": "Compatibilité électrique des équipements de lutte contre l’incendie."
       }
     },
     "whoPerforms": {
-      "title": "Qui doit la réaliser ?",
-      "description": "Ce type d'inspection doit être effectué par du personnel technique qualifié, utilisant des instruments de mesure certifiés. Dans de nombreux établissements — comme les lieux publics, les industries ou les bâtiments équipés de systèmes de protection incendie — ces inspections sont obligatoires et périodiques."
+      "title": "Qui doit effectuer l’inspection ?",
+      "description": "Les inspections doivent être réalisées par un technicien qualifié, équipé d’appareils de mesure certifiés. Extintores Panorámica AJ intervient à Vinaròs, Castellón et dans les environs pour des inspections conformes aux normes en vigueur."
     }
   },
 
-  "fireMaintainceTitle": "Maintenance et Installations de Protection Incendie",
-  "fireMaintainceSubtitle": "Nous protégeons ce qui compte le plus : votre sécurité.",
-  "fireMaintainceDescription": "Nous sommes spécialisés dans la conception, l'installation et la maintenance de systèmes de protection incendie, offrant des solutions complètes pour prévenir, détecter et agir efficacement en cas d'urgence.",
+  "fireMaintainceTitle": "Maintenance et Installation Professionnelle de Systèmes de Protection Incendie à Vinaròs, Castellón et Environs",
+  "fireMaintainceSubtitle": "Votre sécurité est notre priorité : protection incendie complète.",
+  "fireMaintainceDescription": "Nous sommes spécialisés dans la conception, l’installation et la maintenance de systèmes de protection incendie, offrant des solutions personnalisées garantissant la prévention, la détection rapide et la réponse efficace aux urgences dans les habitations, les industries et les locaux commerciaux.",
   "installations": {
-    "title": "Installation de Systèmes de Protection Incendie",
-    "description": "Nous mettons en place des systèmes sur mesure conformément à la réglementation en vigueur et aux besoins spécifiques :",
+    "title": "Installation de systèmes de protection incendie conformes à la réglementation en vigueur",
+    "description": "Nous développons des systèmes adaptés aux besoins spécifiques de chaque client tout en respectant les exigences légales pour garantir une sécurité maximale :",
     "items": {
-      "item1": "Systèmes de détection automatique (fumée, chaleur, gaz)",
-      "item2": "Extinction par eau (sprinklers, RIA, hydrants)",
-      "item3": "Systèmes de gaz propres (FM-200, CO₂)",
-      "item4": "Signalisation et évacuation",
-      "item5": "Équipements de première intervention"
+      "item1": "Systèmes avancés de détection automatique d’incendie (fumée, chaleur, gaz).",
+      "item2": "Systèmes d’extinction à base d’eau : sprinkleurs automatiques, BIEs et bornes d’incendie.",
+      "item3": "Systèmes d’extinction par gaz propres respectueux de l’environnement (FM-200, CO₂).",
+      "item4": "Signalisation claire et systèmes d’évacuation pour une sortie sécurisée.",
+      "item5": "Équipements de première intervention pour un contrôle immédiat du feu."
     }
   },
   "maintenance": {
-    "title": "Maintenance Préventive et Corrective",
-    "description": "Plans de maintenance adaptés pour assurer un fonctionnement optimal :",
+    "title": "Maintenance préventive et corrective pour des performances optimales",
+    "description": "Nous proposons des plans de maintenance personnalisés pour garantir le fonctionnement optimal de vos systèmes de protection incendie :",
     "items": {
-      "item1": "Inspections périodiques et documentation",
-      "item2": "Tests de fonctionnement et de pression",
-      "item3": "Remplacement des éléments défectueux",
-      "item4": "Assistance technique urgente"
+      "item1": "Inspections périodiques complètes avec documentation officielle.",
+      "item2": "Tests de fonctionnement, de pression et d’état des équipements.",
+      "item3": "Remplacement rapide et sécurisé des composants défectueux.",
+      "item4": "Assistance technique urgente et résolution immédiate des problèmes."
     }
   },
   "benefits": {
-    "title": "Pourquoi nous choisir ?",
+    "title": "Pourquoi choisir nos services pour votre protection incendie ?",
     "items": {
-      "item1": "Certification et conformité réglementaire (UNE, NFPA, RIPCI)",
-      "item2": "Personnel qualifié et en formation continue",
-      "item3": "Expérience dans les secteurs industriels, commerciaux et publics",
-      "item4": "Attention personnalisée et service rapide"
+      "item1": "Nous garantissons la certification et le respect strict des normes nationales et internationales (UNE, NFPA, RIPCI).",
+      "item2": "Équipe hautement qualifiée avec formation spécialisée continue.",
+      "item3": "Expérience étendue dans les secteurs industriels, commerciaux, publics et résidentiels.",
+      "item4": "Service personnalisé avec une réponse rapide et un engagement total envers votre sécurité."
     }
   },
 
@@ -329,10 +329,10 @@
 
   "aboutPage": {
     "title": "À Propos de Nous",
-    "paragraph1": "Chez <strong>Extintores Panorámica AJ</strong>, nous sommes engagés pour la sécurité incendie. Depuis nos débuts, nous nous sommes spécialisés dans <strong>l’inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, en offrant des solutions globales adaptées aux besoins de chaque client.",
-    "paragraph2": "Notre mission est claire : <strong>protéger des vies, des biens et des environnements</strong> grâce à des services techniques de haute qualité et une approche préventive. Nous travaillons selon les normes de sécurité les plus strictes, les réglementations nationales et internationales, et avec une technologie de pointe garantissant des résultats fiables et efficaces.",
-    "paragraph3": "Nous disposons d'une équipe de professionnels hautement qualifiés, avec une grande expérience en <strong>détection des risques, inspection des installations et conseil technique spécialisé</strong>. Chez Extintores Panorámica AJ, nous ne faisons pas que contrôler : <strong>nous anticipons, prévenons et protégeons</strong>.",
-    "paragraph4": "Nous croyons fermement que la prévention est le meilleur investissement. C’est pourquoi nous collaborons étroitement avec nos clients — industrie, entreprises, institutions et collectivités — pour créer des espaces plus sûrs et résilients face aux risques d’incendie.",
-    "slogan": "Votre allié pour la sécurité incendie."
+    "paragraph1": "<strong>Extintores Panorámica AJ</strong> est passionnément engagé dans la sécurité incendie. Depuis le premier jour, nous sommes spécialisés dans <strong>l'inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, offrant des solutions complètes adaptées aux besoins spécifiques de chaque client.",
+    "paragraph2": "Notre mission est claire et ferme : <strong>protéger les vies, les biens et les environnements</strong> grâce à des services techniques de haute qualité avec un focus préventif. Nous respectons les normes de sécurité les plus strictes et nous conformons aux réglementations nationales et internationales, utilisant une technologie de pointe pour garantir des résultats fiables et efficaces.",
+    "paragraph3": "Notre équipe est composée de professionnels hautement qualifiés avec une grande expérience dans <strong>la détection des risques, l'inspection des installations et les conseils techniques spécialisés</strong>. Chez Extintores Panorámica AJ, nous ne faisons pas que des inspections : nous <strong>anticipons, prévenons et protégeons</strong> avec engagement et responsabilité.",
+    "paragraph4": "Nous sommes convaincus que la prévention est le meilleur investissement. C’est pourquoi nous travaillons en étroite collaboration avec nos clients — industries, entreprises, institutions et communautés — pour créer des environnements plus sûrs et résilients face aux risques d’incendie.",
+    "slogan": "Votre allié de confiance en sécurité incendie."
   }
 }

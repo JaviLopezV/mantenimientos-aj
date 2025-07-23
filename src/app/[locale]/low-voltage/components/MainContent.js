@@ -20,6 +20,7 @@ export default function InspectionLowVoltageSection({ setOpen }) {
 
   return (
     <Paper
+      component="section"
       elevation={3}
       sx={{
         maxWidth: "1200px",
@@ -29,128 +30,110 @@ export default function InspectionLowVoltageSection({ setOpen }) {
       }}
     >
       <Typography
-        variant="h4"
+        variant="h1"
+        component="h1"
         fontWeight="bold"
         gutterBottom
         sx={{
-          wordBreak: "break-word", // fuerza corte si es necesario
-          overflowWrap: "break-word", // compatibilidad adicional
+          wordBreak: "break-word",
+          overflowWrap: "break-word",
+          fontSize: { xs: "1.8rem", md: "2.4rem" },
         }}
       >
-        🔍 {t("lowVoltageInspection.title")}
+        {t("lowVoltageInspection.title")}
       </Typography>
 
-      <Typography variant="body1" gutterBottom>
+      <Typography variant="body1" component="p" gutterBottom>
         {t("lowVoltageInspection.intro1")}
       </Typography>
-      <Typography variant="body1" gutterBottom>
+      <Typography variant="body1" component="p" gutterBottom>
         {t("lowVoltageInspection.intro2")}
       </Typography>
 
-      <Divider sx={{ my: 3 }} />
+      <Divider sx={{ my: 4 }} />
 
-      <Typography variant="h6" fontWeight="bold" gutterBottom>
-        {t("lowVoltageInspection.purposes.title")}
-      </Typography>
-      <List>
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.purposes.items.item1")}
-          />
-        </ListItem>
+      <section>
+        <Typography
+          variant="h2"
+          component="h2"
+          fontWeight="bold"
+          gutterBottom
+          sx={{
+            wordBreak: "break-word",
+            overflowWrap: "break-word",
+            fontSize: { xs: "1.8rem", md: "2.4rem" },
+          }}
+        >
+          {t("lowVoltageInspection.purposes.title")}
+        </Typography>
 
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.purposes.items.item2")}
-          />
-        </ListItem>
+        <List component="ul">
+          {[1, 2, 3, 4].map((i) => (
+            <ListItem disablePadding sx={{ mb: 1 }} key={i} component="li">
+              <ListItemIcon>
+                <CheckCircleIcon color="primary" aria-hidden="true" />
+              </ListItemIcon>
+              <ListItemText
+                primary={t(`lowVoltageInspection.purposes.items.item${i}`)}
+              />
+            </ListItem>
+          ))}
+        </List>
+      </section>
 
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.purposes.items.item3")}
-          />
-        </ListItem>
+      <Divider sx={{ my: 4 }} />
 
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.purposes.items.item4")}
-          />
-        </ListItem>
-      </List>
+      <section>
+        <Typography
+          variant="h2"
+          component="h2"
+          fontWeight="bold"
+          gutterBottom
+          sx={{
+            wordBreak: "break-word",
+            overflowWrap: "break-word",
+            fontSize: { xs: "1.8rem", md: "2.4rem" },
+          }}
+        >
+          {t("lowVoltageInspection.inspectedItems.title")}
+        </Typography>
 
-      <Divider sx={{ my: 3 }} />
+        <List component="ul">
+          {[1, 2, 3, 4, 5].map((i) => (
+            <ListItem disablePadding sx={{ mb: 1 }} key={i} component="li">
+              <ListItemIcon>
+                <CheckCircleIcon color="primary" aria-hidden="true" />
+              </ListItemIcon>
+              <ListItemText
+                primary={t(
+                  `lowVoltageInspection.inspectedItems.items.item${i}`
+                )}
+              />
+            </ListItem>
+          ))}
+        </List>
+      </section>
 
-      <Typography variant="h6" fontWeight="bold" gutterBottom>
-        {t("lowVoltageInspection.inspectedItems.title")}
-      </Typography>
+      <Divider sx={{ my: 4 }} />
 
-      <List>
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.inspectedItems.items.item1")}
-          />
-        </ListItem>
-
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.inspectedItems.items.item2")}
-          />
-        </ListItem>
-
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.inspectedItems.items.item3")}
-          />
-        </ListItem>
-
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.inspectedItems.items.item4")}
-          />
-        </ListItem>
-
-        <ListItem disablePadding sx={{ mb: 1 }}>
-          <ListItemIcon>
-            <CheckCircleIcon color="primary" />
-          </ListItemIcon>
-          <ListItemText
-            primary={t("lowVoltageInspection.inspectedItems.items.item5")}
-          />
-        </ListItem>
-      </List>
-
-      <Divider sx={{ my: 3 }} />
-
-      <Typography variant="h6" fontWeight="bold" gutterBottom>
-        {t("lowVoltageInspection.whoPerforms.title")}
-      </Typography>
-      <Typography variant="body1">
-        {t("lowVoltageInspection.whoPerforms.description")}
-      </Typography>
+      <section>
+        <Typography
+          variant="h2"
+          component="h2"
+          fontWeight="bold"
+          gutterBottom
+          sx={{
+            wordBreak: "break-word",
+            overflowWrap: "break-word",
+            fontSize: { xs: "1.8rem", md: "2.4rem" },
+          }}
+        >
+          {t("lowVoltageInspection.whoPerforms.title")}
+        </Typography>
+        <Typography variant="body1" component="p">
+          {t("lowVoltageInspection.whoPerforms.description")}
+        </Typography>
+      </section>
 
       <Spacer size={1} />
 

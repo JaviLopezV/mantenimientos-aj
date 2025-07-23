@@ -21,62 +21,37 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
 export default function AboutPage() {
   const t = useTranslations();
   const theme = useTheme();
-  const isMdUp = useMediaQuery(theme.breakpoints.down("sm"));
+  const isMdDown = useMediaQuery(theme.breakpoints.down("sm"));
 
   const Content = (
     <>
-      <Typography variant="h2" gutterBottom sx={{ fontWeight: "bold" }}>
-        <p style={{ margin: 0 }}>
-          {t.rich("companyName", {
-            strong: (chunks) => <strong>{chunks}</strong>,
-          })}
-        </p>
+      <Typography
+        variant="h2"
+        gutterBottom
+        sx={{ fontWeight: "bold", fontSize: { xs: "2rem", md: "2.8rem" } }}
+      >
+        {t.rich("companyName", {
+          strong: (chunks) => <strong>{chunks}</strong>,
+        })}
       </Typography>
 
       <Typography
-        variant="h4"
-        component="h1"
+        variant="h1"
         gutterBottom
-        sx={{ fontWeight: "bold" }}
+        sx={{ fontWeight: "bold", fontSize: { xs: "2rem", md: "2.4rem" } }}
       >
-        <p style={{ margin: 0 }}>
-          {t.rich("aboutPage.title", {
-            strong: (chunks) => <strong>{chunks}</strong>,
-          })}
-        </p>
+        {t.rich("aboutPage.title", {
+          strong: (chunks) => <strong>{chunks}</strong>,
+        })}
       </Typography>
 
-      <Typography variant="body1">
-        <p>
-          {t.rich("aboutPage.paragraph1", {
+      {["paragraph1", "paragraph2", "paragraph3", "paragraph4"].map((key) => (
+        <Typography key={key} variant="body1" paragraph>
+          {t.rich(`aboutPage.${key}`, {
             strong: (chunks) => <strong>{chunks}</strong>,
           })}
-        </p>
-      </Typography>
-
-      <Typography variant="body1">
-        <p>
-          {t.rich("aboutPage.paragraph2", {
-            strong: (chunks) => <strong>{chunks}</strong>,
-          })}
-        </p>
-      </Typography>
-
-      <Typography variant="body1">
-        <p>
-          {t.rich("aboutPage.paragraph3", {
-            strong: (chunks) => <strong>{chunks}</strong>,
-          })}
-        </p>
-      </Typography>
-
-      <Typography variant="body1">
-        <p>
-          {t.rich("aboutPage.paragraph4", {
-            strong: (chunks) => <strong>{chunks}</strong>,
-          })}
-        </p>
-      </Typography>
+        </Typography>
+      ))}
 
       <Typography
         variant="h6"
@@ -98,11 +73,7 @@ export default function AboutPage() {
       }}
     >
       <Container maxWidth="lg" sx={{ py: 4 }}>
-        {isMdUp ? (
-          <Box>{Content}</Box> // solo contenido sin StyledPaper
-        ) : (
-          <StyledPaper>{Content}</StyledPaper> // StyledPaper solo para xs-sm
-        )}
+        {isMdDown ? <Box>{Content}</Box> : <StyledPaper>{Content}</StyledPaper>}
       </Container>
     </Paper>
   );

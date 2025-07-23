@@ -167,70 +167,68 @@
   "slide1": "Inspecting is not routine — it's ensuring everything works when it matters most",
   "slide2": "The best emergency is the one that never happens — a good inspection makes it possible",
   "slide3": "Each inspection seal is a promise of safety fulfilled",
-  "title_1": "Fire protection tailored to you",
-  "title_2": "At Extintores Panorámica AJ, S.L., we protect what matters most: your life, your property, and your peace of mind, with comprehensive and certified fire prevention and control solutions.",
+  "title_1": "Tailored and Effective Fire Protection",
+  "title_2": "At Extintores Panorámica AJ, S.L., we care for what matters most: your life, your property, and your peace of mind. We provide comprehensive, certified solutions tailored to your needs to ensure maximum safety in fire prevention and control.",
   "lowVoltageInspection": {
-    "title": "Low Voltage Inspection",
-    "intro1": "Low voltage inspection is a fundamental technical process that ensures the correct operation, safety, and regulatory compliance of electrical installations operating at voltages below 1,000V AC (alternating current) or 1,500V DC (direct current).",
-    "intro2": "In the field of fire protection, this type of inspection is essential, as many emergencies originate from electrical faults that could have been prevented with proper inspection.",
-
+    "title": "Low Voltage Inspection in Vinaròs, Castellón and Nearby Areas",
+    "intro1": "At Extintores Panorámica AJ, we provide professional low voltage inspections in Vinaròs, Castellón and surrounding towns. This process ensures electrical installations operating under 1,000V AC or 1,500V DC are safe, functional, and compliant with regulations.",
+    "intro2": "Low voltage inspections are crucial for fire prevention, as many emergencies are caused by electrical faults that could have been avoided with timely checks.",
     "purposes": {
-      "title": "What is it for?",
+      "title": "Why is it important?",
       "items": {
-        "item1": "Prevention of electrical risks and fires: Detects overloads, defective cables, loose or improperly sized connections.",
-        "item2": "Verification of regulatory compliance: Ensures compliance with the REBT and applicable regulations.",
-        "item3": "Protection of people and property: Minimizes the risk of electrocution and material damage.",
-        "item4": "Guarantee of proper functioning of emergency systems: Ensures safe power supply for fire protection equipment."
+        "item1": "Prevent electrical risks and fires: detect overloads, damaged cables, and poor connections.",
+        "item2": "Ensure compliance with REBT and other electrical regulations.",
+        "item3": "Protect people and property: reduce risk of electrocution or material damage.",
+        "item4": "Guarantee safe power supply to fire protection systems."
       }
     },
-
     "inspectedItems": {
       "title": "What is inspected?",
       "items": {
-        "item1": "Condition and sizing of cables and conduits.",
+        "item1": "Condition and size of cables and conduits.",
         "item2": "Electrical panels and residual current devices.",
-        "item3": "Grounding and earthing systems.",
-        "item4": "Circuit breakers and cutting devices.",
-        "item5": "Compatibility and safety of electrical systems powering fire protection equipment."
+        "item3": "Grounding systems and earth connections.",
+        "item4": "Automatic switches and cutoff devices.",
+        "item5": "Electrical compatibility with fire safety equipment."
       }
     },
-
     "whoPerforms": {
-      "title": "Who should perform it?",
-      "description": "These inspections must be carried out by qualified technical personnel using certified measuring instruments. In many facilities—such as public venues, industrial plants, or buildings with fire protection systems—these inspections are mandatory and periodic."
+      "title": "Who should perform the inspection?",
+      "description": "Inspections must be performed by certified professionals using calibrated equipment. At Extintores Panorámica AJ, we offer low voltage inspections across Vinaròs, Castellón, and nearby areas, ensuring full compliance and safety."
     }
   },
-  "fireMaintainceTitle": "Fire Maintenance and Installations",
-  "fireMaintainceSubtitle": "We protect what matters most: your safety.",
-  "fireMaintainceDescription": "We specialize in the design, installation, and maintenance of fire protection systems, offering comprehensive solutions to prevent, detect, and respond effectively to any emergency.",
+
+  "fireMaintainceTitle": "Professional Fire Protection Maintenance and Installation in Vinaròs, Castellón and Surrounding Areas",
+  "fireMaintainceSubtitle": "Your safety is our priority: comprehensive fire protection solutions.",
+  "fireMaintainceDescription": "We specialize in the design, installation, and maintenance of fire protection systems, offering customized solutions that ensure prevention, rapid detection, and effective response to emergencies in homes, industries, and commercial premises.",
   "installations": {
-    "title": "Fire Protection System Installation",
-    "description": "We implement tailor-made systems according to current regulations and specific needs:",
+    "title": "Fire Protection System Installation Compliant with Current Regulations",
+    "description": "We develop systems tailored to each client's specific needs while meeting legal requirements to guarantee maximum safety:",
     "items": {
-      "item1": "Automatic detection systems (smoke, heat, gases)",
-      "item2": "Water extinguishing (sprinklers, hose reels, hydrants)",
-      "item3": "Clean gas systems (FM-200, CO₂)",
-      "item4": "Signage and evacuation",
-      "item5": "First intervention equipment"
+      "item1": "Advanced automatic fire detection systems (smoke, heat, gases).",
+      "item2": "Water-based extinguishing systems: automatic sprinklers, hose reels, and hydrants.",
+      "item3": "Clean gas extinguishing systems environmentally friendly (FM-200, CO₂).",
+      "item4": "Clear signage and evacuation systems for safe exit.",
+      "item5": "First intervention equipment for immediate fire control."
     }
   },
   "maintenance": {
-    "title": "Preventive and Corrective Maintenance",
-    "description": "Maintenance plans adapted to ensure optimal performance:",
+    "title": "Preventive and Corrective Maintenance for Optimal Performance",
+    "description": "We offer tailored maintenance plans to ensure your fire protection systems always operate at their best:",
     "items": {
-      "item1": "Periodic inspections and documentation",
-      "item2": "Functionality and pressure tests",
-      "item3": "Replacement of defective elements",
-      "item4": "Urgent technical assistance"
+      "item1": "Comprehensive periodic inspections with official documentation.",
+      "item2": "Functionality, pressure, and condition tests of the equipment.",
+      "item3": "Quick and safe replacement of defective components.",
+      "item4": "Urgent technical support and immediate problem resolution."
     }
   },
   "benefits": {
-    "title": "Why choose us?",
+    "title": "Why choose us for your fire protection needs?",
     "items": {
-      "item1": "Certification and regulatory compliance (UNE, NFPA, RIPCI)",
-      "item2": "Qualified staff and ongoing training",
-      "item3": "Experience in industrial, commercial, and public sectors",
-      "item4": "Personalized attention and fast service"
+      "item1": "We guarantee certification and strict compliance with national and international standards (UNE, NFPA, RIPCI).",
+      "item2": "Highly qualified team with ongoing specialized training.",
+      "item3": "Extensive experience in industrial, commercial, public, and residential sectors.",
+      "item4": "Personalized service with rapid response and full commitment to your safety."
     }
   },
 
@@ -331,10 +329,10 @@
 
   "aboutPage": {
     "title": "About Us",
-    "paragraph1": "At <strong>Extintores Panorámica AJ</strong>, we are committed to fire safety. Since our beginnings, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, offering comprehensive solutions tailored to each client's needs.",
-    "paragraph2": "Our mission is clear: <strong>to protect lives, property, and environments</strong> through high-quality technical services with a preventive approach. We operate under the strictest safety standards, both national and international regulations, using cutting-edge technology to ensure reliable and effective results.",
-    "paragraph3": "We have a team of highly qualified professionals with extensive experience in <strong>risk detection, system inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don't just inspect: <strong>we anticipate, prevent, and protect</strong>.",
-    "paragraph4": "We firmly believe that prevention is the best investment. That's why we work closely with our clients — industry, companies, institutions, and communities — to build safer and more resilient spaces against fire risks.",
-    "slogan": "Your ally in fire safety."
+    "paragraph1": "<strong>Extintores Panorámica AJ</strong> is passionately committed to fire safety. Since day one, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, providing comprehensive solutions tailored to each client’s specific needs.",
+    "paragraph2": "Our mission is clear and firm: <strong>to protect lives, property, and environments</strong> through high-quality technical services with a preventive focus. We adhere to the strictest safety standards and comply with national and international regulations, leveraging state-of-the-art technology to ensure reliable and effective results.",
+    "paragraph3": "Our team consists of highly qualified professionals with extensive experience in <strong>risk detection, installation inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don’t just inspect: we <strong>anticipate, prevent, and protect</strong> with dedication and responsibility.",
+    "paragraph4": "We firmly believe prevention is the best investment. That’s why we work closely with our clients — industries, companies, institutions, and communities — to create safer and more resilient environments against fire risks.",
+    "slogan": "Your trusted ally in fire safety."
   }
 }

@@ -40,6 +40,17 @@ export default async function LocaleLayout({ children, params }) {
           name="google-site-verification"
           content="SWoP3vXcEcYrXGFf4wbGKBdc79pNIsc_tykYLQ1ha9M"
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Extintores Panorámica AJ",
+              url: "https://extintores-panoramica-aj.vercel.app",
+            }),
+          }}
+        />
       </head>
       <body>
         <LocaleProvider locale={locale} messages={messages}>

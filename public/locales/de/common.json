@@ -167,68 +167,68 @@
   "slide1": "Inspektion ist keine Routine - sie stellt sicher, dass alles funktioniert, wenn es am wichtigsten ist",
   "slide2": "Der beste Notfall ist der, der nie eintritt - eine gute Inspektion macht das möglich",
   "slide3": "Jedes Inspektionssiegel ist ein eingelöstes Sicherheitsversprechen",
-  "title_1": "Maßgeschneiderter Brandschutz",
-  "title_2": "Bei Extintores Panorámica AJ, S.L. schützen wir, was am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Sicherheit – mit umfassenden und zertifizierten Lösungen zur Brandverhütung und -bekämpfung.",
+  "title_1": "Maßgeschneiderter und Effektiver Brandschutz",
+  "title_2": "Bei Extintores Panorámica AJ, S.L. schützen wir, was Ihnen am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Ruhe. Wir bieten umfassende, zertifizierte Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind, um maximale Sicherheit bei Brandverhütung und -bekämpfung zu gewährleisten.",
   "lowVoltageInspection": {
-    "title": "Niederspannungsprüfung",
-    "intro1": "Die Niederspannungsprüfung ist ein grundlegender technischer Prozess, der den ordnungsgemäßen Betrieb, die Sicherheit und die Einhaltung gesetzlicher Vorschriften von elektrischen Anlagen mit Spannungen unter 1.000 V Wechselstrom oder 1.500 V Gleichstrom gewährleistet.",
-    "intro2": "Im Bereich des Brandschutzes ist diese Art der Inspektion unerlässlich, da viele Notfälle durch elektrische Fehler verursacht werden, die durch eine ordnungsgemäße Überprüfung hätten verhindert werden können.",
+    "title": "Niederspannungsprüfung in Vinaròs, Castellón und Umgebung",
+    "intro1": "Bei Extintores Panorámica AJ bieten wir Niederspannungsprüfungen in Vinaròs, Castellón und den umliegenden Gebieten an. Diese technische Inspektion stellt sicher, dass elektrische Anlagen unter 1.000 V Wechselstrom (AC) oder 1.500 V Gleichstrom (DC) ordnungsgemäß funktionieren, sicher sind und den geltenden Vorschriften entsprechen.",
+    "intro2": "Diese Art von Inspektion ist entscheidend für den Brandschutz, da viele Brände durch vermeidbare elektrische Fehler verursacht werden.",
     "purposes": {
       "title": "Wozu dient sie?",
       "items": {
-        "item1": "Verhinderung elektrischer Risiken und Brände: Erkennt Überlastungen, defekte Kabel, lose oder falsch dimensionierte Anschlüsse.",
-        "item2": "Überprüfung der gesetzlichen Vorschriften: Stellt die Einhaltung der REBT und der geltenden Normen sicher.",
-        "item3": "Schutz von Personen und Eigentum: Minimiert das Risiko von Stromschlägen und Sachschäden.",
-        "item4": "Sicherstellung des ordnungsgemäßen Betriebs von Notfallsystemen: Gewährleistet eine sichere Stromversorgung für Brandschutzgeräte."
+        "item1": "Vermeidung elektrischer Gefahren und Brände: Erkennung von Überlastungen, beschädigten Kabeln oder fehlerhaften Anschlüssen.",
+        "item2": "Sicherstellung der Einhaltung gesetzlicher Vorschriften (z. B. REBT).",
+        "item3": "Schutz von Personen und Eigentum: Reduzierung der Risiken durch Stromschläge oder Sachschäden.",
+        "item4": "Sicherung der Notstromversorgung für Brandschutzsysteme."
       }
     },
     "inspectedItems": {
-      "title": "Was wird überprüft?",
+      "title": "Was wird geprüft?",
       "items": {
         "item1": "Zustand und Dimensionierung von Kabeln und Leitungen.",
         "item2": "Verteilerkästen und Fehlerstromschutzschalter.",
-        "item3": "Erdungsanschlüsse und Erdungssysteme.",
-        "item4": "Leistungsschalter und Trennvorrichtungen.",
-        "item5": "Kompatibilität und Sicherheit der elektrischen Systeme zur Stromversorgung von Brandschutzeinrichtungen."
+        "item3": "Erdungsanlagen und Schutzleiter.",
+        "item4": "Automatische Schalter und Trennvorrichtungen.",
+        "item5": "Sicherheit und Kompatibilität der elektrischen Systeme für Brandschutzeinrichtungen."
       }
     },
     "whoPerforms": {
-      "title": "Wer führt sie durch?",
-      "description": "Diese Art von Inspektionen muss von qualifiziertem Fachpersonal unter Verwendung zertifizierter Messgeräte durchgeführt werden. In vielen Einrichtungen – wie öffentlichen Orten, Industriebetrieben oder Gebäuden mit Brandschutzsystemen – sind diese Inspektionen verpflichtend und regelmäßig durchzuführen."
+      "title": "Wer führt die Prüfung durch?",
+      "description": "Die Inspektion muss von qualifiziertem Fachpersonal mit zertifizierten Messgeräten durchgeführt werden. In öffentlichen Einrichtungen, Industriebetrieben oder Gebäuden mit Brandschutzsystemen ist die Prüfung gesetzlich vorgeschrieben. Extintores Panorámica AJ bietet zuverlässige Prüfungen in Vinaròs, Castellón und Umgebung an."
     }
   },
 
-  "fireMaintainceTitle": "Wartung und Installation von Brandschutzanlagen",
-  "fireMaintainceSubtitle": "Wir schützen, was am wichtigsten ist: Ihre Sicherheit.",
-  "fireMaintainceDescription": "Wir sind spezialisiert auf Planung, Installation und Wartung von Brandschutzsystemen und bieten umfassende Lösungen zur Prävention, Erkennung und effektiven Reaktion auf Notfälle.",
+  "fireMaintainceTitle": "Professionelle Wartung und Installation von Brandschutzsystemen in Vinaròs, Castellón und Umgebung",
+  "fireMaintainceSubtitle": "Ihre Sicherheit hat oberste Priorität: Umfassender Brandschutz.",
+  "fireMaintainceDescription": "Wir sind Experten im Design, der Installation und Wartung von Brandschutzsystemen und bieten maßgeschneiderte Lösungen, die Prävention, schnelle Erkennung und effektive Reaktion bei Notfällen in Wohnungen, Industrieanlagen und Gewerbe gewährleisten.",
   "installations": {
-    "title": "Installation von Brandschutzsystemen",
-    "description": "Wir implementieren maßgeschneiderte Systeme gemäß geltenden Vorschriften und spezifischen Anforderungen:",
+    "title": "Installation von Brandschutzsystemen gemäß aktueller Vorschriften",
+    "description": "Wir entwickeln Systeme, die auf die spezifischen Bedürfnisse jedes Kunden zugeschnitten sind und den geltenden gesetzlichen Anforderungen entsprechen, um maximale Sicherheit zu gewährleisten:",
     "items": {
-      "item1": "Automatische Erkennungssysteme (Rauch, Hitze, Gase)",
-      "item2": "Löschung mit Wasser (Sprinkler, Wandhydranten, Hydranten)",
-      "item3": "Saubere Gassysteme (FM-200, CO₂)",
-      "item4": "Beschilderung und Evakuierung",
-      "item5": "Ersteinsatzgeräte"
+      "item1": "Fortschrittliche automatische Brandmeldeanlagen (Rauch, Hitze, Gase).",
+      "item2": "Wassergesteuerte Löschsysteme: automatische Sprinkler, Feuerlöschanschlüsse (BIEs) und Hydranten.",
+      "item3": "Löschanlagen mit umweltfreundlichen sauberen Gasen (FM-200, CO₂).",
+      "item4": "Klare Beschilderung und Evakuierungssysteme für eine sichere Flucht.",
+      "item5": "Erste-Hilfe-Geräte zur sofortigen Brandbekämpfung."
     }
   },
   "maintenance": {
-    "title": "Vorbeugende und Korrektive Wartung",
-    "description": "Wartungspläne, die an eine optimale Funktion angepasst sind:",
+    "title": "Vorbeugende und korrigierende Wartung für maximale Leistung",
+    "description": "Wir bieten maßgeschneiderte Wartungspläne, um sicherzustellen, dass Ihre Brandschutzsysteme stets optimal funktionieren:",
     "items": {
-      "item1": "Regelmäßige Überprüfungen und Dokumentation",
-      "item2": "Funktions- und Drucktests",
-      "item3": "Austausch defekter Teile",
-      "item4": "Dringende technische Unterstützung"
+      "item1": "Umfassende regelmäßige Inspektionen mit offizieller Dokumentation.",
+      "item2": "Funktions-, Druck- und Zustandsprüfungen der Anlagen.",
+      "item3": "Schneller und sicherer Austausch defekter Komponenten.",
+      "item4": "Schneller technischer Notfalldienst und sofortige Problemlösung."
     }
   },
   "benefits": {
-    "title": "Warum uns wählen?",
+    "title": "Warum sollten Sie uns für Ihren Brandschutz wählen?",
     "items": {
-      "item1": "Zertifizierung und Normkonformität (UNE, NFPA, RIPCI)",
-      "item2": "Qualifiziertes Personal und ständige Weiterbildung",
-      "item3": "Erfahrung in Industrie-, Handels- und öffentlichen Sektoren",
-      "item4": "Personalisierte Betreuung und schneller Service"
+      "item1": "Wir garantieren Zertifizierungen und strikte Einhaltung nationaler und internationaler Normen (UNE, NFPA, RIPCI).",
+      "item2": "Hochqualifiziertes Team mit kontinuierlicher Fachweiterbildung.",
+      "item3": "Umfassende Erfahrung in Industrie-, Handels-, öffentlichen und Wohnsektoren.",
+      "item4": "Personalisierter Service mit schneller Reaktion und vollem Engagement für Ihre Sicherheit."
     }
   },
 
@@ -329,10 +329,10 @@
 
   "aboutPage": {
     "title": "Über Uns",
-    "paragraph1": "Bei <strong>Extintores Panorámica AJ</strong> engagieren wir uns für Brandschutz. Seit unserer Gründung sind wir auf die <strong>Inspektion, Wartung und Prävention von Brandschutzsystemen</strong> spezialisiert und bieten umfassende Lösungen, die auf die Bedürfnisse jedes Kunden zugeschnitten sind.",
-    "paragraph2": "Unsere Mission ist klar: <strong>Leben, Eigentum und Umwelt zu schützen</strong> durch hochwertige technische Dienstleistungen mit einem präventiven Ansatz. Wir arbeiten nach den strengsten Sicherheitsstandards, nationalen und internationalen Vorschriften, und mit modernster Technologie für zuverlässige und effektive Ergebnisse.",
-    "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfassender Erfahrung in der <strong>Gefahrenanalyse, Anlagenprüfung und technischer Fachberatung</strong>. Bei Extintores Panorámica AJ prüfen wir nicht nur: <strong>wir antizipieren, verhindern und schützen</strong>.",
-    "paragraph4": "Wir glauben fest daran, dass Prävention die beste Investition ist. Deshalb arbeiten wir eng mit unseren Kunden – Industrie, Unternehmen, Institutionen und Gemeinschaften – zusammen, um sicherere und widerstandsfähigere Räume gegen Brandrisiken zu schaffen.",
-    "slogan": "Ihr Partner für Brandsicherheit."
+    "paragraph1": "<strong>Extintores Panorámica AJ</strong> engagiert sich mit Leidenschaft für den Brandschutz. Seit Beginn sind wir auf die <strong>Inspektion, Wartung und Prävention von Brandschutzsystemen</strong> spezialisiert und bieten umfassende Lösungen, die auf die individuellen Bedürfnisse jedes Kunden zugeschnitten sind.",
+    "paragraph2": "Unsere Mission ist klar und eindeutig: <strong>Leben, Eigentum und Umgebungen zu schützen</strong> durch hochwertige technische Dienstleistungen mit präventivem Ansatz. Wir halten die strengsten Sicherheitsstandards ein und erfüllen nationale sowie internationale Vorschriften, dabei setzen wir modernste Technologie ein, um zuverlässige und effektive Ergebnisse zu gewährleisten.",
+    "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfangreicher Erfahrung in der <strong>Risikobewertung, Anlagenprüfung und spezialisierten technischen Beratung</strong>. Bei Extintores Panorámica AJ inspizieren wir nicht nur: Wir <strong>erkennen Risiken frühzeitig, verhindern Gefahren und schützen verantwortungsbewusst</strong>.",
+    "paragraph4": "Wir sind fest davon überzeugt, dass Prävention die beste Investition ist. Deshalb arbeiten wir eng mit unseren Kunden — Industrie, Unternehmen, Institutionen und Gemeinschaften — zusammen, um sicherere und widerstandsfähigere Umgebungen gegen Brandrisiken zu schaffen.",
+    "slogan": "Ihr vertrauenswürdiger Partner für Brandschutz."
   }
 }
