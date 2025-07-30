@@ -197,6 +197,7 @@
       "description": "Inspections must be performed by certified professionals using calibrated equipment. At Extintores Panorámica AJ, we offer low voltage inspections across Vinaròs, Castellón, and nearby areas, ensuring full compliance and safety."
     }
   },
+  "fireMaintaince": "Fire Protection Maintenance and Installations",
 
   "fireMaintainceTitle": "Professional Fire Protection Maintenance and Installation in Vinaròs, Castellón and Surrounding Areas",
   "fireMaintainceSubtitle": "Your safety is our priority: comprehensive fire protection solutions.",
@@ -329,10 +330,10 @@
 
   "aboutPage": {
     "title": "About Us",
-    "paragraph1": "<strong>Extintores Panorámica AJ</strong> is passionately committed to fire safety. Since day one, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, providing comprehensive solutions tailored to each client’s specific needs.",
+    "paragraph1": "<strong>Extintores Panorámica AJ</strong> is passionately committed to fire safety. Since day one, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, providing comprehensive solutions tailored to each client's specific needs.",
     "paragraph2": "Our mission is clear and firm: <strong>to protect lives, property, and environments</strong> through high-quality technical services with a preventive focus. We adhere to the strictest safety standards and comply with national and international regulations, leveraging state-of-the-art technology to ensure reliable and effective results.",
-    "paragraph3": "Our team consists of highly qualified professionals with extensive experience in <strong>risk detection, installation inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don’t just inspect: we <strong>anticipate, prevent, and protect</strong> with dedication and responsibility.",
-    "paragraph4": "We firmly believe prevention is the best investment. That’s why we work closely with our clients — industries, companies, institutions, and communities — to create safer and more resilient environments against fire risks.",
+    "paragraph3": "Our team consists of highly qualified professionals with extensive experience in <strong>risk detection, installation inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don't just inspect: we <strong>anticipate, prevent, and protect</strong> with dedication and responsibility.",
+    "paragraph4": "We firmly believe prevention is the best investment. That's why we work closely with our clients — industries, companies, institutions, and communities — to create safer and more resilient environments against fire risks.",
     "slogan": "Your trusted ally in fire safety."
   }
 }

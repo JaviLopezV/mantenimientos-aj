@@ -169,7 +169,7 @@
   "slide2": "La millor emergència és la que mai no passa: una bona inspecció ho fa possible",
   "slide3": "Cada segell d'inspecció és una promesa de seguretat complerta",
   "title_1": "Protecció contra incendis a mida i eficaç",
-  "title_2": "A Extintores Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat. Oferim solucions integrals, certificades i adaptades a les teves necessitats per garantir la màxima seguretat en prevenció i control d’incendis.",
+  "title_2": "A Extintores Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat. Oferim solucions integrals, certificades i adaptades a les teves necessitats per garantir la màxima seguretat en prevenció i control d'incendis.",
   "lowVoltageInspection": {
     "title": "Inspecció de baixa tensió a Vinaròs, Castelló i voltants",
     "intro1": "A Extintores Panorámica AJ oferim el servei d'inspecció de baixa tensió a Vinaròs, Castelló i municipis propers. És un procés tècnic essencial per garantir el correcte funcionament, la seguretat i el compliment de la normativa en instal·lacions elèctriques de fins a 1.000V en corrent alterna (CA) o 1.500V en corrent contínua (CC).",
@@ -179,8 +179,8 @@
       "items": {
         "item1": "Prevenció de riscos elèctrics i incendis: detecta sobrecàrregues, cables defectuosos i connexions incorrectes.",
         "item2": "Compliment de la normativa del REBT i altres regulacions aplicables.",
-        "item3": "Protecció de persones i béns materials: minimitza riscos d’electrocució.",
-        "item4": "Assegura el funcionament dels sistemes contra incendis en cas d’emergència."
+        "item3": "Protecció de persones i béns materials: minimitza riscos d'electrocució.",
+        "item4": "Assegura el funcionament dels sistemes contra incendis en cas d'emergència."
       }
     },
     "inspectedItems": {
@@ -198,6 +198,7 @@
       "description": "Les inspeccions han de ser realitzades per tècnics qualificats amb equips de mesura homologats. A Extintores Panorámica AJ som especialistes en inspeccions reglamentàries a Vinaròs, Castelló i poblacions properes."
     }
   },
+  "fireMaintaince": "Manteniment i Instal·lacions Contra Incendis",
 
   "fireMaintainceTitle": "Manteniment i Instal·lacions Professionals Contra Incendis a Vinaròs, Castelló i Voltants",
   "fireMaintainceSubtitle": "La teva seguretat és la nostra prioritat: protecció integral contra incendis.",
@@ -206,10 +207,10 @@
     "title": "Instal·lació de Sistemes Contra Incendis complint la normativa vigent",
     "description": "Desenvolupem sistemes adaptats a les necessitats específiques de cada client i complint la legislació vigent per garantir la màxima seguretat:",
     "items": {
-      "item1": "Sistemes avançats de detecció automàtica d’incendis (fum, calor, gasos).",
-      "item2": "Sistemes d’extinció amb aigua: ruixadors automàtics, BIEs i hidrants.",
-      "item3": "Sistemes d’extinció amb gasos nets i respectuosos amb el medi ambient (FM-200, CO₂).",
-      "item4": "Senyalització clara i sistemes d’evacuació per a una eixida segura.",
+      "item1": "Sistemes avançats de detecció automàtica d'incendis (fum, calor, gasos).",
+      "item2": "Sistemes d'extinció amb aigua: ruixadors automàtics, BIEs i hidrants.",
+      "item3": "Sistemes d'extinció amb gasos nets i respectuosos amb el medi ambient (FM-200, CO₂).",
+      "item4": "Senyalització clara i sistemes d'evacuació per a una eixida segura.",
       "item5": "Equips de primera intervenció per al control immediat del foc."
     }
   },
@@ -220,7 +221,7 @@
       "item1": "Revisions periòdiques completes amb emissió de documentació oficial.",
       "item2": "Proves de funcionament, pressió i estat dels equips.",
       "item3": "Substitució ràpida i segura de components defectuosos.",
-      "item4": "Servei d’assistència tècnica urgent i resolució immediata."
+      "item4": "Servei d'assistència tècnica urgent i resolució immediata."
     }
   },
   "benefits": {
@@ -331,9 +332,9 @@
   "aboutPage": {
     "title": "Sobre Nosaltres",
     "paragraph1": "A <strong>Extintors Panorámica AJ</strong> estem compromesos amb la seguretat contra incendis. Des del primer dia, ens hem especialitzat en la <strong>inspecció, manteniment i prevenció de sistemes contra incendis</strong>, oferint solucions integrals adaptades a les necessitats específiques de cada client.",
-    "paragraph2": "La nostra missió és clara i contundent: <strong>protegir vides, béns i entorns</strong> a través de serveis tècnics d’alta qualitat amb un enfoc preventiu. Complim amb els estàndards més rigorosos de seguretat i amb la normativa nacional i internacional, utilitzant tecnologia d’última generació per garantir resultats fiables i efectius.",
-    "paragraph3": "Comptem amb un equip de professionals altament qualificats amb àmplia experiència en la <strong>detecció de riscos, revisió d’instal·lacions i assessorament tècnic especialitzat</strong>. A Extintors Panorámica AJ no només inspeccionem: <strong>anticipem, prevenim i protegim</strong> amb compromís i responsabilitat.",
-    "paragraph4": "Creiem fermament que la prevenció és la millor inversió. Per això col·laborem estretament amb els nostres clients — indústries, empreses, institucions i comunitats — per crear espais més segurs i resilients davant el risc d’incendis.",
+    "paragraph2": "La nostra missió és clara i contundent: <strong>protegir vides, béns i entorns</strong> a través de serveis tècnics d'alta qualitat amb un enfoc preventiu. Complim amb els estàndards més rigorosos de seguretat i amb la normativa nacional i internacional, utilitzant tecnologia d'última generació per garantir resultats fiables i efectius.",
+    "paragraph3": "Comptem amb un equip de professionals altament qualificats amb àmplia experiència en la <strong>detecció de riscos, revisió d'instal·lacions i assessorament tècnic especialitzat</strong>. A Extintors Panorámica AJ no només inspeccionem: <strong>anticipem, prevenim i protegim</strong> amb compromís i responsabilitat.",
+    "paragraph4": "Creiem fermament que la prevenció és la millor inversió. Per això col·laborem estretament amb els nostres clients — indústries, empreses, institucions i comunitats — per crear espais més segurs i resilients davant el risc d'incendis.",
     "slogan": "El teu aliat de confiança en seguretat contra incendis."
   }
 }

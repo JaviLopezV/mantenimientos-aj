@@ -89,7 +89,7 @@ export default function AppAppBar({ currentLocale }) {
     {
       label: "navbar3",
       children: [
-        { label: "fireMaintainceTitle", path: "/mantainance-fire-systems" },
+        { label: "fireMaintaince", path: "/mantainance-fire-systems" },
         { label: "navbar4", path: "/low-voltage" },
       ],
     },
