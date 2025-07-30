@@ -93,7 +93,7 @@ export default function AppAppBar({ currentLocale }) {
         { label: "navbar4", path: "/low-voltage" },
       ],
     },
-    { label: "products", path: "/products" },
+    // { label: "products", path: "/products" },
     { label: "about", path: "/about" },
     { label: "contact", path: "/contact" },
     { label: "quote", path: "/quote" },

@@ -2,6 +2,7 @@ import LocaleProvider from "./LocaleProvider";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import InstallPrompt from "../../components/InstallPrompt";
+import StructuredData from "../../components/StructuredData";
 
 export async function generateStaticParams() {
   return [
@@ -40,19 +41,10 @@ export default async function LocaleLayout({ children, params }) {
           name="google-site-verification"
           content="SWoP3vXcEcYrXGFf4wbGKBdc79pNIsc_tykYLQ1ha9M"
         />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              name: "Extintores Panorámica AJ",
-              url: "https://extintores-panoramica-aj.vercel.app",
-            }),
-          }}
-        />
       </head>
       <body>
+        <StructuredData />
+
         <LocaleProvider locale={locale} messages={messages}>
           {/* Header with locale switcher */}
           <Header currentLocale={locale} />

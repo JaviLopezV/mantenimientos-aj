@@ -46,7 +46,7 @@ export default function AboutSection() {
             <Box
               component="img"
               src="https://picsum.photos/600/400"
-              alt={t("aboutImageAlt", "Equipo contra incendios")}
+              // alt={t("aboutImageAlt", "Equipo contra incendios")}
               sx={{
                 width: "100%",
                 height: "auto",

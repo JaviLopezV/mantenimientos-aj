@@ -4,7 +4,7 @@ export default function RootLayout({ children }) {
     <html lang="es">
       <head>
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/icons/icon-192x192.png" />
+        <link rel="icon" href="/extintor.png" />
         <meta name="theme-color" content="#d32f2f" />
       </head>
       <body>{children}</body>
