@@ -4,8 +4,11 @@ import { Container, Box, Typography } from "@mui/material";
 
 import QuoteMainContent from "../../quote/components/MainContent";
 import useQuoteLogic from "../../../../hooks/useQuoteLogic";
+import { useTranslations } from "next-intl";
 
 export default function MainContent() {
+  const t = useTranslations();
+
   const {
     contactForm,
     acceptedTerms,

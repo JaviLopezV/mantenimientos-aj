@@ -101,7 +101,7 @@ export default function AppAppBar({ currentLocale }) {
 
   const iconsMap = {
     home: <Home fontSize="small" />,
-    fireMaintainceTitle: <Whatshot fontSize="small" />,
+    fireMaintaince: <Whatshot fontSize="small" />,
     navbar4: <FlashOn fontSize="small" />,
     products: <Inventory2 fontSize="small" />,
     about: <Info fontSize="small" />,

@@ -6,6 +6,7 @@ import MainContent from "./components/MainContent";
 
 import useQuoteLogic from "../../../hooks/useQuoteLogic";
 import Section from "../../../components/Section";
+import { useTranslations } from "next-intl";
 
 const backgroundImages = {
   home: "/images/home-bg-3.jpg",
@@ -15,6 +16,8 @@ const backgroundImages = {
 
 export default function LandingPage() {
   const [activeSection, setActiveSection] = useState("home");
+  const t = useTranslations();
+
   const {
     contactForm,
     acceptedTerms,
