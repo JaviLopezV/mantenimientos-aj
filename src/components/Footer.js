@@ -73,7 +73,7 @@ const FooterInfo = ({ currentLocale }) => {
                 <Typography fontWeight="bold">
                   {t("servicesAvailableIn")}
                 </Typography>
-                <Typography variant="body2">Madrid y Barcelona</Typography>
+                <Typography variant="body2">Madrid - Barcelona</Typography>
               </Box>
             </Box>
           </Grid>

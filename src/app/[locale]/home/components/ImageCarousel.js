@@ -9,12 +9,6 @@ import { ArrowBackIos, ArrowForwardIos } from "@mui/icons-material";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const slides = [
-  { img: "/images/slide1.png", text: "slide1" },
-  { img: "/images/slide2.png", text: "slide2" },
-  { img: "/images/slide3.png", text: "slide3" },
-];
-
 // Custom arrow components
 const NextArrow = (props) => {
   const { onClick } = props;
@@ -58,7 +52,7 @@ const PrevArrow = (props) => {
   );
 };
 
-const ImageCarousel = () => {
+const ImageCarousel = ({ slides }) => {
   const t = useTranslations();
 
   const settings = {
@@ -123,36 +117,42 @@ const ImageCarousel = () => {
               src={slide.img}
               alt={slide.text}
               style={{
-                width: "100%",
-                height: "80vh",
-                objectFit: "cover",
+                width: "100%", // will fill the container width
+                height: "auto", // preserves aspect ratio
+                maxHeight: "80vh", // won’t exceed viewport height
+                objectFit: "contain", // ensures whole image is visible
+                display: "block",
+                margin: "0 auto", // center horizontally if narrower than container
               }}
             />
-            <Box
-              position="absolute"
-              top={0}
-              left={0}
-              width="100%"
-              height="100%"
-              display="flex"
-              alignItems="center"
-              justifyContent="center"
-              sx={{
-                background: "linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4))",
-              }}
-            >
-              <Typography
-                variant="h3"
-                color="white"
+            {slide.text && (
+              <Box
+                position="absolute"
+                top={0}
+                left={0}
+                width="100%"
+                height="100%"
+                display="flex"
+                alignItems="center"
+                justifyContent="center"
                 sx={{
-                  textAlign: "center",
-                  textShadow: "2px 2px 8px rgba(0,0,0,0.8)",
-                  fontWeight: 500,
+                  background:
+                    "linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4))",
                 }}
               >
-                {t(slide.text)}
-              </Typography>
-            </Box>
+                <Typography
+                  variant="h3"
+                  color="white"
+                  sx={{
+                    textAlign: "center",
+                    textShadow: "2px 2px 8px rgba(0,0,0,0.8)",
+                    fontWeight: 500,
+                  }}
+                >
+                  {t(slide.text)}
+                </Typography>
+              </Box>
+            )}
           </Box>
         ))}
       </Slider>

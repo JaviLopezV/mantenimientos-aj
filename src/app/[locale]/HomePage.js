@@ -60,7 +60,13 @@ export default function HomePage() {
       </Section>
 
       <Section isLeft={true} id="services" onInView={handleInView("services")}>
-        <ImageCarousel />
+        <ImageCarousel
+          slides={[
+            { img: "/images/slides/home/slide1.png", text: "slide1" },
+            { img: "/images/slides/home/slide2.png", text: "slide2" },
+            { img: "/images/slides/home/slide3.png", text: "slide3" },
+          ]}
+        />
       </Section>
 
       {/* Sections */}

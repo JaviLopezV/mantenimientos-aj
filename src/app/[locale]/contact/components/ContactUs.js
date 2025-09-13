@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { Container, Typography, Box, Link } from "@mui/material";
 
 import Spacer from "../../../../components/Spacer";
+import ImageCarousel from "../../home/components/ImageCarousel";
 
 export default function MainContent() {
   const t = useTranslations();
@@ -20,25 +21,30 @@ export default function MainContent() {
             gap: 4,
           }}
         >
-          {/* Imagen */}
+          {/* Imagen → replace with carousel */}
           <Box
-            component="img"
-            src="/images/company-face.jpg"
-            alt="Contacto"
             sx={{
-              width: { xs: "100%", md: "50%" },
-              height: "auto",
+              width: { xs: "100%", md: "70%" },
               borderRadius: 2,
               boxShadow: 3,
               mx: { xs: "auto", md: 0 },
-              display: "block",
+              overflow: "hidden", // makes the border radius work nicely with the carousel
             }}
-          />
+          >
+            <ImageCarousel
+              slides={[
+                { img: "/images/slides/contact/slide1.jpg" },
+                { img: "/images/slides/contact/slide2.jpg" },
+                { img: "/images/slides/contact/slide3.jpg" },
+                { img: "/images/slides/contact/slide4.jpg" },
+              ]}
+            />
+          </Box>
 
           {/* Texto */}
           <Box
             sx={{
-              width: { xs: "100%", md: "50%" },
+              width: { xs: "100%", md: "30%" },
               textAlign: { xs: "center", md: "left" },
             }}
           >
