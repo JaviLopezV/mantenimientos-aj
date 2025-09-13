@@ -43,9 +43,14 @@ export default function InspectionLowVoltageSection({ setOpen }) {
         {t("lowVoltageInspection.title")}
       </Typography>
 
-      <Typography variant="body1" component="p" gutterBottom>
-        {t("lowVoltageInspection.intro1")}
-      </Typography>
+      {["intro1"].map((key) => (
+        <Typography key={key} variant="body1" paragraph>
+          {t.rich(`lowVoltageInspection.${key}`, {
+            strong: (chunks) => <strong>{chunks}</strong>,
+          })}
+        </Typography>
+      ))}
+
       <Typography variant="body1" component="p" gutterBottom>
         {t("lowVoltageInspection.intro2")}
       </Typography>
@@ -130,9 +135,14 @@ export default function InspectionLowVoltageSection({ setOpen }) {
         >
           {t("lowVoltageInspection.whoPerforms.title")}
         </Typography>
-        <Typography variant="body1" component="p">
-          {t("lowVoltageInspection.whoPerforms.description")}
-        </Typography>
+
+        {["description"].map((key) => (
+          <Typography key={key} variant="body1" paragraph>
+            {t.rich(`lowVoltageInspection.whoPerforms.${key}`, {
+              strong: (chunks) => <strong>{chunks}</strong>,
+            })}
+          </Typography>
+        ))}
       </section>
 
       <Spacer size={1} />

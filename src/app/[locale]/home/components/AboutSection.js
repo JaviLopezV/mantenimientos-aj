@@ -45,7 +45,7 @@ export default function AboutSection() {
           <Grid item xs={12} md={6}>
             <Box
               component="img"
-              src="https://picsum.photos/600/400"
+              src="/images/company-face.jpg"
               // alt={t("aboutImageAlt", "Equipo contra incendios")}
               sx={{
                 width: "100%",

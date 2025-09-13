@@ -51,6 +51,21 @@ const FireMaintenanceInstallations = ({ setOpen }) => {
         </Typography>
 
         <Typography
+          variant="h3"
+          id="fire-maintenance-title-2"
+          gutterBottom
+          fontWeight="bold"
+          component="h3"
+          sx={{
+            wordBreak: "break-word",
+            overflowWrap: "break-word",
+            fontSize: { xs: "1.6rem", md: "2rem" },
+          }}
+        >
+          {t("valencianCommunity")}
+        </Typography>
+
+        <Typography
           variant="h5"
           color="text.secondary"
           paragraph

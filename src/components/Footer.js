@@ -67,6 +67,15 @@ const FooterInfo = ({ currentLocale }) => {
                 </Typography>
               </Box>
             </Box>
+            <Box display="flex" alignItems="flex-start" mb={2}>
+              <LocationOnIcon sx={{ mr: 1 }} />
+              <Box>
+                <Typography fontWeight="bold">
+                  {t("servicesAvailableIn")}
+                </Typography>
+                <Typography variant="body2">Madrid y Barcelona</Typography>
+              </Box>
+            </Box>
           </Grid>
 
           {/* Contacto */}

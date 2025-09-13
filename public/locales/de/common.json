@@ -170,8 +170,8 @@
   "title_1": "Maßgeschneiderter und Effektiver Brandschutz",
   "title_2": "Bei Extintores Panorámica AJ, S.L. schützen wir, was Ihnen am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Ruhe. Wir bieten umfassende, zertifizierte Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind, um maximale Sicherheit bei Brandverhütung und -bekämpfung zu gewährleisten.",
   "lowVoltageInspection": {
-    "title": "Niederspannungsprüfung in Vinaròs, Castellón und Umgebung",
-    "intro1": "Bei Extintores Panorámica AJ bieten wir Niederspannungsprüfungen in Vinaròs, Castellón und den umliegenden Gebieten an. Diese technische Inspektion stellt sicher, dass elektrische Anlagen unter 1.000 V Wechselstrom (AC) oder 1.500 V Gleichstrom (DC) ordnungsgemäß funktionieren, sicher sind und den geltenden Vorschriften entsprechen.",
+    "title": "Niederspannungsprüfung",
+    "intro1": "Bei Extintores Panorámica AJ bieten wir Niederspannungsprüfungen in der <strong>Region Valencia</strong> an. Diese technische Inspektion stellt sicher, dass elektrische Anlagen unter 1.000 V Wechselstrom (AC) oder 1.500 V Gleichstrom (DC) ordnungsgemäß funktionieren, sicher sind und den geltenden Vorschriften entsprechen.",
     "intro2": "Diese Art von Inspektion ist entscheidend für den Brandschutz, da viele Brände durch vermeidbare elektrische Fehler verursacht werden.",
     "purposes": {
       "title": "Wozu dient sie?",
@@ -194,12 +194,13 @@
     },
     "whoPerforms": {
       "title": "Wer führt die Prüfung durch?",
-      "description": "Die Inspektion muss von qualifiziertem Fachpersonal mit zertifizierten Messgeräten durchgeführt werden. In öffentlichen Einrichtungen, Industriebetrieben oder Gebäuden mit Brandschutzsystemen ist die Prüfung gesetzlich vorgeschrieben. Extintores Panorámica AJ bietet zuverlässige Prüfungen in Vinaròs, Castellón und Umgebung an."
+      "description": "Die Inspektion muss von spezialisiertem und zertifiziertem Fachpersonal durchgeführt werden. In Industrieanlagen, öffentlichen Einrichtungen oder Gebäuden mit Brandschutzsystemen sind diese Prüfungen gesetzlich vorgeschrieben. Bei <strong>Extintores Panorámica AJ</strong> führen wir vorgeschriebene Inspektionen in der <strong>Region Valencia</strong> durch und bieten einen detaillierten Bericht sowie maßgeschneiderte Lösungen an."
     }
   },
   "fireMaintaince": "Wartung und Installationen für den Brandschutz",
 
-  "fireMaintainceTitle": "Professionelle Wartung und Installation von Brandschutzsystemen in Vinaròs, Castellón und Umgebung",
+  "fireMaintainceTitle": "Professionelle Wartung und Installation von Brandschutzsystemen",
+  "valencianCommunity": "Autonome Gemeinschaft Valencia",
   "fireMaintainceSubtitle": "Ihre Sicherheit hat oberste Priorität: Umfassender Brandschutz.",
   "fireMaintainceDescription": "Wir sind Experten im Design, der Installation und Wartung von Brandschutzsystemen und bieten maßgeschneiderte Lösungen, die Prävention, schnelle Erkennung und effektive Reaktion bei Notfällen in Wohnungen, Industrieanlagen und Gewerbe gewährleisten.",
   "installations": {
@@ -321,6 +322,7 @@
   },
 
   "headOffice": "Zentrale",
+  "servicesAvailableIn": "Niederlassungen in: ",
   "contactInfo": "Kontaktinformationen",
   "phoneNumber": "Tel. +34 964 880 171",
   "directSupport": "Wir bieten direkten Support und maßgeschneiderte Lösungen",

@@ -23,7 +23,7 @@ export default function MainContent() {
           {/* Imagen */}
           <Box
             component="img"
-            src="https://picsum.photos/600/400"
+            src="/images/company-face.jpg"
             alt="Contacto"
             sx={{
               width: { xs: "100%", md: "50%" },

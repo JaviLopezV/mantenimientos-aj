@@ -171,8 +171,8 @@
   "title_1": "Protecció contra incendis a mida i eficaç",
   "title_2": "A Extintores Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat. Oferim solucions integrals, certificades i adaptades a les teves necessitats per garantir la màxima seguretat en prevenció i control d'incendis.",
   "lowVoltageInspection": {
-    "title": "Inspecció de baixa tensió a Vinaròs, Castelló i voltants",
-    "intro1": "A Extintores Panorámica AJ oferim el servei d'inspecció de baixa tensió a Vinaròs, Castelló i municipis propers. És un procés tècnic essencial per garantir el correcte funcionament, la seguretat i el compliment de la normativa en instal·lacions elèctriques de fins a 1.000V en corrent alterna (CA) o 1.500V en corrent contínua (CC).",
+    "title": "Inspecció de baixa tensió",
+    "intro1": "A Extintores Panorámica AJ oferim el servei d'inspecció de baixa tensió a la <strong>Comunitat Valenciana</strong>. És un procés tècnic essencial per garantir el correcte funcionament, la seguretat i el compliment de la normativa en instal·lacions elèctriques de fins a 1.000V en corrent alterna (CA) o 1.500V en corrent contínua (CC).",
     "intro2": "Aquest tipus de revisions són fonamentals per a la prevenció d'incendis, ja que molts s'inicien per fallades elèctriques que es podrien evitar amb una inspecció adequada.",
     "purposes": {
       "title": "Per a què serveix?",
@@ -195,12 +195,13 @@
     },
     "whoPerforms": {
       "title": "Qui ha de fer la inspecció?",
-      "description": "Les inspeccions han de ser realitzades per tècnics qualificats amb equips de mesura homologats. A Extintores Panorámica AJ som especialistes en inspeccions reglamentàries a Vinaròs, Castelló i poblacions properes."
+      "description": "La inspecció ha de ser realitzada per personal tècnic especialitzat i certificat. En instal·lacions industrials, locals de pública concurrència o edificis amb sistemes contra incendis, aquestes revisions són obligatòries per normativa. A <strong>Extintores Panorámica AJ</strong> realitzem inspeccions reglamentàries a la <strong>Comunitat Valenciana</strong>, oferint un informe detallat i solucions personalitzades."
     }
   },
   "fireMaintaince": "Manteniment i Instal·lacions Contra Incendis",
 
-  "fireMaintainceTitle": "Manteniment i Instal·lacions Professionals Contra Incendis a Vinaròs, Castelló i Voltants",
+  "fireMaintainceTitle": "Manteniment i Instal·lacions Professionals Contra Incendis",
+  "valencianCommunity": "Comunitat Valenciana",
   "fireMaintainceSubtitle": "La teva seguretat és la nostra prioritat: protecció integral contra incendis.",
   "fireMaintainceDescription": "Som especialistes en el disseny, instal·lació i manteniment de sistemes contra incendis, oferint solucions personalitzades que garanteixen prevenció, detecció ràpida i resposta eficaç davant qualsevol emergència en habitatges, indústries i locals comercials.",
   "installations": {
@@ -322,6 +323,7 @@
   },
 
   "headOffice": "Delegació Central",
+  "servicesAvailableIn": "Delegacions a: ",
   "contactInfo": "Informació de Contacte",
   "phoneNumber": "Tel. +34 964 880 171",
   "directSupport": "T'oferim atenció directa i solucions a mida",

@@ -170,8 +170,8 @@
   "title_1": "Tailored and Effective Fire Protection",
   "title_2": "At Extintores Panorámica AJ, S.L., we care for what matters most: your life, your property, and your peace of mind. We provide comprehensive, certified solutions tailored to your needs to ensure maximum safety in fire prevention and control.",
   "lowVoltageInspection": {
-    "title": "Low Voltage Inspection in Vinaròs, Castellón and Nearby Areas",
-    "intro1": "At Extintores Panorámica AJ, we provide professional low voltage inspections in Vinaròs, Castellón and surrounding towns. This process ensures electrical installations operating under 1,000V AC or 1,500V DC are safe, functional, and compliant with regulations.",
+    "title": "Low Voltage Inspection in Vinaròs",
+    "intro1": "At Extintores Panorámica AJ, we provide professional low voltage inspections in the <strong>Valencian Community</strong>. This process ensures electrical installations operating under 1,000V AC or 1,500V DC are safe, functional, and compliant with regulations.",
     "intro2": "Low voltage inspections are crucial for fire prevention, as many emergencies are caused by electrical faults that could have been avoided with timely checks.",
     "purposes": {
       "title": "Why is it important?",
@@ -194,12 +194,13 @@
     },
     "whoPerforms": {
       "title": "Who should perform the inspection?",
-      "description": "Inspections must be performed by certified professionals using calibrated equipment. At Extintores Panorámica AJ, we offer low voltage inspections across Vinaròs, Castellón, and nearby areas, ensuring full compliance and safety."
+      "description": "The inspection must be carried out by specialized and certified technical personnel. In industrial facilities, public venues, or buildings with fire protection systems, these inspections are mandatory by regulation. At <strong>Extintores Panorámica AJ</strong>, we conduct regulatory inspections in the <strong>Valencian Community</strong>, providing a detailed report and tailored solutions."
     }
   },
   "fireMaintaince": "Fire Protection Maintenance and Installations",
 
-  "fireMaintainceTitle": "Professional Fire Protection Maintenance and Installation in Vinaròs, Castellón and Surrounding Areas",
+  "fireMaintainceTitle": "Professional Fire Protection Maintenance and Installation",
+  "valencianCommunity": "Valencian Community",
   "fireMaintainceSubtitle": "Your safety is our priority: comprehensive fire protection solutions.",
   "fireMaintainceDescription": "We specialize in the design, installation, and maintenance of fire protection systems, offering customized solutions that ensure prevention, rapid detection, and effective response to emergencies in homes, industries, and commercial premises.",
   "installations": {
@@ -321,6 +322,7 @@
   },
 
   "headOffice": "Central Office",
+  "servicesAvailableIn": "Operating in: ",
   "contactInfo": "Contact Information",
   "phoneNumber": "Tel. +34 964 880 171",
   "directSupport": "We offer direct support and tailored solutions",

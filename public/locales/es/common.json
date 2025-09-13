@@ -187,8 +187,8 @@
   "title_1": "Protección Contra Incendios Personalizada y Eficaz",
   "title_2": "En Extintores Panorámica AJ, S.L. cuidamos lo que más valoras: tu vida, tus bienes y tu tranquilidad. Ofrecemos soluciones integrales, certificadas y adaptadas a tus necesidades para garantizar la máxima seguridad en prevención y control de incendios.",
   "lowVoltageInspection": {
-    "title": "Inspección de Baja Tensión en Vinaròs, Castellón y alrededores",
-    "intro1": "En Extintores Panorámica AJ ofrecemos el servicio de inspección de baja tensión en Vinaròs, Castellón y localidades cercanas. Este proceso técnico es fundamental para garantizar el correcto funcionamiento, la seguridad y el cumplimiento normativo de las instalaciones eléctricas que operan a tensiones inferiores a 1.000V en corriente alterna (CA) o 1.500V en corriente continua (CC).",
+    "title": "Inspección de Baja Tensión",
+    "intro1": "En Extintores Panorámica AJ ofrecemos el servicio de inspección de baja tensión en la <strong>Comunidad Valenciana</strong>. Este proceso técnico es fundamental para garantizar el correcto funcionamiento, la seguridad y el cumplimiento normativo de las instalaciones eléctricas que operan a tensiones inferiores a 1.000V en corriente alterna (CA) o 1.500V en corriente continua (CC).",
     "intro2": "Las revisiones de baja tensión son esenciales en la prevención de incendios, ya que muchas emergencias se originan por fallos eléctricos que podrían haberse evitado con una inspección profesional y periódica.",
 
     "purposes": {
@@ -214,12 +214,13 @@
 
     "whoPerforms": {
       "title": "¿Quién debe realizar la inspección de baja tensión?",
-      "description": "La inspección debe ser realizada por personal técnico especializado y certificado. En instalaciones industriales, locales de pública concurrencia o edificios con sistemas contra incendios, estas revisiones son obligatorias por normativa. En Extintores Panorámica AJ realizamos inspecciones reglamentarias en Vinaròs, Castellón y zonas cercanas, ofreciendo un informe detallado y soluciones personalizadas."
+      "description": "La inspección debe ser realizada por personal técnico especializado y certificado. En instalaciones industriales, locales de pública concurrencia o edificios con sistemas contra incendios, estas revisiones son obligatorias por normativa. En <strong>Extintores Panorámica AJ</strong> realizamos inspecciones reglamentarias en la <strong>Comunidad Valenciana</strong>, ofreciendo un informe detallado y soluciones personalizadas."
     }
   },
   "fireMaintaince": "Mantenimiento e Instalaciones Contra Incendios",
 
-  "fireMaintainceTitle": "Mantenimientos e Instalaciones Profesionales Contra Incendios en Vinaròs, Castellón y Alrededores",
+  "fireMaintainceTitle": "Mantenimientos e Instalaciones Profesionales Contra Incendios",
+  "valencianCommunity": "Comunidad Valenciana",
   "fireMaintainceSubtitle": "Tu seguridad es nuestra prioridad: protección integral contra incendios.",
   "fireMaintainceDescription": "Somos expertos en el diseño, instalación y mantenimiento de sistemas contra incendios, ofreciendo soluciones personalizadas que garantizan la prevención, detección rápida y respuesta eficaz ante cualquier emergencia en viviendas, industrias y locales comerciales.",
   "installations": {
@@ -341,6 +342,7 @@
   },
 
   "headOffice": "Deleg. Central",
+  "servicesAvailableIn": "Delegaciones en: ",
   "contactInfo": "Información de Contacto",
   "phoneNumber": "Tel. +34 964 880 171",
   "directSupport": "Te ofrecemos atención directa y soluciones a medida",
