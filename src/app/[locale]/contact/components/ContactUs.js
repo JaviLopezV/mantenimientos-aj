@@ -33,10 +33,21 @@ export default function MainContent() {
           >
             <ImageCarousel
               slides={[
-                { img: "/images/slides/contact/slide1.jpg" },
-                { img: "/images/slides/contact/slide2.jpg" },
-                { img: "/images/slides/contact/slide3.jpg" },
-                { img: "/images/slides/contact/slide4.jpg" },
+                {
+                  img: "/images/slides/contact/slide1.png",
+                  text: "slide1",
+                  isPortrait: false,
+                },
+                {
+                  img: "/images/slides/contact/slide2.png",
+                  text: "slide2",
+                  isPortrait: false,
+                },
+                {
+                  img: "/images/slides/contact/slide3.png",
+                  text: "slide3",
+                  isPortrait: false,
+                },
               ]}
             />
           </Box>

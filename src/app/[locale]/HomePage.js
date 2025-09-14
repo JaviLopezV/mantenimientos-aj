@@ -62,9 +62,18 @@ export default function HomePage() {
       <Section isLeft={true} id="services" onInView={handleInView("services")}>
         <ImageCarousel
           slides={[
-            { img: "/images/slides/home/slide1.png", text: "slide1" },
-            { img: "/images/slides/home/slide2.png", text: "slide2" },
-            { img: "/images/slides/home/slide3.png", text: "slide3" },
+            {
+              img: "/images/slides/home/slide1.jpg",
+              isPortrait: false,
+              exception: true,
+            },
+            {
+              img: "/images/slides/home/slide2.jpg",
+              isPortrait: false,
+              exception: true,
+            },
+            { img: "/images/slides/home/slide3.jpg", isPortrait: true },
+            { img: "/images/slides/home/slide4.jpg", isPortrait: true },
           ]}
         />
       </Section>
