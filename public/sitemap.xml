@@ -1,52 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/contact</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/products</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/about</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/low-voltage</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/mantainance-fire-systems</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/privacy-policy</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/quote</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/en/terms</loc></url>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/contact</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/products</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/about</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/low-voltage</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/mantainance-fire-systems</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/privacy-policy</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/quote</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/es/terms</loc></url>
+  <!-- HOME -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mantenimientos-panoramica-aj.vercel.app/es"/>
+  </url>
 
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/contact</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/products</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/about</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/low-voltage</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/mantainance-fire-systems</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/privacy-policy</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/quote</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/ca/terms</loc></url>
+  <!-- CONTACT -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/contact"/>
+  </url>
 
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/contact</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/products</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/about</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/low-voltage</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/mantainance-fire-systems</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/privacy-policy</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/quote</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/de/terms</loc></url>
+  <!-- PRODUCTS -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/products</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/products"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/products"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/products"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/products"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/products"/>
+  </url>
 
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/contact</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/products</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/about</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/low-voltage</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/mantainance-fire-systems</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/privacy-policy</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/quote</loc></url>
-  <url><loc>https://mantenimientos-panoramica-aj.vercel.app/fr/terms</loc></url>
+  <!-- ABOUT -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/about"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/about"/>
+  </url>
+
+  <!-- LOW VOLTAGE -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/low-voltage</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/low-voltage"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/low-voltage"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/low-voltage"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/low-voltage"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/low-voltage"/>
+  </url>
+
+  <!-- FIRE SYSTEMS -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/mantainance-fire-systems</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/mantainance-fire-systems"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/mantainance-fire-systems"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/mantainance-fire-systems"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/mantainance-fire-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/mantainance-fire-systems"/>
+  </url>
+
+  <!-- PRIVACY -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/privacy-policy"/>
+  </url>
+
+  <!-- QUOTE -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/quote</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/quote"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/quote"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/quote"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/quote"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/quote"/>
+  </url>
+
+  <!-- TERMS -->
+  <url>
+    <loc>https://mantenimientos-panoramica-aj.vercel.app/es/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mantenimientos-panoramica-aj.vercel.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mantenimientos-panoramica-aj.vercel.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://mantenimientos-panoramica-aj.vercel.app/ca/terms"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mantenimientos-panoramica-aj.vercel.app/de/terms"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mantenimientos-panoramica-aj.vercel.app/fr/terms"/>
+  </url>
+
 </urlset>
