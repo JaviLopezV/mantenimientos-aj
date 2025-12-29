@@ -15,7 +15,7 @@ export async function generateStaticParams() {
 }
 
 export const metadata = {
-  metadataBase: new URL("https://extintores-panoramica-aj.vercel.app"),
+  metadataBase: new URL("https://mantenimientos-panoramica-aj.vercel.app"),
   title: {
     default: "Mantenimientos Panorámica AJ",
     template: "%s | Mantenimientos Panorámica AJ",

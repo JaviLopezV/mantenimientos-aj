@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.products.title,
     description: messages.Seo.products.description,
     alternates: {
-      canonical: `https://extintores-panoramica-aj.vercel.app/${locale}/products`,
+      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}/products`,
     },
   };
 }

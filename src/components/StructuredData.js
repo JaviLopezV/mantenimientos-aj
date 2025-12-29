@@ -15,7 +15,7 @@ export default function StructuredData() {
       "@context": "https://schema.org",
       "@type": "WebSite",
       name: "Mantenimientos Panorámica AJ",
-      url: "https://extintores-panoramica-aj.vercel.app",
+      url: "https://mantenimientos-panoramica-aj.vercel.app",
     });
 
     document.head.appendChild(script);

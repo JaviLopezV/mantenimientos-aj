@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://extintores-panoramica-aj.vercel.app/sitemap.xml
+Sitemap: https://mantenimientos-panoramica-aj.vercel.app/sitemap.xml

@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.lowVoltage.title,
     description: messages.Seo.lowVoltage.description,
     alternates: {
-      canonical: `https://extintores-panoramica-aj.vercel.app/${locale}/low-voltage`,
+      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}/low-voltage`,
     },
   };
 }
