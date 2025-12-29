@@ -37,7 +37,8 @@ const MainContent = () => {
           {t("responsible")}
         </Typography>
         <Typography variant="body1">
-          <strong>{t("responsible_name")}</strong> Extintores Panorámica AJ, S.L
+          <strong>{t("responsible_name")}</strong> Mantenimientos Panorámica AJ,
+          S.L
           <br />
           <strong>{t("responsible_nif")}</strong> B75727412
           <br />

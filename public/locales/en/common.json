@@ -1,46 +1,46 @@
 {
   "Seo": {
     "home": {
-      "title": "Panoramica AJ Fire Extinguishers - Fire Protection",
-      "description": "Experts in fire extinguishers, maintenance, and professional fire safety solutions."
+      "title": "Panoramica AJ Maintenance - Fire Protection & Maintenance",
+      "description": "Experts in maintenance, fire safety systems, and professional protection solutions."
     },
     "contact": {
-      "title": "Contact Us | Panoramica AJ Fire Extinguishers",
-      "description": "Reach out to us for any questions or fire protection services."
+      "title": "Contact Us | Panoramica AJ Maintenance",
+      "description": "Reach out to us for any questions or maintenance and fire protection services."
     },
     "products": {
-      "title": "Products | Panoramica AJ Fire Extinguishers",
-      "description": "Explore our certified fire safety products."
+      "title": "Products | Panoramica AJ Maintenance",
+      "description": "Explore our certified fire safety and maintenance products."
     },
     "about": {
-      "title": "About Us | Panoramica AJ Fire Extinguishers",
-      "description": "Learn about our experience and dedication to fire protection."
+      "title": "About Us | Panoramica AJ Maintenance",
+      "description": "Learn about our experience and dedication to maintenance and fire protection."
     },
     "quote": {
-      "title": "Request a Quote | Panoramica AJ Fire Extinguishers",
-      "description": "Get a custom quote for our fire protection services and products."
+      "title": "Request a Quote | Panoramica AJ Maintenance",
+      "description": "Get a custom quote for our maintenance and fire protection services."
     },
     "terms": {
-      "title": "Terms and Conditions | Panoramica AJ Fire Extinguishers",
-      "description": "Review our terms of service and sales policies."
+      "title": "Terms and Conditions | Panoramica AJ Maintenance",
+      "description": "Review our terms of service and maintenance policies."
     },
     "privacyPolicy": {
-      "title": "Privacy Policy | Panoramica AJ Fire Extinguishers",
+      "title": "Privacy Policy | Panoramica AJ Maintenance",
       "description": "Read our privacy and data protection policies."
     },
     "lowVoltage": {
-      "title": "Low Voltage | Panoramica AJ Fire Extinguishers",
-      "description": "Certified low-voltage inspections and installations."
+      "title": "Low Voltage | Panoramica AJ Maintenance",
+      "description": "Certified low-voltage inspections, maintenance, and installations."
     },
     "mantainanceFireSystems": {
-      "title": "Fire System Maintenance | Panoramica AJ Fire Extinguishers",
-      "description": "Professional maintenance services for fire protection systems."
+      "title": "Fire System Maintenance | Panoramica AJ Maintenance",
+      "description": "Professional maintenance and servicing for fire protection systems."
     },
 
     "keywords": {
       "keyword1": "fire extinguishers",
       "keyword2": "fire protection",
-      "keyword3": "Panoramica AJ Extinguishers",
+      "keyword3": "Panoramica AJ Maintenance Service",
       "keyword4": "fire protection systems",
       "keyword5": "extinguishers in Valencia",
       "keyword6": "extinguishers in Spain",
@@ -55,7 +55,7 @@
     }
   },
 
-  "companyName": "Extintores Panorámica AJ",
+  "companyName": "Mantenimientos Panorámica AJ",
 
   "loading": "Loading...",
   "requestInspection": "Request inspection",
@@ -168,10 +168,10 @@
   "slide2": "The best emergency is the one that never happens — a good inspection makes it possible",
   "slide3": "Each inspection seal is a promise of safety fulfilled",
   "title_1": "Tailored and Effective Fire Protection",
-  "title_2": "At Extintores Panorámica AJ, S.L., we care for what matters most: your life, your property, and your peace of mind. We provide comprehensive, certified solutions tailored to your needs to ensure maximum safety in fire prevention and control.",
+  "title_2": "At Mantenimientos Panorámica AJ, S.L., we care for what matters most: your life, your property, and your peace of mind. We provide comprehensive, certified solutions tailored to your needs to ensure maximum safety in fire prevention and control.",
   "lowVoltageInspection": {
     "title": "Low Voltage Inspection in Vinaròs",
-    "intro1": "At Extintores Panorámica AJ, we provide professional low voltage inspections in the <strong>Valencian Community</strong>. This process ensures electrical installations operating under 1,000V AC or 1,500V DC are safe, functional, and compliant with regulations.",
+    "intro1": "At Mantenimientos Panorámica AJ, we provide professional low voltage inspections in the <strong>Valencian Community</strong>. This process ensures electrical installations operating under 1,000V AC or 1,500V DC are safe, functional, and compliant with regulations.",
     "intro2": "Low voltage inspections are crucial for fire prevention, as many emergencies are caused by electrical faults that could have been avoided with timely checks.",
     "purposes": {
       "title": "Why is it important?",
@@ -194,7 +194,7 @@
     },
     "whoPerforms": {
       "title": "Who should perform the inspection?",
-      "description": "The inspection must be carried out by specialized and certified technical personnel. In industrial facilities, public venues, or buildings with fire protection systems, these inspections are mandatory by regulation. At <strong>Extintores Panorámica AJ</strong>, we conduct regulatory inspections in the <strong>Valencian Community</strong>, providing a detailed report and tailored solutions."
+      "description": "The inspection must be carried out by specialized and certified technical personnel. In industrial facilities, public venues, or buildings with fire protection systems, these inspections are mandatory by regulation. At <strong>Mantenimientos Panorámica AJ</strong>, we conduct regulatory inspections in the <strong>Valencian Community</strong>, providing a detailed report and tailored solutions."
     }
   },
   "fireMaintaince": "Fire Protection Maintenance and Installations",
@@ -332,9 +332,9 @@
 
   "aboutPage": {
     "title": "About Us",
-    "paragraph1": "<strong>Extintores Panorámica AJ</strong> is passionately committed to fire safety. Since day one, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, providing comprehensive solutions tailored to each client's specific needs.",
+    "paragraph1": "<strong>Mantenimientos Panorámica AJ</strong> is passionately committed to fire safety. Since day one, we have specialized in <strong>inspection, maintenance, and prevention of fire protection systems</strong>, providing comprehensive solutions tailored to each client's specific needs.",
     "paragraph2": "Our mission is clear and firm: <strong>to protect lives, property, and environments</strong> through high-quality technical services with a preventive focus. We adhere to the strictest safety standards and comply with national and international regulations, leveraging state-of-the-art technology to ensure reliable and effective results.",
-    "paragraph3": "Our team consists of highly qualified professionals with extensive experience in <strong>risk detection, installation inspections, and specialized technical advice</strong>. At Extintores Panorámica AJ, we don't just inspect: we <strong>anticipate, prevent, and protect</strong> with dedication and responsibility.",
+    "paragraph3": "Our team consists of highly qualified professionals with extensive experience in <strong>risk detection, installation inspections, and specialized technical advice</strong>. At Mantenimientos Panorámica AJ, we don't just inspect: we <strong>anticipate, prevent, and protect</strong> with dedication and responsibility.",
     "paragraph4": "We firmly believe prevention is the best investment. That's why we work closely with our clients — industries, companies, institutions, and communities — to create safer and more resilient environments against fire risks.",
     "slogan": "Your trusted ally in fire safety."
   }

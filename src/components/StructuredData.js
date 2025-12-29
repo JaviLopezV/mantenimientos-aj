@@ -14,7 +14,7 @@ export default function StructuredData() {
     script.text = JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "Extintores Panorámica AJ",
+      name: "Mantenimientos Panorámica AJ",
       url: "https://extintores-panoramica-aj.vercel.app",
     });
 

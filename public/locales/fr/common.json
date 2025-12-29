@@ -1,40 +1,40 @@
 {
   "Seo": {
     "home": {
-      "title": "Extincteurs Panoramica AJ - Protection incendie",
-      "description": "Experts en extincteurs, maintenance et solutions professionnelles de sécurité incendie."
+      "title": "Maintenance Panoramica AJ - Protection incendie et maintenance",
+      "description": "Experts en maintenance, systèmes de sécurité incendie et solutions professionnelles."
     },
     "contact": {
-      "title": "Contactez-nous | Extincteurs Panoramica AJ",
-      "description": "Contactez-nous pour toute question ou service lié à la protection contre les incendies."
+      "title": "Contactez-nous | Maintenance Panoramica AJ",
+      "description": "Contactez-nous pour toute question ou service de maintenance et de protection incendie."
     },
     "products": {
-      "title": "Produits | Extincteurs Panoramica AJ",
-      "description": "Découvrez nos produits de sécurité incendie certifiés."
+      "title": "Produits | Maintenance Panoramica AJ",
+      "description": "Découvrez nos produits certifiés pour la sécurité incendie et la maintenance."
     },
     "about": {
-      "title": "À propos de nous | Extincteurs Panoramica AJ",
-      "description": "Découvrez notre expérience et notre engagement dans la sécurité incendie."
+      "title": "À propos de nous | Maintenance Panoramica AJ",
+      "description": "Découvrez notre expérience et notre engagement dans la maintenance et la protection incendie."
     },
     "quote": {
-      "title": "Demande de devis | Extincteurs Panoramica AJ",
-      "description": "Demandez un devis personnalisé pour nos services et produits de sécurité incendie."
+      "title": "Demande de devis | Maintenance Panoramica AJ",
+      "description": "Demandez un devis personnalisé pour nos services de maintenance et de protection incendie."
     },
     "terms": {
-      "title": "Conditions générales | Extincteurs Panoramica AJ",
-      "description": "Consultez nos conditions générales de vente et de service."
+      "title": "Conditions générales | Maintenance Panoramica AJ",
+      "description": "Consultez nos conditions générales de vente et de services."
     },
     "privacyPolicy": {
-      "title": "Politique de confidentialité | Extincteurs Panoramica AJ",
-      "description": "Lisez notre politique de confidentialité et de traitement des données."
+      "title": "Politique de confidentialité | Maintenance Panoramica AJ",
+      "description": "Lisez notre politique de confidentialité et de protection des données."
     },
     "lowVoltage": {
-      "title": "Basse tension | Extincteurs Panoramica AJ",
-      "description": "Inspections et installations de systèmes de basse tension certifiés."
+      "title": "Basse tension | Maintenance Panoramica AJ",
+      "description": "Inspections, maintenance et installations certifiées de systèmes de basse tension."
     },
     "mantainanceFireSystems": {
-      "title": "Maintenance des systèmes incendie | Extincteurs Panoramica AJ",
-      "description": "Services de maintenance pour systèmes de sécurité incendie professionnels."
+      "title": "Maintenance des systèmes incendie | Maintenance Panoramica AJ",
+      "description": "Services professionnels de maintenance et d'entretien des systèmes de sécurité incendie."
     },
 
     "keywords": {
@@ -55,7 +55,7 @@
     }
   },
 
-  "companyName": "Extintores Panorámica AJ",
+  "companyName": "Mantenimientos Panorámica AJ",
 
   "loading": "Chargement...",
   "requestInspection": "Demander une inspection",
@@ -168,10 +168,10 @@
   "slide2": "La meilleure urgence est celle qui n'arrive jamais : une bonne inspection la rend possible",
   "slide3": "Chaque sceau d'inspection est une promesse de sécurité tenue",
   "title_1": "Protection Incendie Personnalisée et Efficace",
-  "title_2": "Chez Extintores Panorámica AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d'esprit. Nous offrons des solutions complètes, certifiées et adaptées à vos besoins pour garantir une sécurité maximale en prévention et contrôle des incendies.",
+  "title_2": "Chez Mantenimientos Panorámica AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d'esprit. Nous offrons des solutions complètes, certifiées et adaptées à vos besoins pour garantir une sécurité maximale en prévention et contrôle des incendies.",
   "lowVoltageInspection": {
     "title": "Inspection basse tension",
-    "intro1": "Chez Extintores Panorámica AJ, nous réalisons des inspections de basse tension dans la Communauté valencienne. Ce processus garantit le bon fonctionnement, la sécurité et la conformité des installations électriques inférieures à 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
+    "intro1": "Chez Mantenimientos Panorámica AJ, nous réalisons des inspections de basse tension dans la Communauté valencienne. Ce processus garantit le bon fonctionnement, la sécurité et la conformité des installations électriques inférieures à 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
     "intro2": "Ces inspections sont essentielles dans le cadre de la prévention incendie, car de nombreux sinistres proviennent de défauts électriques évitables.",
     "purposes": {
       "title": "À quoi sert-elle ?",
@@ -194,7 +194,7 @@
     },
     "whoPerforms": {
       "title": "Qui doit effectuer l'inspection ?",
-      "description": "L’inspection doit être effectuée par un personnel technique spécialisé et certifié. Dans les installations industrielles, les établissements recevant du public ou les bâtiments équipés de systèmes de protection incendie, ces contrôles sont obligatoires selon la réglementation. Chez <strong>Extintores Panorámica AJ</strong>, nous réalisons des inspections réglementaires dans la <strong>Communauté valencienne</strong>, en fournissant un rapport détaillé et des solutions personnalisées."
+      "description": "L’inspection doit être effectuée par un personnel technique spécialisé et certifié. Dans les installations industrielles, les établissements recevant du public ou les bâtiments équipés de systèmes de protection incendie, ces contrôles sont obligatoires selon la réglementation. Chez <strong>Mantenimientos Panorámica AJ</strong>, nous réalisons des inspections réglementaires dans la <strong>Communauté valencienne</strong>, en fournissant un rapport détaillé et des solutions personnalisées."
     }
   },
   "fireMaintaince": "Maintenance et Installations de Protection Incendie",
@@ -332,9 +332,9 @@
 
   "aboutPage": {
     "title": "À Propos de Nous",
-    "paragraph1": "<strong>Extintores Panorámica AJ</strong> est passionnément engagé dans la sécurité incendie. Depuis le premier jour, nous sommes spécialisés dans <strong>l'inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, offrant des solutions complètes adaptées aux besoins spécifiques de chaque client.",
+    "paragraph1": "<strong>Mantenimientos Panorámica AJ</strong> est passionnément engagé dans la sécurité incendie. Depuis le premier jour, nous sommes spécialisés dans <strong>l'inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, offrant des solutions complètes adaptées aux besoins spécifiques de chaque client.",
     "paragraph2": "Notre mission est claire et ferme : <strong>protéger les vies, les biens et les environnements</strong> grâce à des services techniques de haute qualité avec un focus préventif. Nous respectons les normes de sécurité les plus strictes et nous conformons aux réglementations nationales et internationales, utilisant une technologie de pointe pour garantir des résultats fiables et efficaces.",
-    "paragraph3": "Notre équipe est composée de professionnels hautement qualifiés avec une grande expérience dans <strong>la détection des risques, l'inspection des installations et les conseils techniques spécialisés</strong>. Chez Extintores Panorámica AJ, nous ne faisons pas que des inspections : nous <strong>anticipons, prévenons et protégeons</strong> avec engagement et responsabilité.",
+    "paragraph3": "Notre équipe est composée de professionnels hautement qualifiés avec une grande expérience dans <strong>la détection des risques, l'inspection des installations et les conseils techniques spécialisés</strong>. Chez Mantenimientos Panorámica AJ, nous ne faisons pas que des inspections : nous <strong>anticipons, prévenons et protégeons</strong> avec engagement et responsabilité.",
     "paragraph4": "Nous sommes convaincus que la prévention est le meilleur investissement. C'est pourquoi nous travaillons en étroite collaboration avec nos clients — industries, entreprises, institutions et communautés — pour créer des environnements plus sûrs et résilients face aux risques d'incendie.",
     "slogan": "Votre allié de confiance en sécurité incendie."
   }

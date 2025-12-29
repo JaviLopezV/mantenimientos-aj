@@ -1,39 +1,39 @@
 {
   "Seo": {
     "home": {
-      "title": "Extintors Panorámica AJ - Protecció contra incendis",
+      "title": "Manteniments Panorámica AJ - Protecció contra incendis",
       "description": "Experts en extintors, manteniment i solucions professionals de seguretat contra incendis."
     },
     "contact": {
-      "title": "Contacta amb nosaltres | Extintors Panorámica AJ",
+      "title": "Contacta amb nosaltres | Manteniments Panorámica AJ",
       "description": "Contacta amb nosaltres per a qualsevol consulta o servei relacionat amb la protecció contra incendis."
     },
     "products": {
-      "title": "Productes | Extintors Panorámica AJ",
+      "title": "Productes | Manteniments Panorámica AJ",
       "description": "Descobreix els nostres productes certificats de seguretat contra incendis."
     },
     "about": {
-      "title": "Sobre nosaltres | Extintors Panorámica AJ",
+      "title": "Sobre nosaltres | Manteniments Panorámica AJ",
       "description": "Coneix la nostra experiència i compromís amb la seguretat contra incendis."
     },
     "quote": {
-      "title": "Demana un pressupost | Extintors Panorámica AJ",
+      "title": "Demana un pressupost | Manteniments Panorámica AJ",
       "description": "Demana un pressupost personalitzat per als nostres serveis i productes."
     },
     "terms": {
-      "title": "Termes i condicions | Extintors Panorámica AJ",
+      "title": "Termes i condicions | Manteniments Panorámica AJ",
       "description": "Consulta els nostres termes i condicions de servei i venda."
     },
     "privacyPolicy": {
-      "title": "Política de privacitat | Extintors Panorámica AJ",
+      "title": "Política de privacitat | Manteniments Panorámica AJ",
       "description": "Llegeix la nostra política de privacitat i tractament de dades."
     },
     "lowVoltage": {
-      "title": "Baixa tensió | Extintors Panorámica AJ",
+      "title": "Baixa tensió | Manteniments Panorámica AJ",
       "description": "Inspeccions i instal·lacions de baixa tensió certificades."
     },
     "mantainanceFireSystems": {
-      "title": "Manteniment de sistemes contra incendis | Extintors Panorámica AJ",
+      "title": "Manteniment de sistemes contra incendis | Manteniments Panorámica AJ",
       "description": "Servei professional de manteniment de sistemes de protecció contra incendis."
     },
 
@@ -55,7 +55,7 @@
     }
   },
 
-  "companyName": "Extintores Panorámica AJ",
+  "companyName": "Mantenimientos Panorámica AJ",
 
   "loading": "Carregant...",
   "requestInspection": "Sol·licitar inspecció",
@@ -169,10 +169,10 @@
   "slide2": "La millor emergència és la que mai no passa: una bona inspecció ho fa possible",
   "slide3": "Cada segell d'inspecció és una promesa de seguretat complerta",
   "title_1": "Protecció contra incendis a mida i eficaç",
-  "title_2": "A Extintores Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat. Oferim solucions integrals, certificades i adaptades a les teves necessitats per garantir la màxima seguretat en prevenció i control d'incendis.",
+  "title_2": "A Mantenimientos Panorámica AJ, S.L., protegim allò que més importa: la teva vida, els teus béns i la teva tranquil·litat. Oferim solucions integrals, certificades i adaptades a les teves necessitats per garantir la màxima seguretat en prevenció i control d'incendis.",
   "lowVoltageInspection": {
     "title": "Inspecció de baixa tensió",
-    "intro1": "A Extintores Panorámica AJ oferim el servei d'inspecció de baixa tensió a la <strong>Comunitat Valenciana</strong>. És un procés tècnic essencial per garantir el correcte funcionament, la seguretat i el compliment de la normativa en instal·lacions elèctriques de fins a 1.000V en corrent alterna (CA) o 1.500V en corrent contínua (CC).",
+    "intro1": "A Mantenimientos Panorámica AJ oferim el servei d'inspecció de baixa tensió a la <strong>Comunitat Valenciana</strong>. És un procés tècnic essencial per garantir el correcte funcionament, la seguretat i el compliment de la normativa en instal·lacions elèctriques de fins a 1.000V en corrent alterna (CA) o 1.500V en corrent contínua (CC).",
     "intro2": "Aquest tipus de revisions són fonamentals per a la prevenció d'incendis, ja que molts s'inicien per fallades elèctriques que es podrien evitar amb una inspecció adequada.",
     "purposes": {
       "title": "Per a què serveix?",
@@ -195,7 +195,7 @@
     },
     "whoPerforms": {
       "title": "Qui ha de fer la inspecció?",
-      "description": "La inspecció ha de ser realitzada per personal tècnic especialitzat i certificat. En instal·lacions industrials, locals de pública concurrència o edificis amb sistemes contra incendis, aquestes revisions són obligatòries per normativa. A <strong>Extintores Panorámica AJ</strong> realitzem inspeccions reglamentàries a la <strong>Comunitat Valenciana</strong>, oferint un informe detallat i solucions personalitzades."
+      "description": "La inspecció ha de ser realitzada per personal tècnic especialitzat i certificat. En instal·lacions industrials, locals de pública concurrència o edificis amb sistemes contra incendis, aquestes revisions són obligatòries per normativa. A <strong>Mantenimientos Panorámica AJ</strong> realitzem inspeccions reglamentàries a la <strong>Comunitat Valenciana</strong>, oferint un informe detallat i solucions personalitzades."
     }
   },
   "fireMaintaince": "Manteniment i Instal·lacions Contra Incendis",
