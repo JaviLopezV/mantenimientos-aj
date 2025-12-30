@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.quote.title,
     description: messages.Seo.quote.description,
     alternates: {
-      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}/quote`,
+      canonical: `https://mantenimientos-aj.vercel.app/${locale}/quote`,
     },
   };
 }

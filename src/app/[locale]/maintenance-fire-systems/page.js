@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.maintenanceFireSystems.title,
     description: messages.Seo.maintenanceFireSystems.description,
     alternates: {
-      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}/maintenance-fire-systems`,
+      canonical: `https://mantenimientos-aj.vercel.app/${locale}/maintenance-fire-systems`,
     },
   };
 }

@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.privacyPolicy.title,
     description: messages.Seo.privacyPolicy.description,
     alternates: {
-      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}/privacy-policy`,
+      canonical: `https://mantenimientos-aj.vercel.app/${locale}/privacy-policy`,
     },
   };
 }

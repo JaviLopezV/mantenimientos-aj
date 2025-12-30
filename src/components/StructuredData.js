@@ -15,7 +15,7 @@ export default function StructuredData() {
       "@context": "https://schema.org",
       "@type": "WebSite",
       name: "Mantenimientos AJ",
-      url: "https://mantenimientos-panoramica-aj.vercel.app",
+      url: "https://mantenimientos-aj.vercel.app",
     });
 
     document.head.appendChild(script);

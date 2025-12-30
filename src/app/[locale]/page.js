@@ -17,13 +17,13 @@ export async function generateMetadata({ params }) {
     title: messages.Seo.home.title,
     description: messages.Seo.home.description,
     alternates: {
-      canonical: `https://mantenimientos-panoramica-aj.vercel.app/${locale}`,
+      canonical: `https://mantenimientos-aj.vercel.app/${locale}`,
       languages: {
-        en: "https://mantenimientos-panoramica-aj.vercel.app/en",
-        es: "https://mantenimientos-panoramica-aj.vercel.app/es",
-        ca: "https://mantenimientos-panoramica-aj.vercel.app/ca",
-        fr: "https://mantenimientos-panoramica-aj.vercel.app/fr",
-        de: "https://mantenimientos-panoramica-aj.vercel.app/de",
+        en: "https://mantenimientos-aj.vercel.app/en",
+        es: "https://mantenimientos-aj.vercel.app/es",
+        ca: "https://mantenimientos-aj.vercel.app/ca",
+        fr: "https://mantenimientos-aj.vercel.app/fr",
+        de: "https://mantenimientos-aj.vercel.app/de",
       },
     },
   };
