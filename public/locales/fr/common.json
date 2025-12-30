@@ -1,46 +1,46 @@
 {
   "Seo": {
     "home": {
-      "title": "Maintenance Panoramica AJ - Protection incendie et maintenance",
+      "title": "Maintenance AJ - Protection incendie et maintenance",
       "description": "Experts en maintenance, systèmes de sécurité incendie et solutions professionnelles."
     },
     "contact": {
-      "title": "Contactez-nous | Maintenance Panoramica AJ",
+      "title": "Contactez-nous | Maintenance AJ",
       "description": "Contactez-nous pour toute question ou service de maintenance et de protection incendie."
     },
     "products": {
-      "title": "Produits | Maintenance Panoramica AJ",
+      "title": "Produits | Maintenance AJ",
       "description": "Découvrez nos produits certifiés pour la sécurité incendie et la maintenance."
     },
     "about": {
-      "title": "À propos de nous | Maintenance Panoramica AJ",
+      "title": "À propos de nous | Maintenance AJ",
       "description": "Découvrez notre expérience et notre engagement dans la maintenance et la protection incendie."
     },
     "quote": {
-      "title": "Demande de devis | Maintenance Panoramica AJ",
+      "title": "Demande de devis | Maintenance AJ",
       "description": "Demandez un devis personnalisé pour nos services de maintenance et de protection incendie."
     },
     "terms": {
-      "title": "Conditions générales | Maintenance Panoramica AJ",
+      "title": "Conditions générales | Maintenance AJ",
       "description": "Consultez nos conditions générales de vente et de services."
     },
     "privacyPolicy": {
-      "title": "Politique de confidentialité | Maintenance Panoramica AJ",
+      "title": "Politique de confidentialité | Maintenance AJ",
       "description": "Lisez notre politique de confidentialité et de protection des données."
     },
     "lowVoltage": {
-      "title": "Basse tension | Maintenance Panoramica AJ",
+      "title": "Basse tension | Maintenance AJ",
       "description": "Inspections, maintenance et installations certifiées de systèmes de basse tension."
     },
     "maintenanceFireSystems": {
-      "title": "Maintenance des systèmes incendie | Maintenance Panoramica AJ",
+      "title": "Maintenance des systèmes incendie | Maintenance AJ",
       "description": "Services professionnels de maintenance et d'entretien des systèmes de sécurité incendie."
     },
 
     "keywords": {
       "keyword1": "extincteurs",
       "keyword2": "protection incendie",
-      "keyword3": "Extincteurs Panoramica AJ",
+      "keyword3": "Extincteurs AJ",
       "keyword4": "systèmes de protection incendie",
       "keyword5": "extincteurs à Valence",
       "keyword6": "extincteurs en Espagne",
@@ -50,12 +50,12 @@
       "keyword10": "installation des systèmes incendie",
       "keyword11": "sécurité incendie",
       "keyword12": "extincteurs aj",
-      "keyword13": "extincteurs panoramica aj",
+      "keyword13": "extincteurs aj",
       "keyword14": "extincteurs panoramica"
     }
   },
 
-  "companyName": "Mantenimientos Panorámica AJ",
+  "companyName": "Mantenimientos AJ",
 
   "loading": "Chargement...",
   "requestInspection": "Demander une inspection",
@@ -168,10 +168,10 @@
   "slide2": "La meilleure urgence est celle qui n'arrive jamais : une bonne inspection la rend possible",
   "slide3": "Chaque sceau d'inspection est une promesse de sécurité tenue",
   "title_1": "Protection Incendie Personnalisée et Efficace",
-  "title_2": "Chez Mantenimientos Panorámica AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d'esprit. Nous offrons des solutions complètes, certifiées et adaptées à vos besoins pour garantir une sécurité maximale en prévention et contrôle des incendies.",
+  "title_2": "Chez Mantenimientos AJ, S.L., nous protégeons ce qui compte le plus : votre vie, vos biens et votre tranquillité d'esprit. Nous offrons des solutions complètes, certifiées et adaptées à vos besoins pour garantir une sécurité maximale en prévention et contrôle des incendies.",
   "lowVoltageInspection": {
     "title": "Inspection basse tension",
-    "intro1": "Chez Mantenimientos Panorámica AJ, nous réalisons des inspections de basse tension dans la Communauté valencienne. Ce processus garantit le bon fonctionnement, la sécurité et la conformité des installations électriques inférieures à 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
+    "intro1": "Chez Mantenimientos AJ, nous réalisons des inspections de basse tension dans la Communauté valencienne. Ce processus garantit le bon fonctionnement, la sécurité et la conformité des installations électriques inférieures à 1 000 V en courant alternatif (CA) ou 1 500 V en courant continu (CC).",
     "intro2": "Ces inspections sont essentielles dans le cadre de la prévention incendie, car de nombreux sinistres proviennent de défauts électriques évitables.",
     "purposes": {
       "title": "À quoi sert-elle ?",
@@ -194,7 +194,7 @@
     },
     "whoPerforms": {
       "title": "Qui doit effectuer l'inspection ?",
-      "description": "L’inspection doit être effectuée par un personnel technique spécialisé et certifié. Dans les installations industrielles, les établissements recevant du public ou les bâtiments équipés de systèmes de protection incendie, ces contrôles sont obligatoires selon la réglementation. Chez <strong>Mantenimientos Panorámica AJ</strong>, nous réalisons des inspections réglementaires dans la <strong>Communauté valencienne</strong>, en fournissant un rapport détaillé et des solutions personnalisées."
+      "description": "L’inspection doit être effectuée par un personnel technique spécialisé et certifié. Dans les installations industrielles, les établissements recevant du public ou les bâtiments équipés de systèmes de protection incendie, ces contrôles sont obligatoires selon la réglementation. Chez <strong>Mantenimientos AJ</strong>, nous réalisons des inspections réglementaires dans la <strong>Communauté valencienne</strong>, en fournissant un rapport détaillé et des solutions personnalisées."
     }
   },
   "fireMaintaince": "Maintenance et Installations de Protection Incendie",
@@ -332,9 +332,9 @@
 
   "aboutPage": {
     "title": "À Propos de Nous",
-    "paragraph1": "<strong>Mantenimientos Panorámica AJ</strong> est passionnément engagé dans la sécurité incendie. Depuis le premier jour, nous sommes spécialisés dans <strong>l'inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, offrant des solutions complètes adaptées aux besoins spécifiques de chaque client.",
+    "paragraph1": "<strong>Mantenimientos AJ</strong> est passionnément engagé dans la sécurité incendie. Depuis le premier jour, nous sommes spécialisés dans <strong>l'inspection, la maintenance et la prévention des systèmes de protection incendie</strong>, offrant des solutions complètes adaptées aux besoins spécifiques de chaque client.",
     "paragraph2": "Notre mission est claire et ferme : <strong>protéger les vies, les biens et les environnements</strong> grâce à des services techniques de haute qualité avec un focus préventif. Nous respectons les normes de sécurité les plus strictes et nous conformons aux réglementations nationales et internationales, utilisant une technologie de pointe pour garantir des résultats fiables et efficaces.",
-    "paragraph3": "Notre équipe est composée de professionnels hautement qualifiés avec une grande expérience dans <strong>la détection des risques, l'inspection des installations et les conseils techniques spécialisés</strong>. Chez Mantenimientos Panorámica AJ, nous ne faisons pas que des inspections : nous <strong>anticipons, prévenons et protégeons</strong> avec engagement et responsabilité.",
+    "paragraph3": "Notre équipe est composée de professionnels hautement qualifiés avec une grande expérience dans <strong>la détection des risques, l'inspection des installations et les conseils techniques spécialisés</strong>. Chez Mantenimientos AJ, nous ne faisons pas que des inspections : nous <strong>anticipons, prévenons et protégeons</strong> avec engagement et responsabilité.",
     "paragraph4": "Nous sommes convaincus que la prévention est le meilleur investissement. C'est pourquoi nous travaillons en étroite collaboration avec nos clients — industries, entreprises, institutions et communautés — pour créer des environnements plus sûrs et résilients face aux risques d'incendie.",
     "slogan": "Votre allié de confiance en sécurité incendie."
   }

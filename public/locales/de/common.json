@@ -1,46 +1,46 @@
 {
   "Seo": {
     "home": {
-      "title": "Panoramica AJ Wartung - Brandschutz- und Wartungslösungen",
+      "title": "AJ Wartungsservice - Brandschutz- und Wartungslösungen",
       "description": "Experten für Wartung, Brandschutzsysteme und professionelle Sicherheitslösungen."
     },
     "contact": {
-      "title": "Kontaktieren Sie uns | Panoramica AJ Wartung",
+      "title": "Kontaktieren Sie uns | AJ Wartungsservice",
       "description": "Kontaktieren Sie uns bei Fragen oder für Wartungs- und Brandschutzdienstleistungen."
     },
     "products": {
-      "title": "Produkte | Panoramica AJ Wartung",
+      "title": "Produkte | AJ Wartungsservice",
       "description": "Entdecken Sie unsere zertifizierten Produkte für Brandschutz und Wartung."
     },
     "about": {
-      "title": "Über uns | Panoramica AJ Wartung",
+      "title": "Über uns | AJ Wartungsservice",
       "description": "Erfahren Sie mehr über unsere Erfahrung und unser Engagement in Wartung und Brandschutz."
     },
     "quote": {
-      "title": "Angebot anfordern | Panoramica AJ Wartung",
+      "title": "Angebot anfordern | AJ Wartungsservice",
       "description": "Fordern Sie ein individuelles Angebot für unsere Wartungs- und Brandschutzdienstleistungen an."
     },
     "terms": {
-      "title": "Allgemeine Geschäftsbedingungen | Panoramica AJ Wartung",
+      "title": "Allgemeine Geschäftsbedingungen | AJ Wartungsservice",
       "description": "Lesen Sie unsere allgemeinen Geschäftsbedingungen und Servicerichtlinien."
     },
     "privacyPolicy": {
-      "title": "Datenschutzrichtlinie | Panoramica AJ Wartung",
+      "title": "Datenschutzrichtlinie | AJ Wartungsservice",
       "description": "Lesen Sie unsere Datenschutz- und Datenverarbeitungsrichtlinien."
     },
     "lowVoltage": {
-      "title": "Niederspannung | Panoramica AJ Wartung",
+      "title": "Niederspannung | AJ Wartungsservice",
       "description": "Zertifizierte Inspektionen, Wartung und Installationen im Niederspannungsbereich."
     },
     "maintenanceFireSystems": {
-      "title": "Wartung von Brandschutzsystemen | Panoramica AJ Wartung",
+      "title": "Wartung von Brandschutzsystemen | AJ Wartungsservice",
       "description": "Professionelle Wartung und Instandhaltung von Brandschutzanlagen."
     },
 
     "keywords": {
       "keyword1": "feuerlöscher",
       "keyword2": "brandschutz",
-      "keyword3": "Panoramica AJ Feuerlöscher",
+      "keyword3": "AJ Feuerlöscher",
       "keyword4": "brandschutzsysteme",
       "keyword5": "feuerlöscher in Valencia",
       "keyword6": "feuerlöscher in Spanien",
@@ -50,12 +50,12 @@
       "keyword10": "installation brandschutzsysteme",
       "keyword11": "brandsicherheit",
       "keyword12": "aj feuerlöscher",
-      "keyword13": "panoramica aj feuerlöscher",
-      "keyword14": "panoramica feuerlöscher"
+      "keyword13": "aj feuerlöscher",
+      "keyword14": "feuerlöscher"
     }
   },
 
-  "companyName": "Mantenimientos Panorámica AJ",
+  "companyName": "Mantenimientos AJ",
 
   "loading": "Wird geladen...",
   "requestInspection": "Inspektion anfordern",
@@ -168,10 +168,10 @@
   "slide2": "Der beste Notfall ist der, der nie eintritt - eine gute Inspektion macht das möglich",
   "slide3": "Jedes Inspektionssiegel ist ein eingelöstes Sicherheitsversprechen",
   "title_1": "Maßgeschneiderter und Effektiver Brandschutz",
-  "title_2": "Bei Mantenimientos Panorámica AJ, S.L. schützen wir, was Ihnen am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Ruhe. Wir bieten umfassende, zertifizierte Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind, um maximale Sicherheit bei Brandverhütung und -bekämpfung zu gewährleisten.",
+  "title_2": "Bei Mantenimientos AJ, S.L. schützen wir, was Ihnen am wichtigsten ist: Ihr Leben, Ihr Eigentum und Ihre Ruhe. Wir bieten umfassende, zertifizierte Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind, um maximale Sicherheit bei Brandverhütung und -bekämpfung zu gewährleisten.",
   "lowVoltageInspection": {
     "title": "Niederspannungsprüfung",
-    "intro1": "Bei Mantenimientos Panorámica AJ bieten wir Niederspannungsprüfungen in der <strong>Region Valencia</strong> an. Diese technische Inspektion stellt sicher, dass elektrische Anlagen unter 1.000 V Wechselstrom (AC) oder 1.500 V Gleichstrom (DC) ordnungsgemäß funktionieren, sicher sind und den geltenden Vorschriften entsprechen.",
+    "intro1": "Bei Mantenimientos AJ bieten wir Niederspannungsprüfungen in der <strong>Region Valencia</strong> an. Diese technische Inspektion stellt sicher, dass elektrische Anlagen unter 1.000 V Wechselstrom (AC) oder 1.500 V Gleichstrom (DC) ordnungsgemäß funktionieren, sicher sind und den geltenden Vorschriften entsprechen.",
     "intro2": "Diese Art von Inspektion ist entscheidend für den Brandschutz, da viele Brände durch vermeidbare elektrische Fehler verursacht werden.",
     "purposes": {
       "title": "Wozu dient sie?",
@@ -194,7 +194,7 @@
     },
     "whoPerforms": {
       "title": "Wer führt die Prüfung durch?",
-      "description": "Die Inspektion muss von spezialisiertem und zertifiziertem Fachpersonal durchgeführt werden. In Industrieanlagen, öffentlichen Einrichtungen oder Gebäuden mit Brandschutzsystemen sind diese Prüfungen gesetzlich vorgeschrieben. Bei <strong>Mantenimientos Panorámica AJ</strong> führen wir vorgeschriebene Inspektionen in der <strong>Region Valencia</strong> durch und bieten einen detaillierten Bericht sowie maßgeschneiderte Lösungen an."
+      "description": "Die Inspektion muss von spezialisiertem und zertifiziertem Fachpersonal durchgeführt werden. In Industrieanlagen, öffentlichen Einrichtungen oder Gebäuden mit Brandschutzsystemen sind diese Prüfungen gesetzlich vorgeschrieben. Bei <strong>Mantenimientos AJ</strong> führen wir vorgeschriebene Inspektionen in der <strong>Region Valencia</strong> durch und bieten einen detaillierten Bericht sowie maßgeschneiderte Lösungen an."
     }
   },
   "fireMaintaince": "Wartung und Installationen für den Brandschutz",
@@ -332,9 +332,9 @@
 
   "aboutPage": {
     "title": "Über Uns",
-    "paragraph1": "<strong>Mantenimientos Panorámica AJ</strong> engagiert sich mit Leidenschaft für den Brandschutz. Seit Beginn sind wir auf die <strong>Inspektion, Wartung und Prävention von Brandschutzsystemen</strong> spezialisiert und bieten umfassende Lösungen, die auf die individuellen Bedürfnisse jedes Kunden zugeschnitten sind.",
+    "paragraph1": "<strong>Mantenimientos AJ</strong> engagiert sich mit Leidenschaft für den Brandschutz. Seit Beginn sind wir auf die <strong>Inspektion, Wartung und Prävention von Brandschutzsystemen</strong> spezialisiert und bieten umfassende Lösungen, die auf die individuellen Bedürfnisse jedes Kunden zugeschnitten sind.",
     "paragraph2": "Unsere Mission ist klar und eindeutig: <strong>Leben, Eigentum und Umgebungen zu schützen</strong> durch hochwertige technische Dienstleistungen mit präventivem Ansatz. Wir halten die strengsten Sicherheitsstandards ein und erfüllen nationale sowie internationale Vorschriften, dabei setzen wir modernste Technologie ein, um zuverlässige und effektive Ergebnisse zu gewährleisten.",
-    "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfangreicher Erfahrung in der <strong>Risikobewertung, Anlagenprüfung und spezialisierten technischen Beratung</strong>. Bei Mantenimientos Panorámica AJ inspizieren wir nicht nur: Wir <strong>erkennen Risiken frühzeitig, verhindern Gefahren und schützen verantwortungsbewusst</strong>.",
+    "paragraph3": "Unser Team besteht aus hochqualifizierten Fachleuten mit umfangreicher Erfahrung in der <strong>Risikobewertung, Anlagenprüfung und spezialisierten technischen Beratung</strong>. Bei Mantenimientos AJ inspizieren wir nicht nur: Wir <strong>erkennen Risiken frühzeitig, verhindern Gefahren und schützen verantwortungsbewusst</strong>.",
     "paragraph4": "Wir sind fest davon überzeugt, dass Prävention die beste Investition ist. Deshalb arbeiten wir eng mit unseren Kunden — Industrie, Unternehmen, Institutionen und Gemeinschaften — zusammen, um sicherere und widerstandsfähigere Umgebungen gegen Brandrisiken zu schaffen.",
     "slogan": "Ihr vertrauenswürdiger Partner für Brandschutz."
   }

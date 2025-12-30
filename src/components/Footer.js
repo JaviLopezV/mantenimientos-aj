@@ -51,7 +51,7 @@ const FooterInfo = ({ currentLocale }) => {
               mb={2}
               textAlign={{ xs: "center", md: "left" }}
             >
-              AJ MANTENIMIENTOS PANORÁMICA
+              AJ MANTENIMIENTOS
             </Typography>
 
             <Box display="flex" alignItems="flex-start" mb={2}>

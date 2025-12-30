@@ -121,20 +121,19 @@ export default function AppAppBar({ currentLocale }) {
     <StyledAppBar
       position="fixed"
       elevation={4}
-      sx={{ bgcolor: { xs: "white", ms: "white", md: "#2E2E2E" } }}
+      sx={{ bgcolor: { xs: "#2E2E2E" } }}
     >
       <Box sx={{ px: { xs: 2, md: 4, lg: 8 } }}>
         <Toolbar disableGutters sx={{ justifyContent: "space-between" }}>
           {/* LOGOS */}
           <Box
             component="img"
-            src="/logo.png"
+            src="/logo.jpeg"
             alt="Logo"
             sx={{
-              display: { xs: "none", md: "flex" },
-              height: 40,
+              display: { xs: "none", md: "none", lg: "flex" },
+              height: 60,
               cursor: "pointer",
-              pr: 2,
             }}
             onClick={() => navigate("/")}
           />
@@ -143,15 +142,15 @@ export default function AppAppBar({ currentLocale }) {
             src="/logo2.png"
             alt="Logo"
             sx={{
-              display: { xs: "flex", md: "none" },
-              height: 55,
+              display: { xs: "flex", md: "flex", lg: "none" },
+              height: 60,
               cursor: "pointer",
             }}
             onClick={() => navigate("/")}
           />
 
           {/* DESKTOP NAV */}
-          <Box sx={{ display: { xs: "none", md: "flex" }, gap: 2 }}>
+          <Box sx={{ display: { xs: "none", md: "none", lg: "flex" }, gap: 2 }}>
             {navItems.map((item) =>
               item.children ? (
                 <Box
@@ -246,7 +245,7 @@ export default function AppAppBar({ currentLocale }) {
           </Box>
 
           {/* LANG SELECTOR DESKTOP */}
-          <Box sx={{ display: { xs: "none", md: "flex" } }}>
+          <Box sx={{ display: { xs: "none", md: "none", lg: "flex" } }}>
             <IconButton
               color="inherit"
               onClick={(e) => setLangAnchorEl(e.currentTarget)}
@@ -286,10 +285,10 @@ export default function AppAppBar({ currentLocale }) {
           </Box>
 
           {/* MOBILE MENU */}
-          <Box sx={{ display: { xs: "flex", md: "none" } }}>
+          <Box sx={{ display: { xs: "flex", md: "flex", lg: "none" } }}>
             <IconButton onClick={() => setDrawerOpen(true)}>
               <MenuIcon
-                sx={{ color: { xs: "black", sm: "black", md: "white" } }}
+                sx={{ color: { xs: "white", sm: "white", md: "white" } }}
               />
             </IconButton>
             <Drawer
