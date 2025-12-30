@@ -124,8 +124,15 @@ export default function AppAppBar({ currentLocale }) {
       sx={{ bgcolor: { xs: "#2E2E2E" } }}
     >
       <Box sx={{ px: { xs: 2, md: 4, lg: 8 } }}>
-        <Toolbar disableGutters sx={{ justifyContent: "space-between" }}>
-          {/* LOGOS */}
+        <Toolbar
+          disableGutters
+          sx={{
+            position: "relative",
+            justifyContent: { lg: "space-between" },
+            minHeight: 64,
+          }}
+        >
+          {/* DESKTOP NAV */}
           <Box
             component="img"
             src="/logo.jpeg"
@@ -137,19 +144,7 @@ export default function AppAppBar({ currentLocale }) {
             }}
             onClick={() => navigate("/")}
           />
-          <Box
-            component="img"
-            src="/logo2.png"
-            alt="Logo"
-            sx={{
-              display: { xs: "flex", md: "flex", lg: "none" },
-              height: 60,
-              cursor: "pointer",
-            }}
-            onClick={() => navigate("/")}
-          />
 
-          {/* DESKTOP NAV */}
           <Box sx={{ display: { xs: "none", md: "none", lg: "flex" }, gap: 2 }}>
             {navItems.map((item) =>
               item.children ? (
@@ -285,6 +280,21 @@ export default function AppAppBar({ currentLocale }) {
           </Box>
 
           {/* MOBILE MENU */}
+          <Box
+            component="img"
+            src="/logo.jpeg"
+            alt="Logo"
+            sx={{
+              display: { xs: "flex", lg: "none" },
+              height: 60,
+              cursor: "pointer",
+              position: "absolute",
+              left: "50%",
+              transform: "translateX(-50%)",
+            }}
+            onClick={() => navigate("/")}
+          />
+
           <Box sx={{ display: { xs: "flex", md: "flex", lg: "none" } }}>
             <IconButton onClick={() => setDrawerOpen(true)}>
               <MenuIcon
