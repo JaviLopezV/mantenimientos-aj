@@ -286,7 +286,7 @@ export default function AppAppBar({ currentLocale }) {
             alt="Logo"
             sx={{
               display: { xs: "flex", lg: "none" },
-              height: 60,
+              height: { xs: 48, sm: 55, md: 60 },
               cursor: "pointer",
               position: "absolute",
               left: "50%",
