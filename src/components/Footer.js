@@ -132,9 +132,17 @@ const FooterInfo = ({ currentLocale }) => {
               {/* <IconButton color="inherit" size="large">
                 <FacebookIcon />
               </IconButton> */}
-              <IconButton color="inherit" size="large">
+              <IconButton
+                color="inherit"
+                size="large"
+                component="a"
+                href="https://www.instagram.com/ajmantenimientos?igsh=MTBsc2Jqcmd3ZXloNw%3D%3D"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <InstagramIcon />
               </IconButton>
+
               {/* <IconButton color="inherit" size="large">
                 <YouTubeIcon />
               </IconButton> */}
