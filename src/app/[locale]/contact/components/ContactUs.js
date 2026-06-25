@@ -70,6 +70,7 @@ export default function MainContent() {
               📞 {t("phone")}
             </Typography>
             <Typography variant="body1">+34 964 880 171</Typography>
+            <Typography variant="body1">+34 964 848 711</Typography>
             <Spacer size={1} />
 
             <Typography variant="subtitle1" color="text.primary">
