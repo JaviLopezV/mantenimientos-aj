@@ -6,7 +6,7 @@ import { useTranslations } from "next-intl";
 
 function isMobileDevice() {
   return /Mobi|Android|iPhone|iPad|iPod|Opera Mini|IEMobile/i.test(
-    navigator.userAgent
+    navigator.userAgent,
   );
 }
 
