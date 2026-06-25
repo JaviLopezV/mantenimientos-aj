@@ -6,7 +6,7 @@ const WhatsAppButton = () => {
   const phoneNumber = "34744783411"; // Reemplaza con tu número internacional
   const message = "Hola, quiero más información"; // Mensaje opcional
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
-    message
+    message,
   )}`;
 
   return (

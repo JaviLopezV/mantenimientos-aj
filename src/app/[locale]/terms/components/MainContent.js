@@ -64,9 +64,7 @@ const MainContent = () => {
       </Typography>
       <Typography variant="body1">
         {t("terms.section8.content")}
-        <MuiLink href="mailto:info@extintorespanoramica.com">
-          info@extintorespanoramica.com
-        </MuiLink>
+        <MuiLink href="mailto:info@c-azahar.com">info@c-azahar.com</MuiLink>
       </Typography>
     </Paper>
   );

@@ -8,7 +8,7 @@ const MainContent = () => {
   const t = useTranslations();
   const locale = useLocale();
 
-  const formattedDate = new Date(2025, 4, 22) // mes es 0-based
+  const formattedDate = new Date(2026, 6, 25) // mes es 0-based
     .toLocaleDateString(locale, {
       month: "short",
       day: "2-digit",
@@ -37,17 +37,16 @@ const MainContent = () => {
           {t("responsible")}
         </Typography>
         <Typography variant="body1">
-          <strong>{t("responsible_name")}</strong> Extintores Panorámica AJ, S.L
+          <strong>{t("responsible_name")}</strong> Costa Azahar Instalaciones,
+          S.L.
           <br />
-          <strong>{t("responsible_nif")}</strong> B75727412
+          <strong>{t("responsible_nif")}</strong> B26885608
           <br />
           <strong>{t("responsible_address")}</strong> Av. Castellón 3, Es: L,
           Pl: 0, Pt: 9 - 12320 Sant Jordi, Castellón
           <br />
           <strong>{t("responsible_email")}</strong>{" "}
-          <MuiLink href="mailto:info@extintorespanoramica.com">
-            info@extintorespanoramica.com
-          </MuiLink>
+          <MuiLink href="mailto:info@c-azahar.com">info@c-azahar.com</MuiLink>
         </Typography>
       </Box>
 

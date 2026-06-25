@@ -76,9 +76,7 @@ export default function MainContent() {
               ✉️ {t("email")}
             </Typography>
             <Typography variant="body1">
-              <Link href="mailto:info@extintorespanoramica.com">
-                info@extintorespanoramica.com
-              </Link>
+              <Link href="mailto:info@c-azahar.com">info@c-azahar.com</Link>
             </Typography>
           </Box>
         </Box>

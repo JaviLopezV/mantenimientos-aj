@@ -135,7 +135,7 @@ export default function AppAppBar({ currentLocale }) {
           {/* DESKTOP NAV */}
           <Box
             component="img"
-            src="/logo.jpeg"
+            src="/logo.jpg"
             alt="Logo"
             sx={{
               display: { xs: "none", md: "none", lg: "flex" },
@@ -235,7 +235,7 @@ export default function AppAppBar({ currentLocale }) {
                     {t(item.label).toUpperCase()}
                   </Box>
                 </NavButton>
-              )
+              ),
             )}
           </Box>
 
@@ -282,7 +282,7 @@ export default function AppAppBar({ currentLocale }) {
           {/* MOBILE MENU */}
           <Box
             component="img"
-            src="/logo.jpeg"
+            src="/logo.jpg"
             alt="Logo"
             sx={{
               display: { xs: "flex", lg: "none" },
@@ -351,7 +351,7 @@ export default function AppAppBar({ currentLocale }) {
                       {iconsMap[item.label]}
                       <Box ml={1}>{t(item.label)}</Box>
                     </MenuItem>
-                  )
+                  ),
                 )}
 
                 <Divider sx={{ my: 2 }} />

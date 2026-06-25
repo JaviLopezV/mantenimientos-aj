@@ -59,14 +59,20 @@ const FooterInfo = ({ currentLocale }) => {
               <Box>
                 <Typography fontWeight="bold">{t("headOffice")}:</Typography>
                 <Typography variant="body2">
+                  C. del Cid, 16
+                  <br />
+                  <strong>12500 Vinaròs, Castellón</strong>
+                  <br />
+                  <br />
                   Av. Castellón 3
                   <br />
-                  Es: L, Pl: 0, Pt: 9
+                  Es: L, Pl: 0, Pt: 9s
                   <br />
-                  12320 Sant Jordi, Castellón
+                  <strong>12320 Sant Jordi, Castellón</strong>
                 </Typography>
               </Box>
             </Box>
+
             <Box display="flex" alignItems="flex-start" mb={2}>
               <LocationOnIcon sx={{ mr: 1 }} />
               <Box>
@@ -101,6 +107,9 @@ const FooterInfo = ({ currentLocale }) => {
               <Box>
                 <Typography fontWeight="bold" variant="h6">
                   {t("phoneNumber")}
+                </Typography>
+                <Typography fontWeight="bold" variant="h6">
+                  +34 964 848 711
                 </Typography>
                 <Typography variant="body2">{t("directSupport")}</Typography>
               </Box>
@@ -168,7 +177,7 @@ const FooterInfo = ({ currentLocale }) => {
               />
               <Box
                 component="img"
-                src="/images/logo2.png"
+                src="/images/logo2.jpg"
                 alt="logo2"
                 sx={{ height: 40 }}
               />
