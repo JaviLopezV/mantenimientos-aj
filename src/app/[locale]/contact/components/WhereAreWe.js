@@ -32,12 +32,13 @@ export default function MainContent() {
             }}
           >
             <iframe
-              title="Ubicación en Google Maps"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.6480722662577!2d0.37837409999999994!3d40.5493637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a05b36e48ec259%3A0x8048266cc6201b29!2sAJ%20Panor%C3%A1mica%20Extintores!5e0!3m2!1ses!2ses!4v1751980943150!5m2!1ses!2ses"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.648073560148!2d0.37579917585450745!3d40.54936367141852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a05b36e48ec259%3A0x8048266cc6201b29!2sMantenimientos%20AJ!5e0!3m2!1ses!2ses!4v1787304434915!5m2!1ses!2ses"
               width="100%"
               height="450"
+              allowfullscreen=""
               style={{ border: 0 }}
               loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
             ></iframe>
           </Paper>
         </Container>
