@@ -23,36 +23,27 @@ export const metadata = {
   icons: {
     icon: "/extintor.png",
   },
+  verification: {
+    google: "SWoP3vXcEcYrXGFf4wbGKBdc79pNIsc_tykYLQ1ha9M",
+  },
 };
 
 export default async function LocaleLayout({ children, params }) {
-  const locale = params.locale;
+  const { locale } = await params;
   const messages = (
     await import(`../../../public/locales/${locale}/common.json`)
   ).default;
 
   return (
-    <html lang={locale}>
-      <head>
-        <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/extintor.png" />
-        <meta name="theme-color" content="#d32f2f" />
-        <meta
-          name="google-site-verification"
-          content="SWoP3vXcEcYrXGFf4wbGKBdc79pNIsc_tykYLQ1ha9M"
-        />
-      </head>
-      <body>
-        <StructuredData />
+    <>
+      <StructuredData />
 
-        <LocaleProvider locale={locale} messages={messages}>
-          {/* Header with locale switcher */}
-          <Header currentLocale={locale} />
-          <InstallPrompt />
-          {children}
-          <Footer currentLocale={locale} />
-        </LocaleProvider>
-      </body>
-    </html>
+      <LocaleProvider locale={locale} messages={messages}>
+        <Header currentLocale={locale} />
+        <InstallPrompt />
+        {children}
+        <Footer currentLocale={locale} />
+      </LocaleProvider>
+    </>
   );
 }

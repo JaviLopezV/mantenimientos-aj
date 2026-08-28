@@ -1,32 +1,19 @@
-"use client";
-
-import { useEffect } from "react";
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  name: "Mantenimientos AJ",
+  url: "https://mantenimientos-aj.vercel.app",
+  email: "info@c-azahar.com",
+  telephone: "+34 964 848 711",
+  areaServed: ["Vinaros", "Sant Jordi", "Madrid", "Barcelona"],
+};
 
 export default function StructuredData() {
-  useEffect(() => {
-    const id = "jsonld-website-schema";
-
-    if (document.getElementById(id)) return;
-
-    const script = document.createElement("script");
-    script.id = id;
-    script.type = "application/ld+json";
-    script.text = JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      name: "Mantenimientos AJ",
-      url: "https://mantenimientos-aj.vercel.app",
-    });
-
-    document.head.appendChild(script);
-
-    return () => {
-      const existing = document.getElementById(id);
-      if (existing) {
-        existing.remove();
-      }
-    };
-  }, []);
-
-  return null;
+  return (
+    <script
+      id="local-business-schema"
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+    />
+  );
 }

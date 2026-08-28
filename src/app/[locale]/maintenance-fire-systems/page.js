@@ -3,11 +3,11 @@ import Loader from "../../../components/Loading";
 
 const MaintenanceFireSystemsPage = dynamic(
   () => import("./MaintenanceFireSystemsPage"),
-  { ssr: false, loading: Loader }
+  { loading: Loader },
 );
 
 export async function generateMetadata({ params }) {
-  const { locale } = params;
+  const { locale } = await params;
   const messages = (
     await import(`../../../../public/locales/${locale}/common.json`)
   ).default;

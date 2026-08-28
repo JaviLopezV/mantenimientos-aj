@@ -2,12 +2,11 @@ import dynamic from "next/dynamic";
 import Loader from "../../../components/Loading";
 
 const ContactPage = dynamic(() => import("./ContactPage"), {
-  ssr: false,
   loading: Loader,
 });
 
 export async function generateMetadata({ params }) {
-  const { locale } = params;
+  const { locale } = await params;
   const messages = (
     await import(`../../../../public/locales/${locale}/common.json`)
   ).default;

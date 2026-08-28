@@ -23,6 +23,7 @@ export default function MainContent({
   showSendAlert,
   showTermsAlert,
   showErrorAlert,
+  isSubmitting,
   closeAlert,
   handleCheckboxChange,
   handleChange,
@@ -86,6 +87,20 @@ export default function MainContent({
               name="last_name"
               label={t("last_name")}
               value={contactForm.last_name}
+              onChange={handleChange}
+              size="small"
+            />
+          </Grid>
+
+          <Grid item xs={12}>
+            <TextField
+              fullWidth
+              required
+              type="email"
+              id="email"
+              name="email"
+              label={t("email")}
+              value={contactForm.email}
               onChange={handleChange}
               size="small"
             />
@@ -164,6 +179,7 @@ export default function MainContent({
               variant="contained"
               color="primary"
               type="submit"
+              disabled={isSubmitting}
             >
               {t("send")}
             </Button>

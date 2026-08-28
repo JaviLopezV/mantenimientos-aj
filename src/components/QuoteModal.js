@@ -16,6 +16,7 @@ export default function QuoteModal({ open, setOpen, title }) {
     showSendAlert,
     showTermsAlert,
     showErrorAlert,
+    isSubmitting,
     closeAlert,
     handleCheckboxChange,
     handleChange,
@@ -74,6 +75,7 @@ export default function QuoteModal({ open, setOpen, title }) {
                 showSendAlert={showSendAlert}
                 showTermsAlert={showTermsAlert}
                 showErrorAlert={showErrorAlert}
+                isSubmitting={isSubmitting}
                 closeAlert={closeAlert}
                 handleCheckboxChange={handleCheckboxChange}
                 handleChange={handleChange}

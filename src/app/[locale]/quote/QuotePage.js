@@ -24,6 +24,7 @@ export default function LandingPage() {
     showSendAlert,
     showTermsAlert,
     showErrorAlert,
+    isSubmitting,
     closeAlert,
     handleCheckboxChange,
     handleChange,
@@ -82,6 +83,7 @@ export default function LandingPage() {
             showSendAlert={showSendAlert}
             showTermsAlert={showTermsAlert}
             showErrorAlert={showErrorAlert}
+            isSubmitting={isSubmitting}
             closeAlert={closeAlert}
             handleCheckboxChange={handleCheckboxChange}
             handleChange={handleChange}

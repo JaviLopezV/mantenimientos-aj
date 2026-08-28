@@ -1,11 +1,11 @@
 import React from "react";
 import { IconButton } from "@mui/material";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
+import { company } from "../config/company";
 
 const WhatsAppButton = () => {
-  const phoneNumber = "34744783411"; // Reemplaza con tu número internacional
   const message = "Hola, quiero más información"; // Mensaje opcional
-  const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
+  const whatsappLink = `https://wa.me/${company.whatsapp}?text=${encodeURIComponent(
     message,
   )}`;
 

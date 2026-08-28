@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { Container, Typography, Box, Link } from "@mui/material";
 
 import Spacer from "../../../../components/Spacer";
+import { company } from "../../../../config/company";
 import ImageCarousel from "../../home/components/ImageCarousel";
 
 export default function MainContent() {
@@ -69,15 +70,14 @@ export default function MainContent() {
             <Typography variant="subtitle1" color="text.primary">
               📞 {t("phone")}
             </Typography>
-            <Typography variant="body1">+34 964 880 171</Typography>
-            <Typography variant="body1">+34 964 848 711</Typography>
+            <Typography variant="body1">{company.phone}</Typography>
             <Spacer size={1} />
 
             <Typography variant="subtitle1" color="text.primary">
               ✉️ {t("email")}
             </Typography>
             <Typography variant="body1">
-              <Link href="mailto:info@c-azahar.com">info@c-azahar.com</Link>
+              <Link href={`mailto:${company.email}`}>{company.email}</Link>
             </Typography>
           </Box>
         </Box>

@@ -4,6 +4,7 @@ import emailjs from "@emailjs/browser";
 const initialData = {
   first_name: "",
   last_name: "",
+  email: "",
   address1: "",
   city: "",
   postcode: "",
@@ -16,6 +17,7 @@ export default function useQuoteLogic() {
   const [showSendAlert, setShowSendAlert] = useState(false);
   const [showTermsAlert, setShowTermsAlert] = useState(false);
   const [showErrorAlert, setShowErrorAlert] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const closeAlert = (alert) => {
     if (alert === "send") setShowSendAlert(false);
@@ -38,17 +40,31 @@ export default function useQuoteLogic() {
   const sendEmail = (e) => {
     e.preventDefault();
 
+    if (isSubmitting) return;
+
     if (!acceptedTerms) {
       setShowTermsAlert(true);
       return;
     }
 
+    const emailConfig = [
+      process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
+      process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
+      process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY,
+    ];
+
+    if (emailConfig.some((value) => !value)) {
+      setShowErrorAlert(true);
+      return;
+    }
+
+    setIsSubmitting(true);
     emailjs
       .send(
         process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
         process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
         contactForm,
-        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY
+        process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY,
       )
       .then(
         () => {
@@ -57,10 +73,12 @@ export default function useQuoteLogic() {
           setAcceptedTerms(false);
           setShowErrorAlert(false);
           setShowTermsAlert(false);
+          setIsSubmitting(false);
         },
-        (error) => {
+        () => {
           setShowErrorAlert(true);
-        }
+          setIsSubmitting(false);
+        },
       );
   };
   return {
@@ -69,6 +87,7 @@ export default function useQuoteLogic() {
     showSendAlert,
     showTermsAlert,
     showErrorAlert,
+    isSubmitting,
     closeAlert,
     handleCheckboxChange,
     handleChange,

@@ -20,6 +20,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import WhatsAppButton from "./Whatsapp";
 import { useTranslations } from "next-intl";
 import { useRouter } from "next/navigation";
+import { company } from "../config/company";
 
 const FooterInfo = ({ currentLocale }) => {
   const t = useTranslations();
@@ -109,7 +110,7 @@ const FooterInfo = ({ currentLocale }) => {
                   {t("phoneNumber")}
                 </Typography>
                 <Typography fontWeight="bold" variant="h6">
-                  +34 964 848 711
+                  {company.phone}
                 </Typography>
                 <Typography variant="body2">{t("directSupport")}</Typography>
               </Box>

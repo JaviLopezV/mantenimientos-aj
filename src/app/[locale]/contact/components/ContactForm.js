@@ -15,6 +15,7 @@ export default function MainContent() {
     showSendAlert,
     showTermsAlert,
     showErrorAlert,
+    isSubmitting,
     closeAlert,
     handleCheckboxChange,
     handleChange,
@@ -41,6 +42,7 @@ export default function MainContent() {
           showSendAlert={showSendAlert}
           showTermsAlert={showTermsAlert}
           showErrorAlert={showErrorAlert}
+          isSubmitting={isSubmitting}
           closeAlert={closeAlert}
           handleCheckboxChange={handleCheckboxChange}
           handleChange={handleChange}

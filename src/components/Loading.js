@@ -1,5 +1,6 @@
 "use client";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 
 export default function Loader() {
   const t = useTranslations();
@@ -16,7 +17,7 @@ export default function Loader() {
       <br />
       <br />
       <br />
-      <img src="/extintor.png" alt={t("loading")} width="300" height="400" />
+      <Image src="/extintor.png" alt={t("loading")} width={300} height={400} />
       <p
         style={{
           marginTop: 16,

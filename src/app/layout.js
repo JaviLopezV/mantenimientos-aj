@@ -1,4 +1,5 @@
-// src/app/layout.js
+import "./[locale]/globals.css";
+
 export default function RootLayout({ children }) {
   return (
     <html lang="es">

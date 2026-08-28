@@ -53,8 +53,9 @@ export default function InstallPrompt() {
         sx={{
           position: "fixed",
           bottom: 16,
-          left: "0%",
+          left: "50%",
           transform: "translateX(-50%)",
+          maxWidth: "calc(100vw - 32px)",
           padding: 2,
           zIndex: 1300,
         }}

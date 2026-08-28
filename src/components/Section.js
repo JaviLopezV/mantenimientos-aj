@@ -16,7 +16,7 @@ const Section = ({ id, isLeft, children, onInView }) => {
 
   useEffect(() => {
     onInView(inView);
-  }, [inView]);
+  }, [inView, onInView]);
 
   return (
     <Box
