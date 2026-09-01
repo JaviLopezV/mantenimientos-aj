@@ -1,5 +1,7 @@
 "use client";
 
+import Grid from "@mui/material/GridLegacy";
+import { Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React, { useState } from "react";
 import {
@@ -7,8 +9,6 @@ import {
   List,
   ListItemButton,
   ListItemText,
-  Grid,
-  Typography,
   Fade,
   Card,
   CardMedia,

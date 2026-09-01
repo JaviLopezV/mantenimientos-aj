@@ -1,8 +1,9 @@
 "use client";
 
+import { IconButton, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
-import { Box, IconButton, Typography } from "@mui/material";
+import { Box } from "@mui/material";
 import { ArrowBackIosNew, ArrowForwardIos } from "@mui/icons-material";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay, EffectFade } from "swiper/modules";

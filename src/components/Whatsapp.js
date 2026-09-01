@@ -1,5 +1,6 @@
+import { IconButton } from "@jlopvil/mui-kit";
 import React from "react";
-import { IconButton } from "@mui/material";
+
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import { company } from "../config/company";
 

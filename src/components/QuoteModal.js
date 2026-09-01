@@ -1,8 +1,9 @@
 "use client";
 
+import { IconButton, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
-import { Modal, Box, Typography, IconButton, Slide } from "@mui/material";
+import { Modal, Box, Slide } from "@mui/material";
 import CloseIcon from "@mui/icons-material/Close";
 import useQuoteLogic from "../hooks/useQuoteLogic";
 import MainContent from "../app/[locale]/quote/components/MainContent";

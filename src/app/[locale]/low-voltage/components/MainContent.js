@@ -1,16 +1,15 @@
 "use client";
 
+import { Button, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
 import {
-  Typography,
   Divider,
   List,
   ListItem,
   ListItemIcon,
   ListItemText,
   Paper,
-  Button,
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import Spacer from "@/components/Spacer";
@@ -111,7 +110,7 @@ export default function InspectionLowVoltageSection({ setOpen }) {
               </ListItemIcon>
               <ListItemText
                 primary={t(
-                  `lowVoltageInspection.inspectedItems.items.item${i}`
+                  `lowVoltageInspection.inspectedItems.items.item${i}`,
                 )}
               />
             </ListItem>

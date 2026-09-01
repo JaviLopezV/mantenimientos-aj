@@ -1,6 +1,7 @@
 "use client";
 
-import { Container, Box, Typography } from "@mui/material";
+import { Container, Typography } from "@jlopvil/mui-kit";
+import { Box } from "@mui/material";
 
 import QuoteMainContent from "../../quote/components/MainContent";
 import useQuoteLogic from "../../../../hooks/useQuoteLogic";

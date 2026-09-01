@@ -1,8 +1,9 @@
 "use client";
 
+import { Link as MuiLink, Typography } from "@jlopvil/mui-kit";
 import { useLocale, useTranslations } from "next-intl";
 import React from "react";
-import { Paper, Typography, Box, Link as MuiLink } from "@mui/material";
+import { Paper, Box } from "@mui/material";
 
 const MainContent = () => {
   const t = useTranslations();

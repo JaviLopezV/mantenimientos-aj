@@ -1,17 +1,9 @@
 "use client";
 
+import Grid from "@mui/material/GridLegacy";
+import { Button, Container, Typography } from "@jlopvil/mui-kit";
 import React from "react";
-import {
-  Box,
-  Typography,
-  Grid,
-  Card,
-  CardContent,
-  Divider,
-  Container,
-  Paper,
-  Button,
-} from "@mui/material";
+import { Box, Card, CardContent, Divider, Paper } from "@mui/material";
 import FireExtinguisherIcon from "@mui/icons-material/FireExtinguisher";
 import BuildIcon from "@mui/icons-material/Build";
 import SecurityIcon from "@mui/icons-material/Security";

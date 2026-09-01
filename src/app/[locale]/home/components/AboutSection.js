@@ -1,8 +1,10 @@
 "use client";
 
+import Grid from "@mui/material/GridLegacy";
+import { Container, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
-import { Container, Grid, Box, Typography } from "@mui/material";
+import { Box } from "@mui/material";
 
 export default function AboutSection() {
   const t = useTranslations();

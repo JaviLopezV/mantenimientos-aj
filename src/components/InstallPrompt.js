@@ -1,7 +1,8 @@
 "use client";
 
+import { Button, Stack } from "@jlopvil/mui-kit";
 import { useEffect, useState } from "react";
-import { Button, Slide, Paper, Stack } from "@mui/material";
+import { Slide, Paper } from "@mui/material";
 import { useTranslations } from "next-intl";
 
 function isMobileDevice() {

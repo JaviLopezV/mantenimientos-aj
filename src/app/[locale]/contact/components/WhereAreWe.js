@@ -1,7 +1,8 @@
 "use client";
 
+import { Container, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
-import { Container, Paper, Typography, Box } from "@mui/material";
+import { Paper, Box } from "@mui/material";
 
 export default function MainContent() {
   const t = useTranslations();
@@ -32,13 +33,13 @@ export default function MainContent() {
             }}
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3031.648073560148!2d0.37579917585450745!3d40.54936367141852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a05b36e48ec259%3A0x8048266cc6201b29!2sMantenimientos%20AJ!5e0!3m2!1ses!2ses!4v1787304434915!5m2!1ses!2ses"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3034.887646455692!2d0.4732528758982104!3d40.477750551923364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a051d088041ce7%3A0x51ed0928023349d6!2sMantenimientos%20AJ!5e0!3m2!1ses!2ses!4v1788262524604!5m2!1ses!2ses"
               width="100%"
               height="450"
-              allowfullscreen=""
+              allowFullScreen
               style={{ border: 0 }}
               loading="lazy"
-              referrerpolicy="strict-origin-when-cross-origin"
+              referrerPolicy="strict-origin-when-cross-origin"
             ></iframe>
           </Paper>
         </Container>

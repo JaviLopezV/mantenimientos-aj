@@ -1,7 +1,7 @@
 "use client";
 
+import { Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
-import { Typography } from "@mui/material";
 
 export default function ContactPage() {
   const t = useTranslations();

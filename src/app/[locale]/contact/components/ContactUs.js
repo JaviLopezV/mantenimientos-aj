@@ -1,7 +1,8 @@
 "use client";
 
+import { Container, Link, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
-import { Container, Typography, Box, Link } from "@mui/material";
+import { Box } from "@mui/material";
 
 import Spacer from "../../../../components/Spacer";
 import { company } from "../../../../config/company";
@@ -70,6 +71,7 @@ export default function MainContent() {
             <Typography variant="subtitle1" color="text.primary">
               📞 {t("phone")}
             </Typography>
+            <Typography variant="body1">{company.phone2}</Typography>
             <Typography variant="body1">{company.phone}</Typography>
             <Spacer size={1} />
 

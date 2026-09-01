@@ -1,14 +1,9 @@
 "use client";
 
+import { Container, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
-import {
-  Container,
-  Typography,
-  Paper,
-  useMediaQuery,
-  Box,
-} from "@mui/material";
+import { Paper, useMediaQuery, Box } from "@mui/material";
 import { styled, useTheme } from "@mui/material/styles";
 
 const StyledPaper = styled(Paper)(({ theme }) => ({

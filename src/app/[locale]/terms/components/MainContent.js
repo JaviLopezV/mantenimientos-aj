@@ -1,9 +1,10 @@
 "use client";
 
+import { Link as MuiLink, Typography } from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 
 import React from "react";
-import { Paper, Typography, Link as MuiLink } from "@mui/material";
+import { Paper } from "@mui/material";
 import Spacer from "../../../../components/Spacer";
 
 const MainContent = () => {

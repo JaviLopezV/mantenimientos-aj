@@ -1,18 +1,17 @@
 "use client";
 
+import Grid from "@mui/material/GridLegacy";
+import {
+  Alert,
+  Button,
+  Checkbox,
+  Link as MuiLink,
+  TextField,
+  Typography,
+} from "@jlopvil/mui-kit";
 import { useTranslations } from "next-intl";
 import React from "react";
-import {
-  Checkbox,
-  FormControlLabel,
-  Grid,
-  TextField,
-  Link as MuiLink,
-  Typography,
-  Button,
-  Alert,
-  Box,
-} from "@mui/material";
+import { FormControlLabel, Box } from "@mui/material";
 import Spacer from "../../../../components/Spacer";
 import { useLocale } from "next-intl";
 import { useRouter } from "next/navigation";

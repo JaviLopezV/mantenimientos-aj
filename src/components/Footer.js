@@ -1,16 +1,14 @@
 "use client";
 
-import React from "react";
+import Grid from "@mui/material/GridLegacy";
 import {
-  Box,
   Container,
-  Grid,
-  Typography,
-  Divider,
-  Link as MuiLink,
   IconButton,
-  CssBaseline,
-} from "@mui/material";
+  Link as MuiLink,
+  Typography,
+} from "@jlopvil/mui-kit";
+import React from "react";
+import { Box, Divider, CssBaseline } from "@mui/material";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import SupportAgentIcon from "@mui/icons-material/SupportAgent";
 import AccessTimeIcon from "@mui/icons-material/AccessTime";

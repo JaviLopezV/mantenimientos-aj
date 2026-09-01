@@ -1,7 +1,8 @@
 "use client";
 
+import { Typography } from "@jlopvil/mui-kit";
 import React, { useState } from "react";
-import { Fade, Box, Typography } from "@mui/material";
+import { Fade, Box } from "@mui/material";
 import MainContent from "./components/MainContent";
 
 import useQuoteLogic from "../../../hooks/useQuoteLogic";
