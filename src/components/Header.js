@@ -26,6 +26,7 @@ import { styled } from "@mui/material/styles";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseRoundedIcon from "@mui/icons-material/CloseRounded";
 import LanguageIcon from "@mui/icons-material/Language";
+import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
 
@@ -77,7 +78,8 @@ export default function AppAppBar({ currentLocale }) {
   const router = useRouter();
   const t = useTranslations();
 
-  const isActive = (path) => pathname === `/${currentLocale}${path}`;
+  const navHref = (path) => `/${currentLocale}${path === "/" ? "" : path}`;
+  const isActive = (path) => pathname === navHref(path);
 
   const navigate = (path) => {
     router.push(`/${currentLocale}${path}`);
@@ -167,7 +169,8 @@ export default function AppAppBar({ currentLocale }) {
                     open={popperOpen}
                     anchorEl={anchorEl}
                     placement="bottom-start"
-                    disablePortal={false}
+                    keepMounted
+                    disablePortal
                     modifiers={[
                       {
                         name: "offset",
@@ -193,9 +196,10 @@ export default function AppAppBar({ currentLocale }) {
                       {item.children.map((child) => (
                         <MenuItem
                           key={child.path}
+                          component={Link}
+                          href={navHref(child.path)}
                           selected={isActive(child.path)}
                           onClick={() => {
-                            navigate(child.path);
                             setPopperOpen(false);
                             setAnchorEl(null);
                           }}
@@ -214,7 +218,8 @@ export default function AppAppBar({ currentLocale }) {
               ) : (
                 <NavButton
                   key={item.path}
-                  onClick={() => navigate(item.path)}
+                  component={Link}
+                  href={navHref(item.path)}
                   sx={{
                     px: 0,
                     color: "white",
@@ -320,9 +325,10 @@ export default function AppAppBar({ currentLocale }) {
                     item.children.map((child) => (
                       <MenuItem
                         key={child.path}
+                        component={Link}
+                        href={navHref(child.path)}
                         selected={isActive(child.path)}
                         onClick={() => {
-                          navigate(child.path);
                           setDrawerOpen(false);
                         }}
                         sx={{
@@ -337,9 +343,10 @@ export default function AppAppBar({ currentLocale }) {
                   ) : (
                     <MenuItem
                       key={item.path}
+                      component={Link}
+                      href={navHref(item.path)}
                       selected={isActive(item.path)}
                       onClick={() => {
-                        navigate(item.path);
                         setDrawerOpen(false);
                       }}
                       sx={{

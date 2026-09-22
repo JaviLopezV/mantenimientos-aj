@@ -17,15 +17,11 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 // import YouTubeIcon from "@mui/icons-material/YouTube";
 import WhatsAppButton from "./Whatsapp";
 import { useTranslations } from "next-intl";
-import { useRouter } from "next/navigation";
+import Link from "next/link";
 import { company } from "../config/company";
 
 const FooterInfo = ({ currentLocale }) => {
   const t = useTranslations();
-  const router = useRouter();
-  const navigate = (path) => {
-    router.push(`/${currentLocale}${path}`);
-  };
 
   return (
     <Box
@@ -215,7 +211,8 @@ const FooterInfo = ({ currentLocale }) => {
               sx={{ color: "white" }}
               color="text.secondary"
               variant="body2"
-              onClick={() => navigate("/privacy-policy")}
+              component={Link}
+              href={`/${currentLocale}/privacy-policy`}
             >
               {t("privacy_policy_title")}
             </MuiLink>
@@ -226,7 +223,8 @@ const FooterInfo = ({ currentLocale }) => {
               sx={{ color: "white" }}
               color="text.secondary"
               variant="body2"
-              onClick={() => navigate("/terms")}
+              component={Link}
+              href={`/${currentLocale}/terms`}
             >
               {t("terms.title")}
             </MuiLink>

@@ -48,7 +48,7 @@ export default function AboutSection() {
             <Box
               component="img"
               src="/images/company-face.jpg"
-              // alt={t("aboutImageAlt", "Equipo contra incendios")}
+              alt="Mantenimientos AJ"
               sx={{
                 width: "100%",
                 height: "auto",

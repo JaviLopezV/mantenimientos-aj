@@ -1,12 +1,12 @@
 {
   "Seo": {
     "home": {
-      "title": "Mantenimientos AJ - Protección contra incendios",
-      "description": "Expertos en extintores, mantenimiento y soluciones profesionales de seguridad contra incendios."
+      "title": "Extintores y protección contra incendios | Mantenimientos AJ",
+      "description": "Instalación y mantenimiento de extintores y sistemas contra incendios en la Comunidad Valenciana. Mantenimientos AJ en Vinaròs y Sant Jordi. Pide presupuesto."
     },
     "contact": {
       "title": "Contáctanos | Mantenimientos AJ",
-      "description": "Contáctanos para cualquier consulta o servicio relacionado con la protección contra incendios."
+      "description": "Contacta con Mantenimientos AJ en Vinaròs y Sant Jordi, Castellón. Consulta nuestros servicios de protección contra incendios e inspección de baja tensión."
     },
     "products": {
       "title": "Productos | Mantenimientos AJ",
@@ -18,7 +18,7 @@
     },
     "quote": {
       "title": "Solicita un presupuesto | Mantenimientos AJ",
-      "description": "Solicita un presupuesto personalizado para nuestros productos y servicios."
+      "description": "Pide presupuesto para instalación y mantenimiento de sistemas contra incendios o inspección de baja tensión. Cuéntanos las necesidades de tu instalación."
     },
     "terms": {
       "title": "Términos y condiciones | Mantenimientos AJ",
@@ -30,11 +30,11 @@
     },
     "lowVoltage": {
       "title": "Baja tensión | Mantenimientos AJ",
-      "description": "Inspecciones e instalaciones de baja tensión certificadas."
+      "description": "Inspección de instalaciones eléctricas de baja tensión en la Comunidad Valenciana. Revisión de cuadros, cableado y puesta a tierra. Solicita una inspección."
     },
     "maintenanceFireSystems": {
       "title": "Mantenimiento de sistemas contra incendios | Mantenimientos AJ",
-      "description": "Servicios profesionales de mantenimiento de sistemas contra incendios."
+      "description": "Instalación y mantenimiento de sistemas contra incendios en la Comunidad Valenciana: detección, extinción, BIE y señalización. Solicita tu presupuesto."
     },
 
     "keywords": {

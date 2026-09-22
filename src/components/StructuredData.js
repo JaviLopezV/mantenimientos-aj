@@ -1,10 +1,23 @@
+import { company } from "@/config/company";
+import { siteUrl } from "@/config/seo";
+
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
+  "@id": `${siteUrl}/#business`,
   name: "Mantenimientos AJ",
-  url: "https://mantenimientos-aj.vercel.app",
-  email: "info@c-azahar.com",
-  telephone: "+34 964 848 711",
+  image: `${siteUrl}/logo.jpg`,
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "C. del Cid, 16",
+    addressLocality: "Vinaròs",
+    addressRegion: "Castellón",
+    postalCode: "12500",
+    addressCountry: "ES",
+  },
+  url: siteUrl,
+  email: company.email,
+  telephone: company.phone,
   areaServed: ["Vinaros", "Sant Jordi", "Madrid", "Barcelona"],
 };
 

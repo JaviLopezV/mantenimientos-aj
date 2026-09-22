@@ -1,3 +1,6 @@
+import "./globals.css";
+import { notFound } from "next/navigation";
+import { locales } from "@/config/seo";
 import LocaleProvider from "./LocaleProvider";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
@@ -5,13 +8,7 @@ import InstallPrompt from "../../components/InstallPrompt";
 import StructuredData from "../../components/StructuredData";
 
 export async function generateStaticParams() {
-  return [
-    { locale: "en" },
-    { locale: "es" },
-    { locale: "ca" },
-    { locale: "de" },
-    { locale: "fr" },
-  ];
+  return locales.map((locale) => ({ locale }));
 }
 
 export const metadata = {
@@ -20,6 +17,7 @@ export const metadata = {
     default: "Mantenimientos AJ",
     template: "%s | Mantenimientos AJ",
   },
+  manifest: "/manifest.json",
   icons: {
     icon: "/extintor.png",
   },
@@ -28,22 +26,27 @@ export const metadata = {
   },
 };
 
+export const viewport = { themeColor: "#d32f2f" };
+
 export default async function LocaleLayout({ children, params }) {
   const { locale } = await params;
+  if (!locales.includes(locale)) notFound();
   const messages = (
     await import(`../../../public/locales/${locale}/common.json`)
   ).default;
 
   return (
-    <>
-      <StructuredData />
+    <html lang={locale}>
+      <body>
+          <StructuredData />
 
-      <LocaleProvider locale={locale} messages={messages}>
-        <Header currentLocale={locale} />
-        <InstallPrompt />
-        {children}
-        <Footer currentLocale={locale} />
-      </LocaleProvider>
-    </>
+          <LocaleProvider locale={locale} messages={messages}>
+            <Header currentLocale={locale} />
+            <InstallPrompt />
+            {children}
+            <Footer currentLocale={locale} />
+          </LocaleProvider>
+      </body>
+    </html>
   );
 }
